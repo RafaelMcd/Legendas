@@ -1,18 +1,18 @@
-1
+1 
 00:00:05,039 --> 00:00:06,446
 <i>Quanto custam as mentiras?</i>
 
 2
 00:00:09,930 --> 00:00:11,355
-<i>Quem È o culpado?</i>
+<i>Quem √© o culpado?</i>
 
 3
 00:00:15,639 --> 00:00:17,022
-<i>N„o importa.</i>
+<i>N√£o importa.</i>
 
 4
 00:00:17,605 --> 00:00:19,064
-<i>N„o parece certo.</i>
+<i>N√£o parece certo.</i>
 
 5
 00:00:21,680 --> 00:00:23,105
@@ -20,17 +20,17 @@
 
 6
 00:00:23,730 --> 00:00:25,897
-<i>Acho que h·
-grafite no ch„o.</i>
+<i>Acho que h√°
+grafite no ch√£o.</i>
 
 7
 00:00:26,122 --> 00:00:27,563
-VocÍ n„o viu grafite.
+Voc√™ n√£o viu grafite.
 
 8
 00:00:28,188 --> 00:00:31,772
-<i>N„o viu!
-Porque n„o tem l·!</i>
+<i>N√£o viu!
+Porque n√£o tem l√°!</i>
 
 9
 00:00:33,772 --> 00:00:35,172
@@ -38,18 +38,18 @@ Vamos isolar a cidade.
 
 10
 00:00:35,173 --> 00:00:37,772
-Contenham a disseminaÁ„o
-de falsas informaÁıes.
+Contenham a dissemina√ß√£o
+de falsas informa√ß√µes.
 
 11
 00:00:49,372 --> 00:00:51,822
-<i>O Secret·rio Geral Gorbachev
-nomeou uma comiss„o</i>
+<i>O Secret√°rio Geral Gorbachev
+nomeou uma comiss√£o</i>
 
 12
 00:00:51,823 --> 00:00:54,146
 <i>para gerenciar o acidente.
-VocÍ vai participar.</i>
+Voc√™ vai participar.</i>
 
 13
 00:01:27,615 --> 00:01:30,115
@@ -68,16 +68,16 @@ HBO | drcaio</b>
 
 16
 00:01:35,118 --> 00:01:37,618
-<b>Revis„o e Ressync:
-OnlyHPJ | Panda≤</b>
+<b>Revis√£o e Ressync:
+OnlyHPJ | Panda¬≤</b>
 
 17
 00:01:39,475 --> 00:01:44,475
-<i>Provavelmente, a P·tria</i>
+<i>Provavelmente, a P√°tria</i>
 
 18
 00:01:45,325 --> 00:01:47,425
-<i>n„o È um edifÌcio
+<i>n√£o √© um edif√≠cio
 de apartamentos,</i>
 
 19
@@ -106,22 +106,22 @@ DE ENERGIA NUCLEAR, MINSK
 24
 00:02:02,343 --> 00:02:04,541
 <i>Segundo
-as tradiÁıes russas,</i>
+as tradi√ß√µes russas,</i>
 
 25
 00:02:04,708 --> 00:02:09,129
 <i>deixando apenas solo russo
-queimado para tr·s,</i>
+queimado para tr√°s,</i>
 
 26
 00:02:10,172 --> 00:02:13,592
 <i>os nossos amigos morreram
-nos nossos braÁos,</i>
+nos nossos bra√ßos,</i>
 
 27
 00:02:13,593 --> 00:02:15,951
 8H30, 26 DE ABRIL
-SETE HORAS AP”S A EXPLOS√O
+SETE HORAS AP√ìS A EXPLOS√ÉO
 
 28
 00:02:15,952 --> 00:02:18,555
@@ -129,8 +129,8 @@ SETE HORAS AP”S A EXPLOS√O
 
 29
 00:02:20,224 --> 00:02:23,519
-<i>As balas destinadas a nÛs
-ainda n„o foram disparadas,</i>
+<i>As balas destinadas a n√≥s
+ainda n√£o foram disparadas,</i>
 
 30
 00:02:24,561 --> 00:02:28,357
@@ -147,27 +147,27 @@ pela minha adorada terra,</i>
 
 33
 00:02:39,567 --> 00:02:40,967
-VocÍ trabalha demais.
+Voc√™ trabalha demais.
 
 34
 00:02:42,818 --> 00:02:44,274
-Onde est„o todos?
+Onde est√£o todos?
 
 35
 00:02:44,275 --> 00:02:45,984
-N„o quiseram vir trabalhar.
+N√£o quiseram vir trabalhar.
 
 36
 00:02:47,159 --> 00:02:48,566
-Por quÍ?
+Por qu√™?
 
 37
 00:02:48,567 --> 00:02:49,967
-Hoje È s·bado.
+Hoje √© s√°bado.
 
 38
 00:02:52,743 --> 00:02:54,190
-Por que vocÍ veio?
+Por que voc√™ veio?
 
 39
 00:02:54,191 --> 00:02:55,591
@@ -175,7 +175,7 @@ Eu trabalho demais.
 
 40
 00:02:56,191 --> 00:02:57,591
-Est· quente aqui dentro.
+Est√° quente aqui dentro.
 
 41
 00:03:12,191 --> 00:03:14,483
@@ -184,12 +184,12 @@ Vazamento?
 
 42
 00:03:14,484 --> 00:03:15,884
-N„o.
+N√£o.
 
 43
 00:03:17,068 --> 00:03:19,442
 Teria disparado antes.
-Est· vindo de fora.
+Est√° vindo de fora.
 
 44
 00:03:20,191 --> 00:03:21,591
@@ -201,21 +201,21 @@ Iodo 131.
 
 46
 00:04:04,609 --> 00:04:07,567
-N„o È militar.
-… ur‚nio empobrecido U-235.
+N√£o √© militar.
+√â ur√¢nio empobrecido U-235.
 
 47
 00:04:08,191 --> 00:04:09,591
-CombustÌvel de reator.
+Combust√≠vel de reator.
 
 48
 00:04:12,651 --> 00:04:15,359
 Ignalina, talvez?
-Est· a 240km.
+Est√° a 240km.
 
 49
 00:04:25,191 --> 00:04:28,192
-Aqui È Ulana Khomyuk,
+Aqui √© Ulana Khomyuk,
 do Instituto de Energia...
 
 50
@@ -228,36 +228,36 @@ Fique calmo.
 
 52
 00:04:36,544 --> 00:04:39,274
-<i>N„o me diga pra ficar calmo.
+<i>N√£o me diga pra ficar calmo.
 Quero evacuar a usina.</i>
 
 53
 00:04:39,275 --> 00:04:42,031
-<i>Moscou diz que n„o podemos
-e vocÍ liga agora?</i>
+<i>Moscou diz que n√£o podemos
+e voc√™ liga agora?</i>
 
 54
 00:04:42,526 --> 00:04:44,376
-Eles est„o em quatro.
-N„o È deles.
+Eles est√£o em quatro.
+N√£o √© deles.
 
 55
 00:04:44,943 --> 00:04:47,984
-- Qual È a outra mais prÛxima?
-- Chernobyl, mas È impossÌvel.
+- Qual √© a outra mais pr√≥xima?
+- Chernobyl, mas √© imposs√≠vel.
 
 56
 00:04:47,985 --> 00:04:49,525
-Est· a 400km daqui.
+Est√° a 400km daqui.
 
 57
 00:04:49,526 --> 00:04:51,650
-… muito longe
+√â muito longe
 para oito miliroentgen.
 
 58
 00:04:51,651 --> 00:04:53,191
-Teria que estar destruÌda.
+Teria que estar destru√≠da.
 
 59
 00:04:53,526 --> 00:04:55,191
@@ -266,11 +266,11 @@ Talvez eles saibam de algo.
 60
 00:05:03,359 --> 00:05:05,484
 - Iodo.
-- E um depÛsito de lixo tÛxico?
+- E um dep√≥sito de lixo t√≥xico?
 
 61
 00:05:07,191 --> 00:05:08,984
-NÛs verÌamos outros isÛtopos.
+N√≥s ver√≠amos outros is√≥topos.
 
 62
 00:05:09,693 --> 00:05:11,191
@@ -279,7 +279,7 @@ Teste nuclear?
 63
 00:05:12,442 --> 00:05:14,194
 - Uma nova bomba?
-- NÛs saberÌamos.
+- N√≥s saber√≠amos.
 
 64
 00:05:14,195 --> 00:05:15,651
@@ -292,11 +292,11 @@ do programa espacial.
 
 66
 00:05:20,693 --> 00:05:22,191
-Um satÈlite ou...
+Um sat√©lite ou...
 
 67
 00:05:24,442 --> 00:05:25,859
-NinguÈm atende.
+Ningu√©m atende.
 
 68
 00:05:46,968 --> 00:05:48,400
@@ -304,17 +304,17 @@ Intravenoso em todos.
 
 69
 00:05:48,401 --> 00:05:50,525
-- N„o temos o suficiente.
-- Nas crianÁas.
+- N√£o temos o suficiente.
+- Nas crian√ßas.
 
 70
 00:05:50,526 --> 00:05:52,651
-- N„o temos!
+- N√£o temos!
 - Em quantas puder!
 
 71
 00:05:52,652 --> 00:05:54,125
-Onde est· o velho?
+Onde est√° o velho?
 
 72
 00:05:54,126 --> 00:05:55,941
@@ -323,25 +323,25 @@ no 16.
 
 73
 00:06:10,526 --> 00:06:12,067
-O que È isso?
+O que √© isso?
 
 74
 00:06:12,068 --> 00:06:14,358
-- … leite.
-- … muito melhor do que ·gua.
+- √â leite.
+- √â muito melhor do que √°gua.
 
 75
 00:06:14,359 --> 00:06:16,608
 - Pare com isso. Pare!
-- O que est· fazendo?
+- O que est√° fazendo?
 
 76
 00:06:16,609 --> 00:06:18,318
-S„o queimaduras de radiaÁ„o.
+S√£o queimaduras de radia√ß√£o.
 
 77
 00:06:18,319 --> 00:06:20,026
-As roupas est„o contaminadas.
+As roupas est√£o contaminadas.
 
 78
 00:06:20,693 --> 00:06:22,093
@@ -353,7 +353,7 @@ Tire tudo.
 
 80
 00:06:26,191 --> 00:06:27,818
-Vamos levar para o por„o.
+Vamos levar para o por√£o.
 
 81
 00:06:31,151 --> 00:06:32,671
@@ -371,7 +371,7 @@ Peguem-no!
 
 84
 00:06:44,359 --> 00:06:46,191
-Por que n„o nos deixam
+Por que n√£o nos deixam
 entrar?
 
 85
@@ -380,22 +380,22 @@ Professor Legasov?
 
 86
 00:07:44,801 --> 00:07:46,274
-Ainda n„o.
+Ainda n√£o.
 
 87
 00:07:46,275 --> 00:07:48,900
-Est„o terminando.
+Est√£o terminando.
 Vai demorar mais uns minutos.
 
 88
 00:07:48,901 --> 00:07:51,566
-- Gostaria de um ch·?
-- N„o, obrigado.
+- Gostaria de um ch√°?
+- N√£o, obrigado.
 
 89
 00:07:51,567 --> 00:07:54,190
-Quer ler o relatÛrio
-do secret·rio Shcherbina
+Quer ler o relat√≥rio
+do secret√°rio Shcherbina
 
 90
 00:07:54,191 --> 00:07:56,091
@@ -405,7 +405,7 @@ do secret·rio Shcherbina
 91
 00:08:55,776 --> 00:08:57,359
 Professor,
-est„o aguardando.
+est√£o aguardando.
 
 92
 00:08:58,910 --> 00:09:00,510
@@ -417,41 +417,41 @@ Tem o meu apoio.
 
 94
 00:09:34,651 --> 00:09:36,900
-Obrigado pela dedicaÁ„o
-a esta comiss„o.
+Obrigado pela dedica√ß√£o
+a esta comiss√£o.
 
 95
 00:09:36,901 --> 00:09:39,900
-ComeÁaremos pelo relatÛrio
-do secret·rio Shcherbina.
+Come√ßaremos pelo relat√≥rio
+do secret√°rio Shcherbina.
 
 96
 00:09:39,901 --> 00:09:42,208
 E depois discutiremos
-os prÛximos passos,
+os pr√≥ximos passos,
 
 97
 00:09:42,209 --> 00:09:43,650
-se necess·rio.
+se necess√°rio.
 
 98
 00:09:43,651 --> 00:09:45,692
 Obrigado,
-camarada secret·rio-geral.
+camarada secret√°rio-geral.
 
 99
 00:09:45,693 --> 00:09:48,593
 Tenho o prazer de informar
-que a situaÁ„o em Chernobyl
+que a situa√ß√£o em Chernobyl
 
 100
 00:09:48,594 --> 00:09:49,994
-È est·vel.
+√© est√°vel.
 
 101
 00:09:49,995 --> 00:09:53,190
 As patrulhas militar e civil
-est„o protegendo a regi„o.
+est√£o protegendo a regi√£o.
 
 102
 00:09:53,191 --> 00:09:55,190
@@ -459,48 +459,48 @@ O coronel general Pikalov,
 
 103
 00:09:55,191 --> 00:09:57,233
-comandante das forÁas
+comandante das for√ßas
 especializadas
 
 104
 00:09:57,234 --> 00:10:00,274
-em subst‚ncias quÌmicas
-nocivas foi enviado ‡ usina.
+em subst√¢ncias qu√≠micas
+nocivas foi enviado √† usina.
 
 105
 00:10:00,275 --> 00:10:03,193
-Em termos de radiaÁ„o,
+Em termos de radia√ß√£o,
 o diretor da usina, Bryukhanov,
 
 106
 00:10:03,194 --> 00:10:06,233
-relata n„o mais
+relata n√£o mais
 do que 3,6 Roentgen.
 
 107
 00:10:06,234 --> 00:10:08,942
-Me disseram que È equivalente
+Me disseram que √© equivalente
 a um raio X.
 
 108
 00:10:08,943 --> 00:10:12,190
-Ent„o, se alguÈm precisar
+Ent√£o, se algu√©m precisar
 de um check-up...
 
 109
 00:10:12,191 --> 00:10:14,650
 - E a imprensa internacional?
-- N„o sabe de nada.
+- N√£o sabe de nada.
 
 110
 00:10:14,651 --> 00:10:17,190
-O primeiro secret·rio-adjunto
+O primeiro secret√°rio-adjunto
 da KGB, Charkov,
 
 111
 00:10:17,191 --> 00:10:20,400
 assegura que nossos interesses
-de seguranÁa est„o protegidos.
+de seguran√ßa est√£o protegidos.
 
 112
 00:10:20,401 --> 00:10:23,067
@@ -509,29 +509,29 @@ Muito bom.
 
 113
 00:10:23,068 --> 00:10:25,191
-Parece que tudo est·
+Parece que tudo est√°
 sob controle.
 
 114
 00:10:26,901 --> 00:10:29,901
-Se n„o houver mais nada,
-reuni„o encerrada.
+Se n√£o houver mais nada,
+reuni√£o encerrada.
 
 115
 00:10:30,609 --> 00:10:32,009
-N„o!
+N√£o!
 
 116
 00:10:34,534 --> 00:10:36,134
-Perd„o?
+Perd√£o?
 
 117
 00:10:37,234 --> 00:10:38,650
-N„o podemos encerrar.
+N√£o podemos encerrar.
 
 118
 00:10:38,651 --> 00:10:41,483
-Este È o professor Legasov,
+Este √© o professor Legasov,
 do Instituto Kurchatov.
 
 119
@@ -541,28 +541,28 @@ problema, fale comigo depois.
 
 120
 00:10:45,191 --> 00:10:48,317
-N„o posso.
+N√£o posso.
 Desculpe, me desculpe.
 
 121
 00:10:49,191 --> 00:10:52,192
-P·gina trÍs, na seÁ„o
-sobre vÌtimas...
+P√°gina tr√™s, na se√ß√£o
+sobre v√≠timas...
 
 122
 00:10:53,359 --> 00:10:56,191
 "Um bombeiro sofreu graves
-queimaduras na m„o
+queimaduras na m√£o
 
 123
 00:10:56,192 --> 00:10:59,191
-devido a um pedaÁo de mineral
-liso e preto no ch„o
+devido a um peda√ßo de mineral
+liso e preto no ch√£o
 
 124
 00:10:59,192 --> 00:11:01,733
 do lado de fora,
-prÛximo ao prÈdio do reator."
+pr√≥ximo ao pr√©dio do reator."
 
 125
 00:11:01,734 --> 00:11:03,339
@@ -571,81 +571,81 @@ Mineral liso e preto.
 126
 00:11:03,340 --> 00:11:04,943
 Grafite.
-Tem grafite no ch„o.
+Tem grafite no ch√£o.
 
 127
 00:11:08,234 --> 00:11:11,566
 Um tanque explodiu.
-H· detritos.
+H√° detritos.
 
 128
 00:11:11,567 --> 00:11:13,193
-Que import‚ncia teria isso...
+Que import√¢ncia teria isso...
 
 129
 00:11:13,194 --> 00:11:16,566
-SÛ h· um lugar na usina inteira
+S√≥ h√° um lugar na usina inteira
 onde se encontra grafite.
 
 130
 00:11:16,567 --> 00:11:19,441
-Dentro do n˙cleo.
-Se h· grafite no ch„o de fora,
+Dentro do n√∫cleo.
+Se h√° grafite no ch√£o de fora,
 
 131
 00:11:19,442 --> 00:11:21,733
-n„o foi o tanque
+n√£o foi o tanque
 do sistema que explodiu.
 
 132
 00:11:21,734 --> 00:11:24,234
-Foi o n˙cleo do reator.
-Ele est· exposto!
+Foi o n√∫cleo do reator.
+Ele est√° exposto!
 
 133
 00:11:29,084 --> 00:11:31,634
 - Camarada Shcherbina?
-- Camarada secret·rio-geral,
+- Camarada secret√°rio-geral,
 
 134
 00:11:31,635 --> 00:11:34,193
 eu asseguro que o professor
-Legasov est· errado.
+Legasov est√° errado.
 
 135
 00:11:34,194 --> 00:11:37,190
-Bryukhanov disse que o n˙cleo
-do reator est· intacto.
+Bryukhanov disse que o n√∫cleo
+do reator est√° intacto.
 
 136
 00:11:37,191 --> 00:11:39,358
-- Quanto ‡ radiaÁ„o...
+- Quanto √† radia√ß√£o...
 - Sim, 3,6 Roentgen,
 
 137
 00:11:39,359 --> 00:11:44,065
-que a propÛsito n„o equivale
+que a prop√≥sito n√£o equivale
 a um raio X, mas 400 raios X.
 
 138
 00:11:44,066 --> 00:11:46,983
-Esse n˙mero me incomoda
+Esse n√∫mero me incomoda
 por outro motivo.
 
 139
 00:11:46,984 --> 00:11:50,483
-Essa È a leitura m·xima
-em dosÌmetros de baixo limite.
+Essa √© a leitura m√°xima
+em dos√≠metros de baixo limite.
 
 140
 00:11:50,484 --> 00:11:52,776
-Eles nos deram o n˙mero
+Eles nos deram o n√∫mero
 que tinham.
 
 141
 00:11:53,359 --> 00:11:56,191
-Acho que o n˙mero real
-È muito mais alto.
+Acho que o n√∫mero real
+√© muito mais alto.
 
 142
 00:11:56,192 --> 00:11:59,193
@@ -654,27 +654,27 @@ o bombeiro segurou o equivalente
 
 143
 00:11:59,194 --> 00:12:01,441
-a quatro milhıes
-de raios-x na m„o!
+a quatro milh√µes
+de raios-x na m√£o!
 
 144
 00:12:01,442 --> 00:12:03,983
-Professor, n„o È hora
+Professor, n√£o √© hora
 de histeria alarmista.
 
 145
 00:12:03,984 --> 00:12:05,650
-N„o È alarmista,
+N√£o √© alarmista,
 se for um fato!
 
 146
 00:12:05,651 --> 00:12:08,110
-N„o estou vendo fato algum.
+N√£o estou vendo fato algum.
 
 147
 00:12:09,068 --> 00:12:11,692
-SÛ estou vendo um homem
-que eu n„o conheÁo,
+S√≥ estou vendo um homem
+que eu n√£o conhe√ßo,
 
 148
 00:12:11,693 --> 00:12:14,726
@@ -688,16 +688,16 @@ pelos oficiais do partido.
 
 150
 00:12:18,234 --> 00:12:19,634
-PeÁo perd„o.
+Pe√ßo perd√£o.
 
 151
 00:12:20,275 --> 00:12:21,734
-Eu n„o quis...
+Eu n√£o quis...
 
 152
 00:12:23,192 --> 00:12:26,692
 Por favor, posso expressar
-minhas preocupaÁıes
+minhas preocupa√ß√µes
 
 153
 00:12:26,693 --> 00:12:30,441
@@ -711,7 +711,7 @@ e respeitoso...
 
 155
 00:12:33,943 --> 00:12:35,343
-Eu dou permiss„o.
+Eu dou permiss√£o.
 
 156
 00:12:48,191 --> 00:12:49,859
@@ -719,17 +719,17 @@ Um reator RBMK
 
 157
 00:12:50,901 --> 00:12:54,734
-usa ur‚nio 235
-como combustÌvel.
+usa ur√¢nio 235
+como combust√≠vel.
 
 158
 00:12:55,609 --> 00:13:00,026
-Todo ·tomo de U-235
-È como uma bala
+Todo √°tomo de U-235
+√© como uma bala
 
 159
 00:13:00,359 --> 00:13:05,190
-viajando ‡ velocidade da luz
+viajando √† velocidade da luz
 penetrando tudo em seu caminho,
 
 160
@@ -740,12 +740,12 @@ concreto, carne.
 161
 00:13:08,234 --> 00:13:11,525
 Cada grama
-de U-235 contÈm
+de U-235 cont√©m
 
 162
 00:13:11,526 --> 00:13:14,692
-mais de um bilh„o
-de trilhıes destas balas.
+mais de um bilh√£o
+de trilh√µes destas balas.
 
 163
 00:13:14,693 --> 00:13:16,190
@@ -754,17 +754,17 @@ Isso em um grama.
 164
 00:13:16,191 --> 00:13:19,233
 Chernobyl tem mais
-de trÍs milhıes de gramas.
+de tr√™s milh√µes de gramas.
 
 165
 00:13:19,234 --> 00:13:21,191
 E neste momento
-est· em chamas.
+est√° em chamas.
 
 166
 00:13:22,191 --> 00:13:25,067
-O vento carregar·
-partÌculas radioativas
+O vento carregar√°
+part√≠culas radioativas
 
 167
 00:13:25,068 --> 00:13:26,817
@@ -772,13 +772,13 @@ por todo o continente.
 
 168
 00:13:26,818 --> 00:13:28,983
-A chuva far·
-com que caiam sobre nÛs.
+A chuva far√°
+com que caiam sobre n√≥s.
 
 169
 00:13:28,984 --> 00:13:32,442
-Ou seja, trÍs milhıes de bilhıes
-de trilhıes de balas no...
+Ou seja, tr√™s milh√µes de bilh√µes
+de trilh√µes de balas no...
 
 170
 00:13:33,317 --> 00:13:35,817
@@ -786,13 +786,13 @@ no ar que respiramos,
 
 171
 00:13:35,818 --> 00:13:38,234
-na ·gua que bebemos,
+na √°gua que bebemos,
 na comida que comemos.
 
 172
 00:13:40,651 --> 00:13:43,316
 A maioria dessas balas
-continuar· sendo disparada
+continuar√° sendo disparada
 
 173
 00:13:43,317 --> 00:13:44,942
@@ -804,12 +804,12 @@ Algumas por 50 mil anos.
 
 175
 00:13:48,651 --> 00:13:51,151
-Sim, e essa preocupaÁ„o
+Sim, e essa preocupa√ß√£o
 
 176
 00:13:52,110 --> 00:13:55,984
 vem inteiramente
-da descriÁ„o de uma rocha?
+da descri√ß√£o de uma rocha?
 
 177
 00:14:00,609 --> 00:14:02,009
@@ -821,11 +821,11 @@ Camarada Shcherbina,
 
 179
 00:14:11,234 --> 00:14:13,191
-quero que v· atÈ Chernobyl.
+quero que v√° at√© Chernobyl.
 
 180
 00:14:13,901 --> 00:14:16,150
-DÍ uma olhada no reator
+D√™ uma olhada no reator
 pessoalmente
 
 181
@@ -834,18 +834,18 @@ e me informe diretamente.
 
 182
 00:14:18,152 --> 00:14:20,402
-S·bia decis„o,
-camarada secret·rio-geral.
+S√°bia decis√£o,
+camarada secret√°rio-geral.
 
 183
 00:14:20,403 --> 00:14:22,191
 Leve o professor Legasov
-com vocÍ.
+com voc√™.
 
 184
 00:14:25,693 --> 00:14:28,274
-Perd„o, camarada
-secret·rio-geral...
+Perd√£o, camarada
+secret√°rio-geral...
 
 185
 00:14:28,275 --> 00:14:30,818
@@ -854,17 +854,17 @@ nuclear funciona?
 
 186
 00:14:32,776 --> 00:14:34,194
-- N„o.
-- N„o.
+- N√£o.
+- N√£o.
 
 187
 00:14:34,195 --> 00:14:36,989
-Ent„o como identificar·
+Ent√£o como identificar√°
 o que estiver vendo?
 
 188
 00:14:38,151 --> 00:14:39,551
-Reuni„o encerrada.
+Reuni√£o encerrada.
 
 189
 00:15:38,351 --> 00:15:40,051
@@ -873,12 +873,12 @@ funciona?
 
 190
 00:15:40,052 --> 00:15:42,984
-- O quÍ?
-- … uma pergunta simples.
+- O qu√™?
+- √â uma pergunta simples.
 
 191
 00:15:44,359 --> 00:15:46,317
-A resposta n„o È simples.
+A resposta n√£o √© simples.
 
 192
 00:15:46,693 --> 00:15:49,901
@@ -897,7 +897,7 @@ nuclear funciona,
 195
 00:15:54,161 --> 00:15:56,859
 ou um dos soldados
-o jogar· deste helicÛptero.
+o jogar√° deste helic√≥ptero.
 
 196
 00:16:07,110 --> 00:16:10,442
@@ -912,7 +912,7 @@ que gera a eletricidade.
 198
 00:16:14,191 --> 00:16:18,234
 Uma usina de energia comum
-gera vapor queimando carv„o.
+gera vapor queimando carv√£o.
 
 199
 00:16:18,567 --> 00:16:20,191
@@ -924,24 +924,24 @@ Uma usina nuclear
 
 201
 00:16:28,068 --> 00:16:30,068
-usa uma coisa chamada fiss„o.
+usa uma coisa chamada fiss√£o.
 
 202
 00:16:31,192 --> 00:16:33,776
-Pegamos um elemento inst·vel,
+Pegamos um elemento inst√°vel,
 
 203
 00:16:33,777 --> 00:16:36,359
-como ur‚nio 235,
+como ur√¢nio 235,
 
 204
 00:16:36,859 --> 00:16:39,025
-que tem nÍutrons
+que tem n√™utrons
 em demasia.
 
 205
 00:16:39,026 --> 00:16:41,026
-- Um nÍutron È...
+- Um n√™utron √©...
 - A bala.
 
 206
@@ -950,28 +950,28 @@ Sim. A bala.
 
 207
 00:16:45,901 --> 00:16:48,901
-Ent„o, as balas est„o voando
-para fora do ur‚nio.
+Ent√£o, as balas est√£o voando
+para fora do ur√¢nio.
 
 208
 00:16:50,484 --> 00:16:54,693
-Se colocarmos ·tomos de ur‚nio
+Se colocarmos √°tomos de ur√¢nio
 suficientes juntos,
 
 209
 00:16:55,359 --> 00:16:59,151
-as balas de um ·tomo acabar„o
-batendo em outro ·tomo.
+as balas de um √°tomo acabar√£o
+batendo em outro √°tomo.
 
 210
 00:16:59,776 --> 00:17:02,942
-A forÁa desse impacto
-quebra esse ·tomo
+A for√ßa desse impacto
+quebra esse √°tomo
 
 211
 00:17:02,943 --> 00:17:06,316
 liberando uma quantidade
-enorme de energia: fiss„o.
+enorme de energia: fiss√£o.
 
 212
 00:17:06,317 --> 00:17:07,717
@@ -983,7 +983,7 @@ Sim.
 
 214
 00:17:09,442 --> 00:17:12,190
-Os nÍutrons se movem
+Os n√™utrons se movem
 muito rapidamente.
 
 215
@@ -992,13 +992,13 @@ Chamamos isso de "fluxo".
 
 216
 00:17:13,859 --> 00:17:17,526
-… bem improv·vel que os ·tomos
-de ur‚nio se choquem.
+√â bem improv√°vel que os √°tomos
+de ur√¢nio se choquem.
 
 217
 00:17:18,192 --> 00:17:21,858
 Nos reatores RBMK, revestimos
-as hastes de combustÌvel
+as hastes de combust√≠vel
 
 218
 00:17:21,859 --> 00:17:25,567
@@ -1007,25 +1007,25 @@ desacelerar,
 
 219
 00:17:25,984 --> 00:17:27,384
-o fluxo de nÍutrons.
+o fluxo de n√™utrons.
 
 220
 00:17:31,192 --> 00:17:32,592
-”timo.
+√ìtimo.
 
 221
 00:17:33,191 --> 00:17:35,567
-J· sei como funciona
+J√° sei como funciona
 um reator nuclear.
 
 222
 00:17:37,984 --> 00:17:39,567
-N„o preciso mais de vocÍ.
+N√£o preciso mais de voc√™.
 
 223
 00:17:59,359 --> 00:18:01,651
 - Preciso achar meu marido.
-- Agora n„o.
+- Agora n√£o.
 
 224
 00:18:06,776 --> 00:18:08,401
@@ -1057,22 +1057,22 @@ Por favor, leve-a!
 
 230
 00:18:27,191 --> 00:18:29,733
-Com licenÁa. Eu sou mulher
+Com licen√ßa. Eu sou mulher
 do Vasily Ignatenko.
 
 231
 00:18:29,734 --> 00:18:32,234
-Ele È bombeiro.
+Ele √© bombeiro.
 Ignatenko.
 
 232
 00:18:33,776 --> 00:18:36,983
 Ignatenko. Sexta Unidade
-Paramilitar, IncÍndio e Resgate.
+Paramilitar, Inc√™ndio e Resgate.
 
 233
 00:18:36,984 --> 00:18:39,110
-Preciso encontr·- lo.
+Preciso encontr√°- lo.
 Por favor.
 
 234
@@ -1081,26 +1081,26 @@ Ignatenko.
 
 235
 00:18:44,401 --> 00:18:47,190
-Est· sendo levado
-de helicÛptero para Moscou.
+Est√° sendo levado
+de helic√≥ptero para Moscou.
 
 236
 00:18:47,191 --> 00:18:48,775
-Hospital n˙mero seis.
+Hospital n√∫mero seis.
 
 237
 00:18:48,776 --> 00:18:51,025
-Por quÍ? Ele est· bem?
-Posso vÍ-lo?
+Por qu√™? Ele est√° bem?
+Posso v√™-lo?
 
 238
 00:18:51,026 --> 00:18:52,692
-Quer vÍ-lo?
-V· para Moscou.
+Quer v√™-lo?
+V√° para Moscou.
 
 239
 00:18:52,693 --> 00:18:54,442
-Mas n„o nos deixam
+Mas n√£o nos deixam
 sair daqui.
 
 240
@@ -1110,7 +1110,7 @@ permitiu.
 
 241
 00:19:01,484 --> 00:19:03,192
-Quando v„o lev·-lo?
+Quando v√£o lev√°-lo?
 
 242
 00:19:03,609 --> 00:19:05,009
@@ -1130,7 +1130,7 @@ Pode ver dentro?
 
 246
 00:19:47,859 --> 00:19:49,259
-N„o È preciso.
+N√£o √© preciso.
 
 247
 00:19:50,192 --> 00:19:52,484
@@ -1138,11 +1138,11 @@ Olhe, tem grafite no telhado.
 
 248
 00:19:53,068 --> 00:19:54,859
-O prÈdio inteiro explodiu.
+O pr√©dio inteiro explodiu.
 
 249
 00:19:55,191 --> 00:19:56,775
-O n˙cleo est· exposto.
+O n√∫cleo est√° exposto.
 
 250
 00:19:56,776 --> 00:19:59,818
@@ -1155,21 +1155,21 @@ Veja aquele brilho.
 
 252
 00:20:01,943 --> 00:20:04,441
-… a radiaÁ„o ionizando o ar.
+√â a radia√ß√£o ionizando o ar.
 
 253
 00:20:04,442 --> 00:20:06,441
-Se n„o pudermos ver,
-n„o saberemos.
+Se n√£o pudermos ver,
+n√£o saberemos.
 
 254
 00:20:06,442 --> 00:20:08,316
-- Sobrevoe o prÈdio!
+- Sobrevoe o pr√©dio!
 - Boris.
 
 255
 00:20:08,317 --> 00:20:10,692
-- N„o use meu nome!
+- N√£o use meu nome!
 - Se sobrevoarmos aquilo,
 
 256
@@ -1180,20 +1180,20 @@ Mortos!
 257
 00:20:14,609 --> 00:20:17,274
 - Senhor?
-- Sobrevoe o prÈdio!
+- Sobrevoe o pr√©dio!
 
 258
 00:20:17,275 --> 00:20:19,151
-Ou mandarei fuzil·-lo!
+Ou mandarei fuzil√°-lo!
 
 259
 00:20:22,859 --> 00:20:25,483
-Se vocÍ sobrevoar o n˙cleo
-garanto que amanh„
+Se voc√™ sobrevoar o n√∫cleo
+garanto que amanh√£
 
 260
 00:20:25,484 --> 00:20:27,234
-estar· implorando
+estar√° implorando
 para morrer!
 
 261
@@ -1207,7 +1207,7 @@ MINSK
 
 263
 00:21:15,401 --> 00:21:17,191
-E se vocÍ voltar outro dia?
+E se voc√™ voltar outro dia?
 
 264
 00:21:22,526 --> 00:21:24,191
@@ -1215,7 +1215,7 @@ Maravilhoso.
 
 265
 00:21:25,068 --> 00:21:26,776
-Secret·rio-adjunto Garanin.
+Secret√°rio-adjunto Garanin.
 
 266
 00:21:27,651 --> 00:21:31,566
@@ -1233,7 +1233,7 @@ Muito prazer.
 
 269
 00:21:38,026 --> 00:21:39,525
-Foi muito agrad·vel.
+Foi muito agrad√°vel.
 
 270
 00:21:39,526 --> 00:21:42,110
@@ -1242,22 +1242,22 @@ Foi muito agrad·vel.
 
 271
 00:21:55,151 --> 00:21:57,651
-… por isso que ninguÈm
+√â por isso que ningu√©m
 gosta de cientistas.
 
 272
 00:21:58,442 --> 00:22:01,067
-Quando h· uma doenÁa
-para curar, onde est„o?
+Quando h√° uma doen√ßa
+para curar, onde est√£o?
 
 273
 00:22:01,068 --> 00:22:04,567
-No laboratÛrio com o nariz
-nos livros. E a vovÛ morre.
+No laborat√≥rio com o nariz
+nos livros. E a vov√≥ morre.
 
 274
 00:22:04,892 --> 00:22:07,733
-Mas quando n„o h· problema,
+Mas quando n√£o h√° problema,
 ficam espalhando medo.
 
 275
@@ -1266,28 +1266,28 @@ Eu sei sobre Chernobyl.
 
 276
 00:22:10,191 --> 00:22:13,150
-Sei que o n˙cleo est· parcial
+Sei que o n√∫cleo est√° parcial
 ou completamente exposto.
 
 277
 00:22:13,151 --> 00:22:16,067
-- Seja l· o que significa isso.
-- E que se n„o distribuir
+- Seja l√° o que significa isso.
+- E que se n√£o distribuir
 
 278
 00:22:16,068 --> 00:22:18,274
-pÌlulas de iodo agora
+p√≠lulas de iodo agora
 e evacuar a cidade,
 
 279
 00:22:18,275 --> 00:22:21,190
 centenas de milhares
-de pessoas ter„o c‚ncer
+de pessoas ter√£o c√¢ncer
 
 280
 00:22:21,191 --> 00:22:23,191
-e sÛ Deus sabe
-quantas mais morrer„o.
+e s√≥ Deus sabe
+quantas mais morrer√£o.
 
 281
 00:22:23,609 --> 00:22:25,233
@@ -1301,34 +1301,34 @@ em Chernobyl,
 283
 00:22:27,317 --> 00:22:29,483
 mas me garantiram
-que n„o h· problema.
+que n√£o h√° problema.
 
 284
 00:22:29,484 --> 00:22:31,192
-Estou dizendo que h·.
+Estou dizendo que h√°.
 
 285
 00:22:31,567 --> 00:22:33,192
-Prefiro a minha opini„o
-‡ sua.
+Prefiro a minha opini√£o
+√† sua.
 
 286
 00:22:34,191 --> 00:22:35,776
-Eu sou fÌsica nuclear.
+Eu sou f√≠sica nuclear.
 
 287
 00:22:37,026 --> 00:22:39,797
-Antes de ser secret·rio,
+Antes de ser secret√°rio,
 o senhor trabalhava
 
 288
 00:22:39,798 --> 00:22:42,692
-- em uma f·brica de sapatos.
+- em uma f√°brica de sapatos.
 - Sim.
 
 289
 00:22:42,693 --> 00:22:44,234
-Em uma f·brica de sapatos.
+Em uma f√°brica de sapatos.
 
 290
 00:22:46,110 --> 00:22:47,567
@@ -1340,7 +1340,7 @@ Aos trabalhadores do mundo!
 
 292
 00:23:14,984 --> 00:23:16,566
-Iodo est·vel.
+Iodo est√°vel.
 
 293
 00:23:16,567 --> 00:23:20,110
@@ -1354,7 +1354,7 @@ enquanto ainda tiver.
 
 295
 00:23:24,191 --> 00:23:26,067
-V· para o leste.
+V√° para o leste.
 
 296
 00:23:26,068 --> 00:23:28,234
@@ -1364,7 +1364,7 @@ de Minsk que puder.
 297
 00:24:02,068 --> 00:24:04,483
 <i>Que exagero!</i>
-Pikalov est· se mostrando
+Pikalov est√° se mostrando
 
 298
 00:24:04,484 --> 00:24:06,130
@@ -1373,16 +1373,16 @@ incompetentes.
 
 299
 00:24:06,131 --> 00:24:07,776
-N„o importa o que pareÁa.
+N√£o importa o que pare√ßa.
 
 300
 00:24:08,526 --> 00:24:10,609
 Shcherbina
-È puro burocrata.
+√© puro burocrata.
 
 301
 00:24:11,026 --> 00:24:13,483
-T„o burro quando teimoso.
+T√£o burro quando teimoso.
 
 302
 00:24:13,484 --> 00:24:16,651
@@ -1401,7 +1401,7 @@ o engenheiro-chefe Fomin,
 305
 00:24:50,442 --> 00:24:53,693
 o coronel-general Pikalov e eu
-estamos honrados em recebÍ-lo.
+estamos honrados em receb√™-lo.
 
 306
 00:24:54,110 --> 00:24:55,608
@@ -1409,7 +1409,7 @@ Muito, muito honrados.
 
 307
 00:24:55,609 --> 00:24:58,442
-Lamentamos pelas circunst‚ncias
+Lamentamos pelas circunst√¢ncias
 da sua visita,
 
 308
@@ -1419,22 +1419,22 @@ estamos progredindo bem
 
 309
 00:25:00,652 --> 00:25:02,316
-na contenÁ„o de danos.
+na conten√ß√£o de danos.
 
 310
 00:25:02,317 --> 00:25:05,191
-ComeÁamos
-uma investigaÁ„o sobre
+Come√ßamos
+uma investiga√ß√£o sobre
 
 311
 00:25:06,026 --> 00:25:09,191
 a causa do acidente,
-e esta È a lista
+e esta √© a lista
 
 312
 00:25:09,734 --> 00:25:12,984
-dos indivÌduos que acreditamos
-sejam os respons·veis.
+dos indiv√≠duos que acreditamos
+sejam os respons√°veis.
 
 313
 00:25:35,651 --> 00:25:37,463
@@ -1451,13 +1451,13 @@ Muito perigosas.
 
 316
 00:25:41,234 --> 00:25:43,651
-Disse que o n˙cleo
+Disse que o n√∫cleo
 do reator explodiu.
 
 317
 00:25:44,192 --> 00:25:47,109
 Por favor,
-explique como o n˙cleo
+explique como o n√∫cleo
 
 318
 00:25:47,110 --> 00:25:48,510
@@ -1465,22 +1465,22 @@ de um reator RBMK explode?
 
 319
 00:25:50,401 --> 00:25:52,901
-N„o posso explicar
+N√£o posso explicar
 isso no momento.
 
 320
 00:25:53,234 --> 00:25:55,900
 Como eu imaginei.
-Ele n„o tem resposta.
+Ele n√£o tem resposta.
 
 321
 00:25:55,901 --> 00:25:58,191
-… mesmo vergonhoso.
+√â mesmo vergonhoso.
 Francamente!
 
 322
 00:25:59,026 --> 00:26:01,823
-Espalhar informaÁıes falsas
+Espalhar informa√ß√µes falsas
 em um momento como esse.
 
 323
@@ -1490,13 +1490,13 @@ no telhado?
 
 324
 00:26:11,442 --> 00:26:14,191
-Grafite sÛ È encontrado
-no n˙cleo onde È usado
+Grafite s√≥ √© encontrado
+no n√∫cleo onde √© usado
 
 325
 00:26:14,192 --> 00:26:16,441
 como moderador
-do fluxo de nÍutrons.
+do fluxo de n√™utrons.
 
 326
 00:26:16,442 --> 00:26:17,842
@@ -1509,7 +1509,7 @@ grafite no telhado?
 
 328
 00:26:23,484 --> 00:26:25,191
-N„o, n„o pode ser.
+N√£o, n√£o pode ser.
 
 329
 00:26:26,191 --> 00:26:28,983
@@ -1518,7 +1518,7 @@ me desculpe, mas grafite?
 
 330
 00:26:28,984 --> 00:26:30,384
-N„o È possÌvel.
+N√£o √© poss√≠vel.
 
 331
 00:26:30,385 --> 00:26:32,483
@@ -1527,11 +1527,11 @@ concreto queimado?
 
 332
 00:26:32,484 --> 00:26:34,441
-AÌ que vocÍ se engana.
+A√≠ que voc√™ se engana.
 
 333
 00:26:34,442 --> 00:26:37,191
-Posso n„o saber muito
+Posso n√£o saber muito
 sobre reatores nucleares,
 
 334
@@ -1546,8 +1546,8 @@ sobre concreto.
 
 336
 00:26:43,026 --> 00:26:45,191
-VocÍ diz que Legasov
-est· errado.
+Voc√™ diz que Legasov
+est√° errado.
 
 337
 00:26:45,567 --> 00:26:47,151
@@ -1555,17 +1555,17 @@ Como vamos provar?
 
 338
 00:26:49,026 --> 00:26:51,359
-Nosso dosÌmetro
+Nosso dos√≠metro
 de alto alcance chegou.
 
 339
 00:26:52,191 --> 00:26:55,110
-Podemos cobrir um dos caminhıes
+Podemos cobrir um dos caminh√µes
 com placas de chumbo,
 
 340
 00:26:55,526 --> 00:26:57,359
-e instalar o dosÌmetro
+e instalar o dos√≠metro
 na frente.
 
 341
@@ -1575,21 +1575,21 @@ o mais perto do fogo que puder.
 
 342
 00:27:06,943 --> 00:27:09,150
-DÍ-lhe
-o m·ximo de proteÁ„o,
+D√™-lhe
+o m√°ximo de prote√ß√£o,
 
 343
 00:27:09,151 --> 00:27:12,191
 mas entenda que mesmo o chumbo
-pode n„o ser suficiente.
+pode n√£o ser suficiente.
 
 344
 00:27:14,734 --> 00:27:16,234
-Ent„o eu mesmo irei.
+Ent√£o eu mesmo irei.
 
 345
 00:27:21,484 --> 00:27:22,884
-”timo.
+√ìtimo.
 
 346
 00:29:21,068 --> 00:29:22,468
@@ -1597,11 +1597,11 @@ Ele voltou.
 
 347
 00:29:51,943 --> 00:29:53,343
-N„o s„o trÍs Roentgen.
+N√£o s√£o tr√™s Roentgen.
 
 348
 00:29:54,026 --> 00:29:55,426
-S„o 15 mil.
+S√£o 15 mil.
 
 349
 00:29:55,818 --> 00:29:57,218
@@ -1610,11 +1610,11 @@ Camarada Shcherbina.
 350
 00:29:58,693 --> 00:30:00,274
 O que significa
-esse n˙mero?
+esse n√∫mero?
 
 351
 00:30:00,275 --> 00:30:02,191
-Que o n˙cleo est· exposto.
+Que o n√∫cleo est√° exposto.
 
 352
 00:30:02,901 --> 00:30:05,193
@@ -1623,7 +1623,7 @@ que estamos vendo
 
 353
 00:30:05,194 --> 00:30:08,775
-emite o dobro da radiaÁ„o
+emite o dobro da radia√ß√£o
 da bomba de Hiroshima.
 
 354
@@ -1632,26 +1632,26 @@ Isso a cada hora.
 
 355
 00:30:10,277 --> 00:30:11,817
-Hora apÛs hora.
+Hora ap√≥s hora.
 
 356
 00:30:11,818 --> 00:30:15,483
-A explos„o foi h· 20 horas,
-portanto, 40 bombas atÈ agora.
+A explos√£o foi h√° 20 horas,
+portanto, 40 bombas at√© agora.
 
 357
 00:30:15,484 --> 00:30:16,900
-Mais 48 amanh„.
+Mais 48 amanh√£.
 
 358
 00:30:16,901 --> 00:30:19,194
-N„o vai parar.
-N„o em uma semana, ou um mÍs.
+N√£o vai parar.
+N√£o em uma semana, ou um m√™s.
 
 359
 00:30:19,195 --> 00:30:23,442
 Vai queimar e espalhar veneno
-atÈ matar todo o continente.
+at√© matar todo o continente.
 
 360
 00:30:27,068 --> 00:30:29,233
@@ -1660,13 +1660,13 @@ Bryukhanov e Fomin
 
 361
 00:30:29,234 --> 00:30:31,359
-atÈ o quartel-general local
+at√© o quartel-general local
 do partido.
 
 362
 00:30:31,818 --> 00:30:34,151
-Obrigado pela dedicaÁ„o.
-Est„o dispensados.
+Obrigado pela dedica√ß√£o.
+Est√£o dispensados.
 
 363
 00:30:35,317 --> 00:30:37,191
@@ -1678,29 +1678,29 @@ Foi o Dyatlov!
 
 365
 00:30:40,191 --> 00:30:41,650
-Como podemos apag·-lo?
+Como podemos apag√°-lo?
 
 366
 00:30:41,651 --> 00:30:44,441
-Usamos os helicÛpteros.
-Jogamos ·gua, como na floresta.
+Usamos os helic√≥pteros.
+Jogamos √°gua, como na floresta.
 
 367
 00:30:44,442 --> 00:30:46,151
-N„o, vocÍ n„o entende.
+N√£o, voc√™ n√£o entende.
 
 368
 00:30:46,152 --> 00:30:47,859
-Isso n„o È um incÍndio.
+Isso n√£o √© um inc√™ndio.
 
 369
 00:30:48,401 --> 00:30:52,316
-… um n˙cleo de reator em fiss„o
+√â um n√∫cleo de reator em fiss√£o
 queimando a uns dois mil graus.
 
 370
 00:30:52,317 --> 00:30:54,733
-O calor vaporizar· a ·gua
+O calor vaporizar√° a √°gua
 instantaneamente.
 
 371
@@ -1727,26 +1727,26 @@ Boro e areia.
 376
 00:31:12,734 --> 00:31:16,609
 Vai criar outros problemas,
-mas n„o vejo outra opÁ„o.
+mas n√£o vejo outra op√ß√£o.
 
 377
 00:31:17,068 --> 00:31:19,193
-V„o ter que despejar
+V√£o ter que despejar
 milhares de vezes
 
 378
 00:31:19,194 --> 00:31:21,983
-porque n„o se pode sobrevoar
-diretamente o n˙cleo.
+porque n√£o se pode sobrevoar
+diretamente o n√∫cleo.
 
 379
 00:31:21,984 --> 00:31:24,760
-- Ent„o a maioria vai errar.
+- Ent√£o a maioria vai errar.
 - Quanta areia e boro?
 
 380
 00:31:25,191 --> 00:31:27,110
-- … difÌcil...
+- √â dif√≠cil...
 - Mais ou menos?
 
 381
@@ -1756,11 +1756,11 @@ Cinco mil toneladas.
 382
 00:31:29,776 --> 00:31:32,400
 Obviamente temos de evacuar
-uma ·rea enorme...
+uma √°rea enorme...
 
 383
 00:31:32,401 --> 00:31:34,274
-EsqueÁa isso.
+Esque√ßa isso.
 Concentre-se no fogo.
 
 384
@@ -1770,27 +1770,27 @@ no fogo.
 
 385
 00:31:37,191 --> 00:31:40,191
-O vento est· levando
-toda aquela fumaÁa,
+O vento est√° levando
+toda aquela fuma√ßa,
 
 386
 00:31:41,192 --> 00:31:42,859
-toda aquela radiaÁ„o.
+toda aquela radia√ß√£o.
 
 387
 00:31:43,359 --> 00:31:46,316
 Pelo menos, evacue Pripyat,
-fica h· trÍs quilÙmetros!
+fica h√° tr√™s quil√¥metros!
 
 388
 00:31:46,317 --> 00:31:48,566
 - Eu decido isso.
-- Ent„o decida.
+- Ent√£o decida.
 
 389
 00:31:48,567 --> 00:31:51,067
-- Mandaram n„o fazer isso.
-- N„o È sua decis„o?
+- Mandaram n√£o fazer isso.
+- N√£o √© sua decis√£o?
 
 390
 00:31:51,068 --> 00:31:52,468
@@ -1798,13 +1798,13 @@ Eu mando aqui!
 
 391
 00:31:52,984 --> 00:31:55,775
-Vai ser mais f·cil se me falar
-do que vocÍ entende
+Vai ser mais f√°cil se me falar
+do que voc√™ entende
 
 392
 00:31:55,776 --> 00:31:58,191
-e n„o de coisas
-que n„o entende.
+e n√£o de coisas
+que n√£o entende.
 
 393
 00:32:02,567 --> 00:32:04,150
@@ -1833,8 +1833,8 @@ Moscou.
 
 399
 00:33:39,567 --> 00:33:41,567
-Est· aqui
-por causa do incÍndio?
+Est√° aqui
+por causa do inc√™ndio?
 
 400
 00:33:46,192 --> 00:33:48,068
@@ -1842,15 +1842,15 @@ Devemos nos preocupar?
 
 401
 00:33:54,275 --> 00:33:55,675
-N„o.
+N√£o.
 
 402
 00:34:54,484 --> 00:34:57,193
-MANH√, 27 DE ABRIL
+MANH√É, 27 DE ABRIL
 
 403
 00:34:57,194 --> 00:34:59,901
-30 HORAS AP”S A EXPLOS√O
+30 HORAS AP√ìS A EXPLOS√ÉO
 
 404
 00:35:00,859 --> 00:35:03,191
@@ -1864,21 +1864,21 @@ nos aproximando do alvo.</i>
 406
 00:35:08,026 --> 00:35:11,110
 <i>Entendido. Iremos
-um por um em rodÌzio.</i>
+um por um em rod√≠zio.</i>
 
 407
 00:35:16,359 --> 00:35:18,192
-<i>Relembre- os sobre o perÌmetro.</i>
+<i>Relembre- os sobre o per√≠metro.</i>
 
 408
 00:35:21,901 --> 00:35:24,190
-Eles n„o podem voar
+Eles n√£o podem voar
 direto sobre o fogo.
 
 409
 00:35:24,191 --> 00:35:26,483
-Fiquem no mÌnimo
-a dez metros de dist‚ncia.
+Fiquem no m√≠nimo
+a dez metros de dist√¢ncia.
 
 410
 00:35:26,484 --> 00:35:28,190
@@ -1886,8 +1886,8 @@ a dez metros de dist‚ncia.
 
 411
 00:35:28,191 --> 00:35:31,401
-<i>LÌder um, mantenha um perÌmetro
-de dez metros de dist‚ncia.</i>
+<i>L√≠der um, mantenha um per√≠metro
+de dez metros de dist√¢ncia.</i>
 
 412
 00:35:32,317 --> 00:35:34,191
@@ -1904,27 +1904,27 @@ Quarenta metros.</i>
 
 415
 00:35:41,191 --> 00:35:43,483
-N„o,
-eles est„o perto demais.
+N√£o,
+eles est√£o perto demais.
 
 416
 00:35:43,484 --> 00:35:45,193
-Se n„o podem voar
+Se n√£o podem voar
 sobre o fogo...
 
 417
 00:35:45,194 --> 00:35:48,233
-O vento ter· de levar.
+O vento ter√° de levar.
 Avise a eles.
 
 418
 00:35:48,234 --> 00:35:50,275
-Eles n„o podem
-sobrevoar o n˙cleo.
+Eles n√£o podem
+sobrevoar o n√∫cleo.
 
 419
 00:35:52,317 --> 00:35:53,859
-LÌder um est· perto demais.
+L√≠der um est√° perto demais.
 
 420
 00:35:53,860 --> 00:35:55,401
@@ -1936,37 +1936,37 @@ Entendido.
 
 422
 00:35:58,191 --> 00:36:00,341
-<i>LÌder um, vocÍ est·
-dentro do perÌmetro.</i>
+<i>L√≠der um, voc√™ est√°
+dentro do per√≠metro.</i>
 
 423
 00:36:01,776 --> 00:36:04,510
-<i>N„o entendi.
-O sinal est· falhando.</i>
+<i>N√£o entendi.
+O sinal est√° falhando.</i>
 
 424
 00:36:06,734 --> 00:36:08,134
-<i>LÌder um.</i>
+<i>L√≠der um.</i>
 
 425
 00:36:09,359 --> 00:36:10,759
-<i>C‚mbio?</i>
+<i>C√¢mbio?</i>
 
 426
 00:36:11,068 --> 00:36:12,468
-<i>LÌder um, c‚mbio?</i>
+<i>L√≠der um, c√¢mbio?</i>
 
 427
 00:36:13,151 --> 00:36:14,551
-<i>LÌder um, responda.</i>
+<i>L√≠der um, responda.</i>
 
 428
 00:36:15,651 --> 00:36:17,190
-<i>LÌder um.</i>
+<i>L√≠der um.</i>
 
 429
 00:36:17,191 --> 00:36:18,591
-<i>LÌder um!</i>
+<i>L√≠der um!</i>
 
 430
 00:36:36,484 --> 00:36:38,734
@@ -1975,12 +1975,12 @@ o que digo aos outros?
 
 431
 00:36:41,317 --> 00:36:43,484
-H· algum outro jeito,
+H√° algum outro jeito,
 Legasov?
 
 432
 00:36:51,984 --> 00:36:53,384
-Mande o prÛximo.
+Mande o pr√≥ximo.
 
 433
 00:36:55,191 --> 00:36:57,234
@@ -1989,7 +1989,7 @@ pelo oeste.
 
 434
 00:36:58,317 --> 00:36:59,717
-<i>LÌder dois,</i>
+<i>L√≠der dois,</i>
 
 435
 00:37:00,191 --> 00:37:01,693
@@ -2002,7 +2002,7 @@ INSTITUTO KURCHATOV, MOSCOU
 437
 00:37:22,359 --> 00:37:25,191
 <i>Instituto Kurchatov,
-LaboratÛrio quatro.</i>
+Laborat√≥rio quatro.</i>
 
 438
 00:37:25,192 --> 00:37:26,776
@@ -2010,13 +2010,13 @@ LaboratÛrio quatro.</i>
 
 439
 00:37:27,275 --> 00:37:29,191
-<i>Aqui È Ulana Khomyuk,
+<i>Aqui √© Ulana Khomyuk,
 de Minsk.</i>
 
 440
 00:37:31,984 --> 00:37:35,735
 Sim, que bom que telefonou.
-J· faz tempo.
+J√° faz tempo.
 
 441
 00:37:35,736 --> 00:37:39,190
@@ -2030,8 +2030,8 @@ sobre o nosso amigo,</i>
 
 443
 00:37:41,776 --> 00:37:44,901
-<i>Queria saber como ele est·.
-Est· t„o quente l· agora.</i>
+<i>Queria saber como ele est√°.
+Est√° t√£o quente l√° agora.</i>
 
 444
 00:37:45,317 --> 00:37:47,191
@@ -2040,7 +2040,7 @@ Sim, extremamente quente.
 445
 00:37:47,526 --> 00:37:49,441
 Mas os sobrinhos dele
-vÍm voando.
+v√™m voando.
 
 446
 00:37:49,442 --> 00:37:51,191
@@ -2064,7 +2064,7 @@ Que maravilha!
 
 451
 00:37:59,191 --> 00:38:01,150
-Mas crianÁas podem
+Mas crian√ßas podem
 nos esquentar,
 
 452
@@ -2078,7 +2078,7 @@ Talvez eu devesse ir visitar?
 
 454
 00:38:04,401 --> 00:38:06,233
-N„o, eles n„o querem
+N√£o, eles n√£o querem
 visitantes.
 
 455
@@ -2092,12 +2092,12 @@ ao trabalho. Estou ocupada.</i>
 
 457
 00:38:13,734 --> 00:38:16,191
-Est„o jogando areia e boro
+Est√£o jogando areia e boro
 sobre o fogo.
 
 458
 00:38:17,191 --> 00:38:18,591
-… o que eu faria.
+√â o que eu faria.
 
 459
 00:38:20,442 --> 00:38:22,110
@@ -2105,7 +2105,7 @@ Tenho certeza que sim.
 
 460
 00:38:44,901 --> 00:38:46,301
-Aonde vocÍ vai?
+Aonde voc√™ vai?
 
 461
 00:38:47,234 --> 00:38:48,634
@@ -2113,7 +2113,7 @@ Chernobyl.
 
 462
 00:38:56,191 --> 00:38:57,591
-Est· indo bem.
+Est√° indo bem.
 
 463
 00:38:58,191 --> 00:38:59,591
@@ -2121,36 +2121,36 @@ Vinte despejos.
 
 464
 00:39:05,026 --> 00:39:06,426
-O quÍ?
+O qu√™?
 
 465
 00:39:09,317 --> 00:39:11,943
-H· 50 mil pessoas
+H√° 50 mil pessoas
 nesta cidade.
 
 466
 00:39:14,191 --> 00:39:17,191
 O professor Ilyin,
-que tambÈm est· na comiss„o,
+que tamb√©m est√° na comiss√£o,
 
 467
 00:39:17,192 --> 00:39:20,190
-diz que a radiaÁ„o n„o È alta
+diz que a radia√ß√£o n√£o √© alta
 o bastante para evacuar.
 
 468
 00:39:20,191 --> 00:39:22,190
-O Ilyin n„o È um fÌsico.
+O Ilyin n√£o √© um f√≠sico.
 
 469
 00:39:22,191 --> 00:39:25,150
-Ele È mÈdico. Se ele disse
-que È seguro, ent„o È seguro.
+Ele √© m√©dico. Se ele disse
+que √© seguro, ent√£o √© seguro.
 
 470
 00:39:25,151 --> 00:39:27,651
-- N„o se eles ficarem aqui.
-- NÛs vamos ficar.
+- N√£o se eles ficarem aqui.
+- N√≥s vamos ficar.
 
 471
 00:39:27,652 --> 00:39:29,052
@@ -2180,22 +2180,22 @@ Obrigado.
 477
 00:40:42,859 --> 00:40:45,309
 Uma usina nuclear
-na SuÈcia detectou radiaÁ„o.
+na Su√©cia detectou radia√ß√£o.
 
 478
 00:40:46,734 --> 00:40:49,776
 Identificaram como subproduto
-do nosso combustÌvel.
+do nosso combust√≠vel.
 
 479
 00:40:50,943 --> 00:40:53,191
 Os americanos tiraram
-fotos de satÈlite.
+fotos de sat√©lite.
 
 480
 00:40:54,567 --> 00:40:57,280
-Do prÈdio do reator,
-da fumaÁa, do fogo.
+Do pr√©dio do reator,
+da fuma√ßa, do fogo.
 
 481
 00:41:00,609 --> 00:41:02,068
@@ -2203,13 +2203,13 @@ O mundo todo sabe.
 
 482
 00:41:08,984 --> 00:41:11,384
-O vento est· soprando
-na direÁ„o da Alemanha.
+O vento est√° soprando
+na dire√ß√£o da Alemanha.
 
 483
 00:41:13,110 --> 00:41:15,818
-N„o est„o deixando
-as crianÁas saÌrem para brincar.
+N√£o est√£o deixando
+as crian√ßas sa√≠rem para brincar.
 
 484
 00:41:17,442 --> 00:41:18,842
@@ -2218,25 +2218,25 @@ Em Frankfurt.
 485
 00:41:48,191 --> 00:41:50,858
 <i>Ocorreu um acidente nuclear
-na Uni„o SoviÈtica,</i>
+na Uni√£o Sovi√©tica,</i>
 
 486
 00:41:50,859 --> 00:41:52,380
-<i>j· admitido
-pelos soviÈticos.</i>
+<i>j√° admitido
+pelos sovi√©ticos.</i>
 
 487
 00:41:52,381 --> 00:41:54,025
-<i>A vers„o soviÈtica È esta?</i>
+<i>A vers√£o sovi√©tica √© esta?</i>
 
 488
 00:41:54,026 --> 00:41:57,109
-<i>"Um dos reatores atÙmicos
+<i>"Um dos reatores at√¥micos
 na Usina Nuclear de Chernobyl,</i>
 
 489
 00:41:57,110 --> 00:41:58,922
-<i>prÛximo a Kiev,
+<i>pr√≥ximo a Kiev,
 foi danificado.</i>
 
 490
@@ -2245,23 +2245,23 @@ foi danificado.</i>
 
 491
 00:42:00,776 --> 00:42:03,441
-<i>que h· pessoas feridas
+<i>que h√° pessoas feridas
 e pode haver mortes.</i>
 
 492
 00:42:03,442 --> 00:42:06,608
-<i>Os soviÈticos podem ter sido
-r·pidos em admitir o acidente</i>
+<i>Os sovi√©ticos podem ter sido
+r√°pidos em admitir o acidente</i>
 
 493
 00:42:06,609 --> 00:42:10,190
-<i>porque traÁos de leve
-radiaÁ„o nuclear j· atingiram</i>
+<i>porque tra√ßos de leve
+radia√ß√£o nuclear j√° atingiram</i>
 
 494
 00:42:10,191 --> 00:42:13,484
-<i>locais alÈm da fronteira
-soviÈtica, na Escandin·via.</i>
+<i>locais al√©m da fronteira
+sovi√©tica, na Escandin√°via.</i>
 
 495
 00:46:28,175 --> 00:46:29,651
@@ -2269,7 +2269,7 @@ Eu disse para voltar.
 
 496
 00:46:29,652 --> 00:46:31,190
-Esta È uma zona restrita.
+Esta √© uma zona restrita.
 
 497
 00:46:31,191 --> 00:46:33,858
@@ -2278,36 +2278,36 @@ de Energia Nuclear.
 
 498
 00:46:33,859 --> 00:46:35,400
-VocÍ tem permiss„o?
+Voc√™ tem permiss√£o?
 
 499
 00:46:35,401 --> 00:46:37,942
 Escute. Preciso falar
-com alguÈm urgentemente.
+com algu√©m urgentemente.
 
 500
 00:46:37,943 --> 00:46:40,274
-FaÁa o retorno agora
-ou vocÍ ser· presa.
+Fa√ßa o retorno agora
+ou voc√™ ser√° presa.
 
 501
 00:46:40,275 --> 00:46:44,068
 Se me prender, deve me levar
-‡ mais alta autoridade aqui.
+√† mais alta autoridade aqui.
 
 502
 00:46:48,818 --> 00:46:53,150
-Temos de iniciar a investigaÁ„o
-radiolÛgica. Setor por setor.
+Temos de iniciar a investiga√ß√£o
+radiol√≥gica. Setor por setor.
 
 503
 00:46:53,151 --> 00:46:55,234
-A pÈ.
-Com dosÌmetros na m„o.
+A p√©.
+Com dos√≠metros na m√£o.
 
 504
 00:46:57,317 --> 00:46:58,776
-VocÍ est· bem?
+Voc√™ est√° bem?
 
 505
 00:47:01,609 --> 00:47:03,009
@@ -2329,27 +2329,27 @@ no posto de controle.
 
 509
 00:47:12,401 --> 00:47:15,001
-Sei que o n˙cleo
-do seu reator est· exposto.
+Sei que o n√∫cleo
+do seu reator est√° exposto.
 
 510
 00:47:15,002 --> 00:47:17,952
-Que o grafite est· em chamas,
-o combustÌvel est· derretendo,
+Que o grafite est√° em chamas,
+o combust√≠vel est√° derretendo,
 
 511
 00:47:17,953 --> 00:47:21,109
-e que est„o jogando areia
+e que est√£o jogando areia
 e boro achando que funciona,
 
 512
 00:47:21,110 --> 00:47:22,733
-mas È um erro.
+mas √© um erro.
 
 513
 00:47:22,734 --> 00:47:26,025
 Ulana Yuriyvna Khomyuk,
-fÌsica-chefe,
+f√≠sica-chefe,
 
 514
 00:47:26,026 --> 00:47:28,193
@@ -2358,38 +2358,38 @@ de Energia Nuclear.
 
 515
 00:47:28,194 --> 00:47:30,948
-E vocÍ È Valery
+E voc√™ √© Valery
 Alexeyevich Legasov.
 
 516
 00:47:31,859 --> 00:47:34,984
-Abafar o n˙cleo
-apagar· o fogo, mas...
+Abafar o n√∫cleo
+apagar√° o fogo, mas...
 
 517
 00:47:35,401 --> 00:47:39,191
-- A temperatura subir· e...
+- A temperatura subir√° e...
 - Acredite, eu sei bem disso.
 
 518
 00:47:39,192 --> 00:47:41,817
 Mas estimo pelo menos
-um mÍs atÈ que derreta
+um m√™s at√© que derreta
 
 519
 00:47:41,818 --> 00:47:43,983
 o bloco de concreto,
-o que nos d· tempo...
+o que nos d√° tempo...
 
 520
 00:47:43,984 --> 00:47:46,719
-N„o, vocÍ n„o tem um mÍs.
+N√£o, voc√™ n√£o tem um m√™s.
 Tem uns dois dias.
 
 521
 00:47:47,526 --> 00:47:50,733
-De fato, o combustÌvel
-levaria um mÍs
+De fato, o combust√≠vel
+levaria um m√™s
 
 522
 00:47:50,734 --> 00:47:53,191
@@ -2398,35 +2398,35 @@ o bloco de concreto aqui.
 
 523
 00:47:53,693 --> 00:47:57,402
-SÛ que antes,
-queimar· atravÈs do escudo
+S√≥ que antes,
+queimar√° atrav√©s do escudo
 
 524
 00:47:57,403 --> 00:47:59,190
-biolÛgico atÈ terÁa-feira.
+biol√≥gico at√© ter√ßa-feira.
 
 525
 00:47:59,191 --> 00:48:03,067
-E depois atingir· esses tanques,
+E depois atingir√° esses tanques,
 as piscinas de bolhas.
 
 526
 00:48:03,068 --> 00:48:04,775
-- Os reservatÛrios...
+- Os reservat√≥rios...
 - Do ECS.
 
 527
 00:48:04,776 --> 00:48:06,275
-Entendo sua preocupaÁ„o.
+Entendo sua preocupa√ß√£o.
 
 528
 00:48:06,901 --> 00:48:10,191
-Mas confirmei com funcion·rios
-e os tanques est„o quase vazios.
+Mas confirmei com funcion√°rios
+e os tanques est√£o quase vazios.
 
 529
 00:48:10,192 --> 00:48:11,943
-N„o, estavam quase vazios.
+N√£o, estavam quase vazios.
 
 530
 00:48:12,317 --> 00:48:15,692
@@ -2435,36 +2435,36 @@ aqui, aqui e aqui,
 
 531
 00:48:15,693 --> 00:48:18,193
-todos s„o drenados
+todos s√£o drenados
 para as piscinas de bolhas.
 
 532
 00:48:18,194 --> 00:48:20,994
-Acredito que toda a tubulaÁ„o
-do prÈdio se rompeu,
+Acredito que toda a tubula√ß√£o
+do pr√©dio se rompeu,
 
 533
 00:48:20,995 --> 00:48:24,067
-alÈm dos carros de bombeiro
+al√©m dos carros de bombeiro
 que vi ao entrar aqui.
 
 534
 00:48:24,068 --> 00:48:26,151
 As mangueiras
-ainda est„o ligadas.
+ainda est√£o ligadas.
 
 535
 00:48:26,693 --> 00:48:29,525
-E vÍm jogando ·gua
+E v√™m jogando √°gua
 na estrutura esse tempo todo.
 
 536
 00:48:29,526 --> 00:48:31,068
-Os tanques est„o cheios!
+Os tanques est√£o cheios!
 
 537
 00:48:33,484 --> 00:48:35,026
-Os tanques est„o cheios!
+Os tanques est√£o cheios!
 
 538
 00:48:38,191 --> 00:48:40,567
@@ -2483,17 +2483,17 @@ foi danificado.</i>
 
 541
 00:48:48,901 --> 00:48:52,525
-<i>Medidas est„o sendo tomadas
-para mitigar as consequÍncias.</i>
+<i>Medidas est√£o sendo tomadas
+para mitigar as consequ√™ncias.</i>
 
 542
 00:48:52,526 --> 00:48:55,190
-<i>As vÌtimas est„o
+<i>As v√≠timas est√£o
 recebendo tratamento.</i>
 
 543
 00:48:55,191 --> 00:48:58,068
-<i>Uma comiss„o governamental
+<i>Uma comiss√£o governamental
 foi formada.</i>
 
 544
@@ -2502,7 +2502,7 @@ Eu tenho dez minutos.
 
 545
 00:49:16,901 --> 00:49:18,900
-AÌ tenho de voltar
+A√≠ tenho de voltar
 ao telefone
 
 546
@@ -2518,17 +2518,17 @@ aos nossos inimigos.
 548
 00:49:25,151 --> 00:49:27,984
 Nosso poder vem
-da percepÁ„o do nosso poder.
+da percep√ß√£o do nosso poder.
 
 549
 00:49:29,191 --> 00:49:31,609
-VocÍs entendem
+Voc√™s entendem
 o estrago que isso causou?
 
 550
 00:49:32,234 --> 00:49:34,442
 Entendem
-o que est· em jogo?
+o que est√° em jogo?
 
 551
 00:49:37,110 --> 00:49:38,510
@@ -2537,26 +2537,26 @@ Boris?
 552
 00:49:40,734 --> 00:49:44,275
 O professor Legasov
-far· o relatÛrio.
+far√° o relat√≥rio.
 
 553
 00:49:46,693 --> 00:49:48,191
-H· boas notÌcias.
+H√° boas not√≠cias.
 
 554
 00:49:48,192 --> 00:49:51,067
-Os despejos est„o
+Os despejos est√£o
 ajudando a apagar o fogo.
 
 555
 00:49:51,068 --> 00:49:54,192
-Houve reduÁ„o de emissıes
-de radionuclÌdeos,
+Houve redu√ß√£o de emiss√µes
+de radionucl√≠deos,
 
 556
 00:49:54,768 --> 00:49:57,733
-mas o fogo n„o se apagar·
-por no mÌnimo
+mas o fogo n√£o se apagar√°
+por no m√≠nimo
 
 557
 00:49:57,734 --> 00:49:59,191
@@ -2564,31 +2564,31 @@ mais duas semanas.
 
 558
 00:50:01,734 --> 00:50:04,191
-TambÈm h· outro problema.
+Tamb√©m h√° outro problema.
 
 559
 00:50:06,010 --> 00:50:10,026
-O combustÌvel nuclear n„o esfria
-sÛ porque n„o est· em chamas.
+O combust√≠vel nuclear n√£o esfria
+s√≥ porque n√£o est√° em chamas.
 
 560
 00:50:10,609 --> 00:50:15,483
-Na verdade, a temperatura subir·
-devido ‡ areia que jogamos.
+Na verdade, a temperatura subir√°
+devido √† areia que jogamos.
 
 561
 00:50:15,484 --> 00:50:19,817
-O ur‚nio derreter· a areia,
+O ur√¢nio derreter√° a areia,
 criando um tipo de lava
 
 562
 00:50:19,818 --> 00:50:23,190
-que comeÁar· a derreter
-a proteÁ„o abaixo.
+que come√ßar√° a derreter
+a prote√ß√£o abaixo.
 
 563
 00:50:23,191 --> 00:50:24,591
-VocÍ criou lava.
+Voc√™ criou lava.
 
 564
 00:50:27,234 --> 00:50:28,901
@@ -2597,7 +2597,7 @@ Eu previ isso.
 565
 00:50:31,192 --> 00:50:35,274
 Eu pensei que daria tempo
-de reforÁar a camada de concreto
+de refor√ßar a camada de concreto
 
 566
 00:50:35,275 --> 00:50:37,358
@@ -2606,7 +2606,7 @@ chegasse ao solo
 
 567
 00:50:37,359 --> 00:50:39,942
-e contaminasse a ·gua,
+e contaminasse a √°gua,
 mas pelo que parece,
 
 568
@@ -2617,7 +2617,7 @@ com a coisa errada.
 569
 00:50:43,843 --> 00:50:47,274
 Eu havia entendido
-que os grandes tanques de ·gua
+que os grandes tanques de √°gua
 
 570
 00:50:47,275 --> 00:50:49,818
@@ -2626,22 +2626,22 @@ estavam vazios.
 
 571
 00:50:50,359 --> 00:50:53,274
-Esta È Ulana Khomyuk,
+Esta √© Ulana Khomyuk,
 do Instituto Bielo-russo.
 
 572
 00:50:53,275 --> 00:50:55,026
-GraÁas ‡ deduÁ„o dela,
+Gra√ßas √† dedu√ß√£o dela,
 
 573
 00:50:55,027 --> 00:50:58,567
 sabemos agora que os tanques
-est„o cheios, na verdade.
+est√£o cheios, na verdade.
 
 574
 00:50:59,317 --> 00:51:01,651
-De ·gua.
-E por que isso È um problema?
+De √°gua.
+E por que isso √© um problema?
 
 575
 00:51:02,151 --> 00:51:03,551
@@ -2659,12 +2659,12 @@ de imediato
 578
 00:51:10,558 --> 00:51:14,958
 e vaporizar quase sete mil
-metros c˙bicos de ·gua,
+metros c√∫bicos de √°gua,
 
 579
 00:51:14,959 --> 00:51:18,234
-causando uma explos„o
-tÈrmica significativa.
+causando uma explos√£o
+t√©rmica significativa.
 
 580
 00:51:19,301 --> 00:51:20,901
@@ -2678,22 +2678,22 @@ e quatro megatons.
 582
 00:51:25,234 --> 00:51:29,900
 Tudo dentro de um raio de 30km
-ser· totalmente destruÌdo.
+ser√° totalmente destru√≠do.
 
 583
 00:51:29,901 --> 00:51:33,274
-Incluindo os trÍs reatores
+Incluindo os tr√™s reatores
 restantes em Chernobyl.
 
 584
 00:51:33,275 --> 00:51:37,150
 A totalidade do material
-radioativo em todos os n˙cleos
+radioativo em todos os n√∫cleos
 
 585
 00:51:37,151 --> 00:51:39,609
-ser· expelida
-com m·xima potÍncia
+ser√° expelida
+com m√°xima pot√™ncia
 
 586
 00:51:40,191 --> 00:51:42,651
@@ -2702,13 +2702,13 @@ onda de choque,
 
 587
 00:51:43,192 --> 00:51:48,191
-que se estender·
+que se estender√°
 por 200km aproximadamente
 
 588
 00:51:48,526 --> 00:51:52,025
 e deve ser fatal
-para toda a populaÁ„o de Kiev
+para toda a popula√ß√£o de Kiev
 
 589
 00:51:52,026 --> 00:51:53,442
@@ -2716,26 +2716,26 @@ e uma parte de Minsk.
 
 590
 00:51:53,910 --> 00:51:56,693
-A liberaÁ„o de radiaÁ„o
-ser· severa.
+A libera√ß√£o de radia√ß√£o
+ser√° severa.
 
 591
 00:51:56,868 --> 00:52:01,191
-E seu impacto ser· sentido
-na Ucr‚nia SoviÈtica, LetÙnia,
+E seu impacto ser√° sentido
+na Ucr√¢nia Sovi√©tica, Let√¥nia,
 
 592
 00:52:01,693 --> 00:52:04,109
-Litu‚nia, Bielorr˙ssia,
+Litu√¢nia, Bielorr√∫ssia,
 
 593
 00:52:04,110 --> 00:52:06,400
-assim como PolÙnia,
-Tchecoslov·quia,
+assim como Pol√¥nia,
+Tchecoslov√°quia,
 
 594
 00:52:06,401 --> 00:52:09,776
-Hungria, RomÍnia e a maior
+Hungria, Rom√™nia e a maior
 parte da Alemanha Oriental.
 
 595
@@ -2745,52 +2745,52 @@ com "impacto"?
 
 596
 00:52:17,317 --> 00:52:20,025
-Nessa regi„o,
-a interrupÁ„o quase permanente
+Nessa regi√£o,
+a interrup√ß√£o quase permanente
 
 597
 00:52:20,026 --> 00:52:21,859
 do suprimento
-de comida e ·gua.
+de comida e √°gua.
 
 598
 00:52:22,743 --> 00:52:26,025
 Grande aumento de casos
-de c‚ncer e defeitos congÍnitos.
+de c√¢ncer e defeitos cong√™nitos.
 
 599
 00:52:26,026 --> 00:52:28,192
-N„o sei quantas mortes,
+N√£o sei quantas mortes,
 mas muitas.
 
 600
 00:52:29,234 --> 00:52:32,589
-Para Bielorr˙ssia e Ucr‚nia,
-o impacto significa que ficar„o
+Para Bielorr√∫ssia e Ucr√¢nia,
+o impacto significa que ficar√£o
 
 601
 00:52:32,590 --> 00:52:36,191
-completamente inabit·veis
-por no mÌnimo 100 anos.
+completamente inabit√°veis
+por no m√≠nimo 100 anos.
 
 602
 00:52:41,026 --> 00:52:44,025
-H· mais de 50 milhıes
+H√° mais de 50 milh√µes
 de pessoas
 
 603
 00:52:44,026 --> 00:52:47,190
-vivendo na Bielorr˙ssia
-e na Ucr‚nia.
+vivendo na Bielorr√∫ssia
+e na Ucr√¢nia.
 
 604
 00:52:47,191 --> 00:52:48,591
-Sessenta milhıes. Sim.
+Sessenta milh√µes. Sim.
 
 605
 00:52:53,317 --> 00:52:55,192
 E quanto tempo
-atÈ isso acontecer?
+at√© isso acontecer?
 
 606
 00:52:55,526 --> 00:52:58,026
@@ -2799,21 +2799,21 @@ Entre 48 e 72 horas.
 607
 00:53:03,151 --> 00:53:05,191
 Mas talvez
-tenhamos uma soluÁ„o.
+tenhamos uma solu√ß√£o.
 
 608
 00:53:05,192 --> 00:53:07,193
 Podemos bombear
-a ·gua dos tanques.
+a √°gua dos tanques.
 
 609
 00:53:07,194 --> 00:53:10,233
 Infelizmente, os tanques
-est„o selados por uma comporta,
+est√£o selados por uma comporta,
 
 610
 00:53:10,234 --> 00:53:12,441
-que sÛ pode ser aberta
+que s√≥ pode ser aberta
 manualmente
 
 611
@@ -2823,13 +2823,13 @@ de dutos.
 
 612
 00:53:14,275 --> 00:53:17,191
-Ent„o precisamos encontrar
-trÍs oper·rios
+Ent√£o precisamos encontrar
+tr√™s oper√°rios
 
 613
 00:53:17,609 --> 00:53:21,025
 familiarizados com a usina
-para entrar no por„o aqui,
+para entrar no por√£o aqui,
 
 614
 00:53:21,026 --> 00:53:24,275
@@ -2838,8 +2838,8 @@ por todos esses dutos,
 
 615
 00:53:25,275 --> 00:53:29,359
-chegar na v·lvula da comporta
-e nos dar o acesso necess·rio
+chegar na v√°lvula da comporta
+e nos dar o acesso necess√°rio
 
 616
 00:53:29,360 --> 00:53:31,191
@@ -2847,31 +2847,31 @@ para esvaziar os tanques.
 
 617
 00:53:32,110 --> 00:53:34,110
-Precisaremos da sua permiss„o,
+Precisaremos da sua permiss√£o,
 claro.
 
 618
 00:53:34,984 --> 00:53:36,526
-Minha permiss„o para quÍ?
+Minha permiss√£o para qu√™?
 
 619
 00:53:37,275 --> 00:53:39,483
-A ·gua nesses dutos...
+A √°gua nesses dutos...
 
 620
 00:53:39,484 --> 00:53:42,316
-O nÌvel de contaminaÁ„o
+O n√≠vel de contamina√ß√£o
 radioativa...
 
 621
 00:53:42,317 --> 00:53:44,192
-Eles estar„o mortos
+Eles estar√£o mortos
 em uma semana.
 
 622
 00:53:46,651 --> 00:53:49,693
-Precisamos da sua permiss„o
-para matar trÍs homens.
+Precisamos da sua permiss√£o
+para matar tr√™s homens.
 
 623
 00:54:00,191 --> 00:54:01,591
@@ -2879,8 +2879,8 @@ Camarada Legasov,
 
 624
 00:54:03,484 --> 00:54:06,191
-toda vitÛria
-inevitavelmente tem um preÁo.
+toda vit√≥ria
+inevitavelmente tem um pre√ßo.
 
 625
 00:54:42,567 --> 00:54:44,379
@@ -2889,27 +2889,27 @@ inevitavelmente tem um preÁo.
 626
 00:54:44,380 --> 00:54:46,191
 56 HORAS
-AP”S A EXPLOS√O
+AP√ìS A EXPLOS√ÉO
 
 627
 00:55:31,609 --> 00:55:34,192
-<i>E abrir a v·lvula
+<i>E abrir a v√°lvula
 da comporta aqui.</i>
 
 628
 00:55:35,401 --> 00:55:38,901
-A v·lvula È difÌcil de operar,
-ent„o precisamos de trÍs homens
+A v√°lvula √© dif√≠cil de operar,
+ent√£o precisamos de tr√™s homens
 
 629
 00:55:39,991 --> 00:55:42,191
-que conheÁam
-a planta do por„o.
+que conhe√ßam
+a planta do por√£o.
 
 630
 00:55:43,191 --> 00:55:46,484
-… claro que os volunt·rios
-ser„o recompensados
+√â claro que os volunt√°rios
+ser√£o recompensados
 
 631
 00:55:47,401 --> 00:55:50,901
@@ -2919,45 +2919,45 @@ de 400 rublos.
 632
 00:55:57,734 --> 00:56:02,317
 E quem trabalha nos reatores
-um e dois ser· promovido.
+um e dois ser√° promovido.
 
 633
 00:56:02,826 --> 00:56:06,191
 Por que os reatores um e dois
-ainda est„o em operaÁ„o?
+ainda est√£o em opera√ß√£o?
 
 634
 00:56:06,601 --> 00:56:09,274
-Minha amiga era seguranÁa
+Minha amiga era seguran√ßa
 naquela noite
 
 635
 00:56:09,275 --> 00:56:10,942
-e agora ela est· morrendo.
+e agora ela est√° morrendo.
 
 636
 00:56:10,943 --> 00:56:13,233
-NÛs todos soubemos
+N√≥s todos soubemos
 dos bombeiros.
 
 637
 00:56:13,234 --> 00:56:17,068
-Agora quer que nÛs nademos
+Agora quer que n√≥s nademos
 sob um reator em chamas.
 
 638
 00:56:17,518 --> 00:56:20,068
-VocÍ sabe qual È o nÌvel
-de contaminaÁ„o?
+Voc√™ sabe qual √© o n√≠vel
+de contamina√ß√£o?
 
 639
 00:56:22,191 --> 00:56:23,991
-N„o tenho um n˙mero exato.
+N√£o tenho um n√∫mero exato.
 
 640
 00:56:23,992 --> 00:56:26,984
-N„o precisa do n˙mero exato
-para saber que nos matar·.
+N√£o precisa do n√∫mero exato
+para saber que nos matar√°.
 
 641
 00:56:27,359 --> 00:56:29,191
@@ -2965,43 +2965,43 @@ Mas nem consegue nos dizer isso.
 
 642
 00:56:30,693 --> 00:56:33,401
-Por que deverÌamos fazer isso?
+Por que dever√≠amos fazer isso?
 Por 400 rublos?
 
 643
 00:56:36,818 --> 00:56:38,943
-VocÍs v„o fazer
+Voc√™s v√£o fazer
 porque deve ser feito.
 
 644
 00:56:44,068 --> 00:56:46,651
-V„o fazer porque
-ninguÈm mais pode.
+V√£o fazer porque
+ningu√©m mais pode.
 
 645
 00:56:49,651 --> 00:56:53,026
-Se n„o fizerem,
-milhıes v„o morrer.
+Se n√£o fizerem,
+milh√µes v√£o morrer.
 
 646
 00:56:54,317 --> 00:56:57,275
 Se me disserem que isso
-n„o justifica, n„o acreditarei.
+n√£o justifica, n√£o acreditarei.
 
 647
 00:56:58,434 --> 00:57:01,693
-Isso È o que sempre
+Isso √© o que sempre
 diferenciou nosso povo.
 
 648
 00:57:02,834 --> 00:57:05,292
-Mil anos de sacrifÌcio
+Mil anos de sacrif√≠cio
 em nossas veias.
 
 649
 00:57:06,751 --> 00:57:09,451
-E cada geraÁ„o deve encarar
-seu prÛprio sofrimento.
+E cada gera√ß√£o deve encarar
+seu pr√≥prio sofrimento.
 
 650
 00:57:10,459 --> 00:57:12,709
@@ -3010,7 +3010,7 @@ que fizeram isso.
 
 651
 00:57:13,292 --> 00:57:15,709
-Eu amaldiÁoo o preÁo
+Eu amaldi√ßoo o pre√ßo
 que tenho que pagar.
 
 652
@@ -3019,15 +3019,15 @@ Mas estou me conformando.
 
 653
 00:57:20,876 --> 00:57:22,501
-Conformem-se tambÈm.
+Conformem-se tamb√©m.
 
 654
 00:57:23,041 --> 00:57:24,668
-Entrem nessa ·gua.
+Entrem nessa √°gua.
 
 655
 00:57:27,084 --> 00:57:28,626
-… o que deve ser feito.
+√â o que deve ser feito.
 
 656
 00:57:46,041 --> 00:57:47,441
