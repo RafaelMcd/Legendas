@@ -1,20 +1,20 @@
-1
+1 
 00:00:42,478 --> 00:00:44,602
-<i>Qual é o preço da mentira?</i>
+<i>Qual Ã© o preÃ§o da mentira?</i>
 
 2
 00:00:45,998 --> 00:00:48,478
-<i>Não é que podemos
+<i>NÃ£o Ã© que podemos
 confundi-la com a verdade.</i>
 
 3
 00:00:48,918 --> 00:00:52,278
-<i>O perigo real é que se ouvirmos
+<i>O perigo real Ã© que se ouvirmos
 mentiras o bastante,</i>
 
 4
 00:00:52,279 --> 00:00:55,489
-<i>não reconheceremos
+<i>nÃ£o reconheceremos
 mais a verdade.</i>
 
 5
@@ -23,8 +23,8 @@ mais a verdade.</i>
 
 6
 00:00:58,990 --> 00:01:02,090
-<i>O que restará além de esquecer
-até a esperança de verdade,</i>
+<i>O que restarÃ¡ alÃ©m de esquecer
+atÃ© a esperanÃ§a de verdade,</i>
 
 7
 00:01:02,091 --> 00:01:04,688
@@ -33,17 +33,17 @@ em vez disso,</i>
 
 8
 00:01:04,689 --> 00:01:06,089
-<i>com histórias.</i>
+<i>com histÃ³rias.</i>
 
 9
 00:01:07,209 --> 00:01:10,249
-<i>Nessas histórias, não importa
-quem são os heróis.</i>
+<i>Nessas histÃ³rias, nÃ£o importa
+quem sÃ£o os herÃ³is.</i>
 
 10
 00:01:11,049 --> 00:01:13,249
-<i>Só queremos saber
-quem é o culpado.</i>
+<i>SÃ³ queremos saber
+quem Ã© o culpado.</i>
 
 11
 00:01:13,250 --> 00:01:14,650
@@ -52,8 +52,8 @@ MOSCOU
 
 12
 00:01:14,651 --> 00:01:16,929
-<i>Nesta história,
-é o Anatoly Dyatlov.</i>
+<i>Nesta histÃ³ria,
+Ã© o Anatoly Dyatlov.</i>
 
 13
 00:01:17,249 --> 00:01:18,649
@@ -62,7 +62,7 @@ MOSCOU
 14
 00:01:19,209 --> 00:01:21,208
 <i>Um homem arrogante,
-desagradável.</i>
+desagradÃ¡vel.</i>
 
 15
 00:01:21,209 --> 00:01:23,809
@@ -71,7 +71,7 @@ Ele deu as ordens</i>
 
 16
 00:01:23,810 --> 00:01:25,729
-<i>e não tinha amigos.</i>
+<i>e nÃ£o tinha amigos.</i>
 
 17
 00:01:26,569 --> 00:01:29,049
@@ -81,7 +81,7 @@ nenhum importante.</i>
 18
 00:01:31,609 --> 00:01:34,888
 E agora... Dyatlov
-passará os próximos dez anos
+passarÃ¡ os prÃ³ximos dez anos
 
 19
 00:01:34,889 --> 00:01:37,009
@@ -90,8 +90,8 @@ de prisioneiros.
 
 20
 00:01:37,689 --> 00:01:40,489
-Claro que essa sentença
-é duplamente injusta.
+Claro que essa sentenÃ§a
+Ã© duplamente injusta.
 
 21
 00:01:42,289 --> 00:01:45,089
@@ -101,7 +101,7 @@ do que ele envolvidos.
 22
 00:01:47,969 --> 00:01:52,649
 Quanto ao que Dyatlov fez,
-o homem não merece a prisão.
+o homem nÃ£o merece a prisÃ£o.
 
 23
 00:01:54,409 --> 00:01:55,809
@@ -113,8 +113,8 @@ Mas em vez disso,
 
 25
 00:02:11,049 --> 00:02:13,729
-serão dez anos
-por "administração criminosa."
+serÃ£o dez anos
+por "administraÃ§Ã£o criminosa."
 
 26
 00:02:15,129 --> 00:02:16,689
@@ -122,20 +122,20 @@ O que isso significa?
 
 27
 00:02:17,149 --> 00:02:18,549
-Ninguém sabe.
+NinguÃ©m sabe.
 
 28
 00:02:19,109 --> 00:02:20,509
-Não importa.
+NÃ£o importa.
 
 29
 00:02:23,209 --> 00:02:24,969
 O que importa
-é que para eles
+Ã© que para eles
 
 30
 00:02:26,449 --> 00:02:28,289
-a justiça foi feita.
+a justiÃ§a foi feita.
 
 31
 00:02:28,969 --> 00:02:32,149
@@ -145,16 +145,16 @@ para eles,
 32
 00:02:32,809 --> 00:02:35,769
 um mundo justo
-é um mundo são.
+Ã© um mundo sÃ£o.
 
 33
 00:02:38,649 --> 00:02:41,129
-Não havia nada de são
+NÃ£o havia nada de sÃ£o
 em Chernobyl.
 
 34
 00:02:43,649 --> 00:02:45,768
-O que houve lá,
+O que houve lÃ¡,
 o que houve depois,
 
 35
@@ -180,7 +180,7 @@ eu falei tudo o que sei.
 
 40
 00:03:05,649 --> 00:03:07,329
-Eles vão negar, é claro.
+Eles vÃ£o negar, Ã© claro.
 
 41
 00:03:08,169 --> 00:03:09,649
@@ -188,7 +188,7 @@ Sempre negam.
 
 42
 00:03:15,409 --> 00:03:17,409
-Sei que você fará
+Sei que vocÃª farÃ¡
 o melhor que puder.
 
 43
@@ -208,12 +208,12 @@ HBO</b>
 
 46
 00:06:34,964 --> 00:06:37,464
-<b>Revisão e Ressync:
-OnlyHPJ | Panda²</b>
+<b>RevisÃ£o e Ressync:
+OnlyHPJ | PandaÂ²</b>
 
 47
 00:06:39,889 --> 00:06:44,889
-PRIPYAT, UCRÂNIA, URSS
+PRIPYAT, UCRÃ‚NIA, URSS
 DOIS ANOS E UM MINUTO ANTES
 
 48
@@ -250,11 +250,11 @@ Lyudmilla?
 
 56
 00:08:27,449 --> 00:08:28,849
-Não sei.
+NÃ£o sei.
 
 57
 00:08:30,449 --> 00:08:32,449
-Há um incêndio
+HÃ¡ um incÃªndio
 na sala das turbinas.
 
 58
@@ -264,22 +264,22 @@ Sala das turbinas?
 59
 00:08:36,969 --> 00:08:39,669
 O tanque do sistema de controle.
-Hidrogênio.
+HidrogÃªnio.
 
 60
 00:08:39,670 --> 00:08:42,370
-Você e Toptunov, seus idiotas,
+VocÃª e Toptunov, seus idiotas,
 explodiram o tanque.
 
 61
 00:08:42,371 --> 00:08:44,121
-- Não é o que...
-- É uma emergência.
+- NÃ£o Ã© o que...
+- Ã‰ uma emergÃªncia.
 
 62
 00:08:44,122 --> 00:08:45,722
 Fiquem calmos.
-A prioridade é...
+A prioridade Ã©...
 
 63
 00:08:45,723 --> 00:08:47,123
@@ -287,17 +287,17 @@ Explodiu!
 
 64
 00:08:47,124 --> 00:08:49,208
-Nós sabemos.
-Akimov, resfriamos o núcleo?
+NÃ³s sabemos.
+Akimov, resfriamos o nÃºcleo?
 
 65
 00:08:49,209 --> 00:08:52,208
-Já desligamos, mas as hastes
+JÃ¡ desligamos, mas as hastes
 de controle ainda funcionam.
 
 66
 00:08:52,209 --> 00:08:53,808
-Não estão no lugar certo...
+NÃ£o estÃ£o no lugar certo...
 
 67
 00:08:53,809 --> 00:08:55,688
@@ -307,21 +307,21 @@ do console.
 68
 00:08:55,689 --> 00:08:58,888
 Liguem as bombas de reserva.
-Precisamos de água no núcleo.
+Precisamos de Ã¡gua no nÃºcleo.
 
 69
 00:08:58,889 --> 00:09:01,809
-- É o mais importante.
-- Não há mais núcleo!
+- Ã‰ o mais importante.
+- NÃ£o hÃ¡ mais nÃºcleo!
 
 70
 00:09:02,529 --> 00:09:04,809
 Ele explodiu.
-O núcleo explodiu.
+O nÃºcleo explodiu.
 
 71
 00:09:07,889 --> 00:09:09,809
-Ele está em choque,
+Ele estÃ¡ em choque,
 tirem-no daqui.
 
 72
@@ -330,17 +330,17 @@ A tampa abriu.
 
 73
 00:09:11,649 --> 00:09:14,248
-- Está tudo em chamas. Eu vi.
-- Você está confuso.
+- EstÃ¡ tudo em chamas. Eu vi.
+- VocÃª estÃ¡ confuso.
 
 74
 00:09:14,249 --> 00:09:17,368
-Os núcleos de reatores RBMK
-não explodem. Akimov.
+Os nÃºcleos de reatores RBMK
+nÃ£o explodem. Akimov.
 
 75
 00:09:17,369 --> 00:09:19,408
-Não se aflija,
+NÃ£o se aflija,
 fizemos tudo certo.
 
 76
@@ -355,11 +355,11 @@ Akimov!
 78
 00:09:23,729 --> 00:09:26,648
 Camarada Perevozschenko,
-isso é fisicamente impossível.
+isso Ã© fisicamente impossÃ­vel.
 
 79
 00:09:26,649 --> 00:09:29,489
-O núcleo não pode explodir.
+O nÃºcleo nÃ£o pode explodir.
 Tem que ser o tanque.
 
 80
@@ -369,12 +369,12 @@ Tem que ser o tanque.
 
 81
 00:09:32,049 --> 00:09:35,328
-Tirem o hidrogênio dos geradores
-e bombeiem água pro núcleo.
+Tirem o hidrogÃªnio dos geradores
+e bombeiem Ã¡gua pro nÃºcleo.
 
 82
 00:09:35,329 --> 00:09:36,729
-E o incêndio?
+E o incÃªndio?
 
 83
 00:09:37,609 --> 00:09:39,089
@@ -387,16 +387,16 @@ Chame os bombeiros.
 
 85
 00:10:43,489 --> 00:10:44,928
-<i>Como está o acidente?</i>
+<i>Como estÃ¡ o acidente?</i>
 
 86
 00:10:44,929 --> 00:10:49,729
-<i>Explosão no prédio principal
+<i>ExplosÃ£o no prÃ©dio principal
 entre terceiro e quarto blocos.</i>
 
 87
 00:10:50,328 --> 00:10:51,728
-<i>Tem gente lá?</i>
+<i>Tem gente lÃ¡?</i>
 
 88
 00:10:51,729 --> 00:10:53,969
@@ -404,7 +404,7 @@ entre terceiro e quarto blocos.</i>
 
 89
 00:10:54,809 --> 00:10:56,928
-<i>Eu já chamei o meu.</i>
+<i>Eu jÃ¡ chamei o meu.</i>
 
 90
 00:10:56,929 --> 00:11:01,009
@@ -417,17 +417,17 @@ o bloco todo dos oficiais.</i>
 
 92
 00:11:04,430 --> 00:11:05,830
-<i>- Alô, Ivankov?
-- Alô?</i>
+<i>- AlÃ´, Ivankov?
+- AlÃ´?</i>
 
 93
 00:11:05,831 --> 00:11:08,368
-<i>Você está sendo chamado
+<i>VocÃª estÃ¡ sendo chamado
 para Pripyat.</i>
 
 94
 00:11:08,369 --> 00:11:09,928
-<i>- Alô?
+<i>- AlÃ´?
 - Estou ouvindo.</i>
 
 95
@@ -437,16 +437,16 @@ entre terceiro e quarto blocos.</i>
 
 96
 00:11:12,729 --> 00:11:14,449
-<i>O telhado está pegando fogo.</i>
+<i>O telhado estÃ¡ pegando fogo.</i>
 
 97
 00:11:15,609 --> 00:11:17,648
-Você não está
-de plantão hoje.
+VocÃª nÃ£o estÃ¡
+de plantÃ£o hoje.
 
 98
 00:11:17,649 --> 00:11:20,208
-Estão chamando todo mundo.
+EstÃ£o chamando todo mundo.
 Militar e civil.
 
 99
@@ -459,11 +459,11 @@ Kiev.
 
 101
 00:11:23,809 --> 00:11:25,209
-Esse é dos grandes.
+Esse Ã© dos grandes.
 
 102
 00:11:26,129 --> 00:11:27,929
-Está parecendo estranho.
+EstÃ¡ parecendo estranho.
 
 103
 00:11:27,930 --> 00:11:29,528
@@ -477,16 +477,16 @@ estar usando refletores.
 105
 00:11:32,809 --> 00:11:34,569
 E se forem
-substâncias químicas?
+substÃ¢ncias quÃ­micas?
 
 106
 00:11:35,369 --> 00:11:36,769
-Químicas?
+QuÃ­micas?
 
 107
 00:11:37,649 --> 00:11:40,509
-O problema é no telhado.
-É coberto de piche.
+O problema Ã© no telhado.
+Ã‰ coberto de piche.
 
 108
 00:11:40,510 --> 00:11:43,510
@@ -495,7 +495,7 @@ e feder mais do que tudo.
 
 109
 00:11:43,511 --> 00:11:44,911
-Só isso.
+SÃ³ isso.
 
 110
 00:11:44,912 --> 00:11:46,312
@@ -511,11 +511,11 @@ Volte para a cama.
 
 113
 00:12:25,349 --> 00:12:26,749
-É a guerra?
+Ã‰ a guerra?
 
 114
 00:12:26,750 --> 00:12:28,150
-Onde está o dosímetro?
+Onde estÃ¡ o dosÃ­metro?
 
 115
 00:12:28,650 --> 00:12:30,050
@@ -527,21 +527,21 @@ Aqui.
 
 117
 00:12:37,809 --> 00:12:39,209
-Estão bombardeando?
+EstÃ£o bombardeando?
 
 118
 00:12:42,309 --> 00:12:43,728
-Que merda é essa?
+Que merda Ã© essa?
 
 119
 00:12:43,729 --> 00:12:46,168
-- É 3,6 Roentgen?
-- É o máximo que ele marca.
+- Ã‰ 3,6 Roentgen?
+- Ã‰ o mÃ¡ximo que ele marca.
 
 120
 00:12:46,169 --> 00:12:48,649
-O bom está no cofre.
-Eu não tenho a chave.
+O bom estÃ¡ no cofre.
+Eu nÃ£o tenho a chave.
 
 121
 00:12:49,689 --> 00:12:51,089
@@ -554,12 +554,12 @@ seu rosto.
 123
 00:12:56,969 --> 00:13:00,609
 Eu vou procurar o Khodemchuk
-na sala de bombas. Você, aqui.
+na sala de bombas. VocÃª, aqui.
 
 124
 00:13:01,369 --> 00:13:04,729
 Chame o Shashenok.
-Ele está na 604. Ande logo.
+Ele estÃ¡ na 604. Ande logo.
 
 125
 00:13:05,089 --> 00:13:06,649
@@ -571,30 +571,30 @@ Merda!
 
 127
 00:13:22,249 --> 00:13:25,248
-Temos que ir à sala do reator.
-O elevador está destruído.
+Temos que ir Ã  sala do reator.
+O elevador estÃ¡ destruÃ­do.
 
 128
 00:13:25,249 --> 00:13:27,009
 Subam dois andares,
-é em frente.
+Ã© em frente.
 
 129
 00:13:28,249 --> 00:13:30,049
-Por que estão indo para lá?
+Por que estÃ£o indo para lÃ¡?
 
 130
 00:13:49,689 --> 00:13:51,289
-Você viu o Khodemchuk?
+VocÃª viu o Khodemchuk?
 
 131
 00:13:51,649 --> 00:13:54,409
-- Não. Onde está o Viktor?
+- NÃ£o. Onde estÃ¡ o Viktor?
 - Ainda na sala das bombas.
 
 132
 00:13:57,129 --> 00:13:58,769
-Fique aqui. Eu já volto.
+Fique aqui. Eu jÃ¡ volto.
 
 133
 00:14:01,449 --> 00:14:02,849
@@ -611,7 +611,7 @@ Viktor.
 136
 00:14:26,649 --> 00:14:29,169
 Viktor,
-vou tirar você daqui.
+vou tirar vocÃª daqui.
 
 137
 00:14:29,809 --> 00:14:31,209
@@ -632,18 +632,18 @@ do outro painel.
 
 141
 00:15:24,750 --> 00:15:27,401
-- Ainda estão para cima.
-- O quê?
+- Ainda estÃ£o para cima.
+- O quÃª?
 
 142
 00:15:27,402 --> 00:15:29,802
-Estão só um terço dentro,
-não sei por quê.
+EstÃ£o sÃ³ um terÃ§o dentro,
+nÃ£o sei por quÃª.
 
 143
 00:15:29,803 --> 00:15:32,053
-Mandei os estagiários
-abaixá-las manualmente.
+Mandei os estagiÃ¡rios
+abaixÃ¡-las manualmente.
 
 144
 00:15:32,054 --> 00:15:33,454
@@ -651,8 +651,8 @@ E as bombas?
 
 145
 00:15:33,455 --> 00:15:35,355
-Não acho Khodemchuk.
-Está sem linha.
+NÃ£o acho Khodemchuk.
+EstÃ¡ sem linha.
 
 146
 00:15:35,356 --> 00:15:37,956
@@ -670,18 +670,18 @@ Chamei o eletricista...
 
 149
 00:15:41,511 --> 00:15:43,189
-Não estou nem
-aí para o painel!
+NÃ£o estou nem
+aÃ­ para o painel!
 
 150
 00:15:43,190 --> 00:15:45,409
-Eu quero água
-no núcleo do reator.
+Eu quero Ã¡gua
+no nÃºcleo do reator.
 
 151
 00:15:46,369 --> 00:15:48,649
-Vá ver se as bombas
-estão ligadas.
+VÃ¡ ver se as bombas
+estÃ£o ligadas.
 
 152
 00:15:49,609 --> 00:15:51,009
@@ -689,13 +689,13 @@ Agora.
 
 153
 00:15:58,649 --> 00:16:01,928
-- O que diz o dosímetro?
-- É 3,6 Roentgen, o máximo...
+- O que diz o dosÃ­metro?
+- Ã‰ 3,6 Roentgen, o mÃ¡ximo...
 
 154
 00:16:01,929 --> 00:16:05,129
-É 3,6. Não está ótimo
-nem terrível.
+Ã‰ 3,6. NÃ£o estÃ¡ Ã³timo
+nem terrÃ­vel.
 
 155
 00:16:13,089 --> 00:16:14,689
@@ -715,12 +715,12 @@ Vasily!
 
 159
 00:17:41,369 --> 00:17:42,968
-Vasily, o que é isto?
+Vasily, o que Ã© isto?
 
 160
 00:17:42,969 --> 00:17:45,448
-Não sei, Misha.
-Não brinque com isso.
+NÃ£o sei, Misha.
+NÃ£o brinque com isso.
 
 161
 00:17:45,449 --> 00:17:46,849
@@ -732,24 +732,24 @@ Sente gosto de metal?
 
 163
 00:17:54,009 --> 00:17:55,409
-Sim, o que é isso?
+Sim, o que Ã© isso?
 
 164
 00:17:56,089 --> 00:17:57,489
-Não sei.
+NÃ£o sei.
 
 165
 00:17:58,729 --> 00:18:00,728
-As válvulas, Misha.
-As válvulas. Vamos!
+As vÃ¡lvulas, Misha.
+As vÃ¡lvulas. Vamos!
 
 166
 00:18:00,729 --> 00:18:02,129
-As válvulas, anda!
+As vÃ¡lvulas, anda!
 
 167
 00:18:34,089 --> 00:18:35,549
-Do que vocês precisam?
+Do que vocÃªs precisam?
 
 168
 00:18:36,209 --> 00:18:38,248
@@ -763,16 +763,16 @@ A porta emperrou.
 
 170
 00:18:41,729 --> 00:18:44,088
-Acho que não há
+Acho que nÃ£o hÃ¡
 mais hastes de controle.
 
 171
 00:18:44,089 --> 00:18:45,489
-Nem um núcleo.
+Nem um nÃºcleo.
 
 172
 00:18:47,489 --> 00:18:48,949
-Você está enganado.
+VocÃª estÃ¡ enganado.
 
 173
 00:18:50,289 --> 00:18:51,689
@@ -822,32 +822,32 @@ Lyudmilla.
 
 184
 00:21:59,849 --> 00:22:02,248
-Até a ponte da ferrovia
+AtÃ© a ponte da ferrovia
 para ver melhor.
 
 185
 00:22:02,249 --> 00:22:04,808
-Ninguém consegue dormir
+NinguÃ©m consegue dormir
 com essas sirenes.
 
 186
 00:22:04,809 --> 00:22:07,009
-Acho que não devem ir,
+Acho que nÃ£o devem ir,
 pode ser perigoso.
 
 187
 00:22:07,010 --> 00:22:08,410
-Perigoso por quê?
+Perigoso por quÃª?
 
 188
 00:22:08,411 --> 00:22:10,088
-É um incêndio.
-Está longe daqui.
+Ã‰ um incÃªndio.
+EstÃ¡ longe daqui.
 
 189
 00:22:10,089 --> 00:22:11,649
 - Mikhail!
-- O quê?
+- O quÃª?
 
 190
 00:22:14,289 --> 00:22:15,689
@@ -855,13 +855,13 @@ Desculpe.
 
 191
 00:22:19,929 --> 00:22:21,969
-- O Vasily foi lá?
+- O Vasily foi lÃ¡?
 - Foi.
 
 192
 00:22:22,889 --> 00:22:25,968
-- Ele disse que está ruim?
-- Não, disse que é só o telhado.
+- Ele disse que estÃ¡ ruim?
+- NÃ£o, disse que Ã© sÃ³ o telhado.
 
 193
 00:22:25,969 --> 00:22:28,729
@@ -870,21 +870,21 @@ nem nenhum dos rapazes.
 
 194
 00:22:29,729 --> 00:22:31,249
-Não vai acontecer nada.
+NÃ£o vai acontecer nada.
 
 195
 00:22:32,809 --> 00:22:34,329
-Vá descansar.
+VÃ¡ descansar.
 
 196
 00:22:46,569 --> 00:22:49,328
-O tanque é grande o bastante.
-Esse tipo de explosão...
+O tanque Ã© grande o bastante.
+Esse tipo de explosÃ£o...
 
 197
 00:22:49,329 --> 00:22:52,229
 O tanque de controle do 71
-tem 100 metros cúbicos.
+tem 100 metros cÃºbicos.
 
 198
 00:22:52,230 --> 00:22:53,648
@@ -905,12 +905,12 @@ Eu olhei bem onde estava.
 
 202
 00:23:01,969 --> 00:23:03,469
-Bem no núcleo.
+Bem no nÃºcleo.
 
 203
 00:23:04,849 --> 00:23:07,169
-Você abaixou as hastes
-de controle ou não?
+VocÃª abaixou as hastes
+de controle ou nÃ£o?
 
 204
 00:23:10,209 --> 00:23:11,809
@@ -922,16 +922,16 @@ Toptunov, ande logo!
 
 206
 00:23:19,209 --> 00:23:20,969
-Onde está o Kudryavtsev?
+Onde estÃ¡ o Kudryavtsev?
 
 207
 00:23:21,569 --> 00:23:24,409
 - Ele caiu.
-- Um médico, urgente!
+- Um mÃ©dico, urgente!
 
 208
 00:23:24,729 --> 00:23:27,568
-- Ele está delirando.
+- Ele estÃ¡ delirando.
 - O rosto dele.
 
 209
@@ -941,13 +941,13 @@ romperam.
 
 210
 00:23:29,449 --> 00:23:32,408
-A água está levemente
-contaminada. Já vi coisa pior.
+A Ã¡gua estÃ¡ levemente
+contaminada. JÃ¡ vi coisa pior.
 
 211
 00:23:32,409 --> 00:23:34,649
 As linhas externas
-estão funcionando?
+estÃ£o funcionando?
 
 212
 00:23:36,729 --> 00:23:38,129
@@ -963,13 +963,13 @@ Mas se o...
 
 215
 00:23:43,809 --> 00:23:45,608
-A água precisa chegar
-ao núcleo.
+A Ã¡gua precisa chegar
+ao nÃºcleo.
 
 216
 00:23:45,609 --> 00:23:48,129
 Precisamos de eletricistas,
-mecânicos, todo mundo.
+mecÃ¢nicos, todo mundo.
 
 217
 00:23:49,009 --> 00:23:50,809
@@ -978,8 +978,8 @@ preciso falar?
 
 218
 00:23:59,689 --> 00:24:01,888
-Vou até o prédio
-da administração,
+Vou atÃ© o prÃ©dio
+da administraÃ§Ã£o,
 
 219
 00:24:01,889 --> 00:24:04,368
@@ -988,13 +988,13 @@ E o Fomin.
 
 220
 00:24:04,369 --> 00:24:06,489
-Eles vão querer
-um relatório completo.
+Eles vÃ£o querer
+um relatÃ³rio completo.
 
 221
 00:24:07,969 --> 00:24:10,529
-Não sei se posso melhorar
-as coisas para você.
+NÃ£o sei se posso melhorar
+as coisas para vocÃª.
 
 222
 00:24:11,769 --> 00:24:13,649
@@ -1016,7 +1016,7 @@ Sim, camarada Dyatlov.
 
 226
 00:24:57,529 --> 00:24:58,929
-Está indo bem.
+EstÃ¡ indo bem.
 
 227
 00:25:00,129 --> 00:25:01,529
@@ -1025,11 +1025,11 @@ Levante-a.
 228
 00:25:05,409 --> 00:25:08,449
 Aquela, talvez em uma hora.
-Esta, só de manhã.
+Esta, sÃ³ de manhÃ£.
 
 229
 00:25:11,249 --> 00:25:13,049
-Como está lá embaixo,
+Como estÃ¡ lÃ¡ embaixo,
 doutora?
 
 230
@@ -1038,12 +1038,12 @@ Calmo.
 
 231
 00:25:15,449 --> 00:25:16,909
-Sempre está.
+Sempre estÃ¡.
 
 232
 00:25:17,249 --> 00:25:19,169
 Nada a esta hora,
-só bebês.
+sÃ³ bebÃªs.
 
 233
 00:25:20,849 --> 00:25:23,688
@@ -1057,13 +1057,13 @@ de parto ao mesmo tempo.
 
 235
 00:25:26,609 --> 00:25:28,649
-- Já contei essa história?
-- Já.
+- JÃ¡ contei essa histÃ³ria?
+- JÃ¡.
 
 236
 00:25:31,049 --> 00:25:33,008
-Não vou precisar
-de você agora.
+NÃ£o vou precisar
+de vocÃª agora.
 
 237
 00:25:33,009 --> 00:25:35,449
@@ -1072,17 +1072,17 @@ se quiser.
 
 238
 00:25:36,149 --> 00:25:38,369
-Não trouxeram
-ninguém do incêndio.
+NÃ£o trouxeram
+ninguÃ©m do incÃªndio.
 
 239
 00:25:38,809 --> 00:25:41,429
-- Que incêndio?
+- Que incÃªndio?
 - Na usina.
 
 240
 00:25:43,689 --> 00:25:45,369
-Não deve estar tão ruim.
+NÃ£o deve estar tÃ£o ruim.
 
 241
 00:25:46,609 --> 00:25:48,089
@@ -1098,21 +1098,21 @@ Quer dizer desinfetante?
 
 244
 00:25:53,169 --> 00:25:56,128
-Não, pílulas. O hospital
-estoca pílulas de iodo?
+NÃ£o, pÃ­lulas. O hospital
+estoca pÃ­lulas de iodo?
 
 245
 00:25:56,129 --> 00:25:58,689
-Pílulas de iodo?
-Por que teríamos isso?
+PÃ­lulas de iodo?
+Por que terÃ­amos isso?
 
 246
 00:26:11,409 --> 00:26:12,809
-Alô?
+AlÃ´?
 
 247
 00:26:14,329 --> 00:26:15,729
-Alô?
+AlÃ´?
 
 248
 00:26:22,689 --> 00:26:24,489
@@ -1120,7 +1120,7 @@ Quem mais sabe disso?
 
 249
 00:26:26,689 --> 00:26:28,529
-Você ligou para o Fomin?
+VocÃª ligou para o Fomin?
 
 250
 00:26:29,729 --> 00:26:31,688
@@ -1130,12 +1130,12 @@ que ligue para ele.
 251
 00:26:31,689 --> 00:26:33,809
 Se estou acordado,
-ele também está.
+ele tambÃ©m estÃ¡.
 
 252
 00:27:12,089 --> 00:27:15,689
 Seja o que for, o importante
-é que nem você nem eu...
+Ã© que nem vocÃª nem eu...
 
 253
 00:27:18,889 --> 00:27:20,289
@@ -1144,22 +1144,22 @@ Seja o que for, o importante
 254
 00:27:56,849 --> 00:27:59,688
 Imagino que o teste
-de segurança foi um fracasso?
+de seguranÃ§a foi um fracasso?
 
 255
 00:27:59,689 --> 00:28:02,169
-- A situação está sob controle.
+- A situaÃ§Ã£o estÃ¡ sob controle.
 - Sob controle?
 
 256
 00:28:02,689 --> 00:28:05,049
-- Não parece.
+- NÃ£o parece.
 - Cale a boca, Fomin.
 
 257
 00:28:06,689 --> 00:28:09,728
 Entende que tenho de contar
-ao Comitê Central sobre isso?
+ao ComitÃª Central sobre isso?
 
 258
 00:28:09,729 --> 00:28:13,368
@@ -1169,26 +1169,26 @@ e, Deus me livre, ao Frolyshev,
 259
 00:28:13,369 --> 00:28:15,128
 que minha usina
-está em chamas.
+estÃ¡ em chamas.
 
 260
 00:28:15,129 --> 00:28:17,629
-Ninguém pode culpá-lo
+NinguÃ©m pode culpÃ¡-lo
 por isso, diretor Bryukhanov.
 
 261
 00:28:17,630 --> 00:28:19,030
-Claro que não.
+Claro que nÃ£o.
 
 262
 00:28:19,031 --> 00:28:22,089
-Como posso ser responsável?
+Como posso ser responsÃ¡vel?
 Eu estava dormindo.
 
 263
 00:28:23,329 --> 00:28:25,409
 Conte o que aconteceu,
-rápido.
+rÃ¡pido.
 
 264
 00:28:27,329 --> 00:28:30,329
@@ -1202,32 +1202,32 @@ e o engenheiro Toptunov
 
 266
 00:28:33,889 --> 00:28:36,928
-tiveram dificuldades técnicas,
-o que levou à acumulação
+tiveram dificuldades tÃ©cnicas,
+o que levou Ã  acumulaÃ§Ã£o
 
 267
 00:28:36,929 --> 00:28:39,808
-de hidrogênio no tanque
+de hidrogÃªnio no tanque
 do sistema de controle.
 
 268
 00:28:39,809 --> 00:28:42,168
-Ele entrou em ignição
+Ele entrou em igniÃ§Ã£o
 danificando a usina,
 
 269
 00:28:42,169 --> 00:28:44,169
 e provocando
-um incêndio no telhado.
+um incÃªndio no telhado.
 
 270
 00:28:46,009 --> 00:28:47,649
-O tanque é bem grande.
+O tanque Ã© bem grande.
 
 271
 00:28:48,209 --> 00:28:49,969
-É a única
-explicação lógica.
+Ã‰ a Ãºnica
+explicaÃ§Ã£o lÃ³gica.
 
 272
 00:28:50,449 --> 00:28:53,808
@@ -1241,8 +1241,8 @@ por isso ele saberia melhor.
 
 274
 00:28:57,769 --> 00:28:59,769
-Incêndio no tanque
-de hidrogênio.
+IncÃªndio no tanque
+de hidrogÃªnio.
 
 275
 00:29:01,968 --> 00:29:03,368
@@ -1251,16 +1251,16 @@ E o reator?
 276
 00:29:03,369 --> 00:29:06,649
 Estamos agindo para manter
-o fluxo de água no núcleo.
+o fluxo de Ã¡gua no nÃºcleo.
 
 277
 00:29:07,129 --> 00:29:08,529
-E a radiação?
+E a radiaÃ§Ã£o?
 
 278
 00:29:08,929 --> 00:29:11,568
-Aqui não há nenhuma.
-Mas no prédio do reator
+Aqui nÃ£o hÃ¡ nenhuma.
+Mas no prÃ©dio do reator
 
 279
 00:29:11,569 --> 00:29:14,289
@@ -1269,16 +1269,16 @@ de 3,6 Roentgen por hora.
 
 280
 00:29:14,969 --> 00:29:17,008
-Não é nada bom.
-Mas não é terrível.
+NÃ£o Ã© nada bom.
+Mas nÃ£o Ã© terrÃ­vel.
 
 281
 00:29:17,009 --> 00:29:18,449
-Não mesmo.
+NÃ£o mesmo.
 
 282
 00:29:18,809 --> 00:29:20,729
-Da água de alimentação,
+Da Ã¡gua de alimentaÃ§Ã£o,
 eu presumo.
 
 283
@@ -1288,7 +1288,7 @@ a seis horas, mas fora isso...
 
 284
 00:29:26,609 --> 00:29:28,809
-O dosímetro deve ser
+O dosÃ­metro deve ser
 checado regularmente.
 
 285
@@ -1297,7 +1297,7 @@ Mandem usar o medidor bom.
 
 286
 00:29:31,969 --> 00:29:33,529
-O que está no cofre.
+O que estÃ¡ no cofre.
 
 287
 00:29:34,729 --> 00:29:36,129
@@ -1310,7 +1310,7 @@ Vou ligar para o Maryin.
 289
 00:29:39,089 --> 00:29:41,688
 Mande acordar todos
-do comitê executivo local.
+do comitÃª executivo local.
 
 290
 00:29:41,689 --> 00:29:43,089
@@ -1326,38 +1326,38 @@ Tem certeza?
 
 293
 00:29:56,809 --> 00:29:58,649
-O que você acha
+O que vocÃª acha
 que provoca as cores?
 
 294
 00:29:59,889 --> 00:30:01,688
 Com certeza
-é o combustível.
+Ã© o combustÃ­vel.
 
 295
 00:30:01,689 --> 00:30:03,568
 "Com certeza
-é o combustível."
+Ã© o combustÃ­vel."
 
 296
 00:30:03,569 --> 00:30:06,688
 O que sabe sobre isso?
-É faxineiro na estação de trem.
+Ã‰ faxineiro na estaÃ§Ã£o de trem.
 
 297
 00:30:06,689 --> 00:30:09,689
 Yuri trabalha na usina.
-Diz que funciona sem combustão.
+Diz que funciona sem combustÃ£o.
 
 298
 00:30:10,249 --> 00:30:12,449
-Sem gás, sem fogo.
-Só átomos.
+Sem gÃ¡s, sem fogo.
+SÃ³ Ã¡tomos.
 
 299
 00:30:12,889 --> 00:30:15,888
-Ele diz que só não se pode
-chegar perto do combustível.
+Ele diz que sÃ³ nÃ£o se pode
+chegar perto do combustÃ­vel.
 
 300
 00:30:15,889 --> 00:30:18,888
@@ -1366,23 +1366,23 @@ de vodca a cada quatro horas.
 
 301
 00:30:18,889 --> 00:30:20,729
-O Yuri não é encanador?
+O Yuri nÃ£o Ã© encanador?
 
 302
 00:30:21,449 --> 00:30:23,249
-Na usina nuclear, é sim.
+Na usina nuclear, Ã© sim.
 
 303
 00:30:30,289 --> 00:30:31,709
-É lindo.
+Ã‰ lindo.
 
 304
 00:30:32,649 --> 00:30:34,049
-É.
+Ã‰.
 
 305
 00:32:25,769 --> 00:32:27,169
-Você tem um cigarro?
+VocÃª tem um cigarro?
 
 306
 00:32:53,569 --> 00:32:54,969
@@ -1394,12 +1394,12 @@ Acabou.
 
 308
 00:34:07,689 --> 00:34:09,688
-Fizemos o que podíamos
-no perímetro.
+Fizemos o que podÃ­amos
+no perÃ­metro.
 
 309
 00:34:09,689 --> 00:34:11,329
-Precisamos ir até o telhado.
+Precisamos ir atÃ© o telhado.
 
 310
 00:34:18,089 --> 00:34:19,489
@@ -1411,7 +1411,7 @@ Desligue.
 
 312
 00:34:25,249 --> 00:34:26,649
-Já chega, camaradas.
+JÃ¡ chega, camaradas.
 
 313
 00:34:33,649 --> 00:34:35,049
@@ -1423,7 +1423,7 @@ Vasily, suba por aqui.
 
 315
 00:34:43,449 --> 00:34:44,849
-Até em cima e para dentro.
+AtÃ© em cima e para dentro.
 
 316
 00:34:47,129 --> 00:34:48,529
@@ -1443,30 +1443,30 @@ E a auxiliar?
 
 320
 00:35:52,729 --> 00:35:55,369
-As bombas estão destruídas.
-A parte elétrica também.
+As bombas estÃ£o destruÃ­das.
+A parte elÃ©trica tambÃ©m.
 
 321
 00:35:56,509 --> 00:35:57,968
-O núcleo?
+O nÃºcleo?
 
 322
 00:35:57,969 --> 00:35:59,769
-Eu não entrei lá,
+Eu nÃ£o entrei lÃ¡,
 e nem entrarei.
 
 323
 00:36:01,669 --> 00:36:03,128
-É hora de encarar...
+Ã‰ hora de encarar...
 
 324
 00:36:03,129 --> 00:36:05,849
-O núcleo precisa
-de água ou derreterá.
+O nÃºcleo precisa
+de Ã¡gua ou derreterÃ¡.
 
 325
 00:36:06,769 --> 00:36:08,688
-- Temos de abrir as válvulas.
+- Temos de abrir as vÃ¡lvulas.
 - Sasha.
 
 326
@@ -1476,12 +1476,12 @@ Se for verdade, estamos mortos.
 
 327
 00:36:11,329 --> 00:36:13,729
-Um milhão de pessoas também.
-É o que quer ouvir?
+Um milhÃ£o de pessoas tambÃ©m.
+Ã‰ o que quer ouvir?
 
 328
 00:36:16,329 --> 00:36:18,229
-Temos de abrir as válvulas
+Temos de abrir as vÃ¡lvulas
 
 329
 00:36:18,230 --> 00:36:19,649
@@ -1490,18 +1490,18 @@ Temos de abrir as válvulas
 
 330
 00:36:21,489 --> 00:36:24,528
-Com tantas válvulas,
-ficaremos horas lá dentro.
+Com tantas vÃ¡lvulas,
+ficaremos horas lÃ¡ dentro.
 
 331
 00:36:24,529 --> 00:36:26,648
-- Então, nos ajude.
-- Ajudar com o quê?
+- EntÃ£o, nos ajude.
+- Ajudar com o quÃª?
 
 332
 00:36:26,649 --> 00:36:29,409
-A jogar água em um buraco?
-Não tem nada lá.
+A jogar Ã¡gua em um buraco?
+NÃ£o tem nada lÃ¡.
 
 333
 00:36:38,809 --> 00:36:40,289
@@ -1514,7 +1514,7 @@ enquanto vamos.
 
 335
 00:36:55,649 --> 00:36:57,249
-Não está funcionando.
+NÃ£o estÃ¡ funcionando.
 
 336
 00:36:58,089 --> 00:36:59,509
@@ -1522,17 +1522,17 @@ Apenas fique de olho.
 
 337
 00:37:21,849 --> 00:37:24,208
-<i>Dá para perceber
+<i>DÃ¡ para perceber
 porque nos chamaram cedo.</i>
 
 338
 00:37:24,209 --> 00:37:25,689
-<i>Alguém sabe o que houve?</i>
+<i>AlguÃ©m sabe o que houve?</i>
 
 339
 00:37:26,209 --> 00:37:28,728
 <i>Foi durante um teste
-de segurança nas turbinas.</i>
+de seguranÃ§a nas turbinas.</i>
 
 340
 00:37:28,729 --> 00:37:31,049
@@ -1541,7 +1541,7 @@ de controle explodiu.
 
 341
 00:37:31,849 --> 00:37:33,649
-Também não faz sentido
+TambÃ©m nÃ£o faz sentido
 para mim.
 
 342
@@ -1559,17 +1559,17 @@ Sitnikov!
 345
 00:37:41,209 --> 00:37:43,728
 Bryukhanov quer que usemos
-o dosímetro bom.
+o dosÃ­metro bom.
 
 346
 00:37:43,729 --> 00:37:46,368
-Ele está no cofre
-e não achamos a chave.
+Ele estÃ¡ no cofre
+e nÃ£o achamos a chave.
 
 347
 00:37:46,369 --> 00:37:48,649
-Está no prédio dois.
-Ainda não...
+EstÃ¡ no prÃ©dio dois.
+Ainda nÃ£o...
 
 348
 00:37:49,729 --> 00:37:51,129
@@ -1589,12 +1589,12 @@ Sentem-se, por favor.
 
 352
 00:38:06,709 --> 00:38:08,109
-Há muitos lugares.
+HÃ¡ muitos lugares.
 
 353
 00:38:08,609 --> 00:38:10,809
 Pedimos desculpas
-por ser tão tarde.
+por ser tÃ£o tarde.
 
 354
 00:38:11,369 --> 00:38:14,609
@@ -1603,8 +1603,8 @@ estamos bem seguros aqui.
 
 355
 00:38:15,369 --> 00:38:19,369
-Este abrigo é à prova de ataque
-nuclear dos americanos, então...
+Este abrigo Ã© Ã  prova de ataque
+nuclear dos americanos, entÃ£o...
 
 356
 00:38:19,709 --> 00:38:21,109
@@ -1622,27 +1622,27 @@ teve um problema
 
 359
 00:38:28,329 --> 00:38:32,208
-e danificou o prédio quatro
-do reator provocando o incêndio.
+e danificou o prÃ©dio quatro
+do reator provocando o incÃªndio.
 
 360
 00:38:32,209 --> 00:38:35,608
 Eu falei direto com
-o secretário-adjunto Maryin,
+o secretÃ¡rio-adjunto Maryin,
 
 361
 00:38:35,609 --> 00:38:38,168
-que falou com o secretário-chefe
+que falou com o secretÃ¡rio-chefe
 Frolyshev,
 
 362
 00:38:38,169 --> 00:38:41,328
 que falou com o membro
-do Comitê Central Dolghikn,
+do ComitÃª Central Dolghikn,
 
 363
 00:38:41,329 --> 00:38:44,809
-que falou com o secretário-geral
+que falou com o secretÃ¡rio-geral
 Gorbachev.
 
 364
@@ -1651,18 +1651,18 @@ Agora...
 
 365
 00:38:47,689 --> 00:38:52,288
-Como o Comitê Central
+Como o ComitÃª Central
 tem muito respeito
 
 366
 00:38:52,289 --> 00:38:55,529
 pelo trabalho
-do Comitê Executivo de Pripyat,
+do ComitÃª Executivo de Pripyat,
 
 367
 00:38:56,289 --> 00:38:59,169
 fui encarregado de explicar
-a situação atual.
+a situaÃ§Ã£o atual.
 
 368
 00:39:01,689 --> 00:39:03,329
@@ -1670,50 +1670,50 @@ Primeiro, o acidente...
 
 369
 00:39:04,249 --> 00:39:05,649
-está bem sob controle.
+estÃ¡ bem sob controle.
 
 370
 00:39:06,249 --> 00:39:07,889
-Segundo, já que
+Segundo, jÃ¡ que
 
 371
 00:39:07,890 --> 00:39:10,928
-os esforços da indústria
-nuclear soviética
+os esforÃ§os da indÃºstria
+nuclear soviÃ©tica
 
 372
 00:39:10,929 --> 00:39:13,208
-são considerados
+sÃ£o considerados
 segredos de Estado,
 
 373
 00:39:13,209 --> 00:39:16,209
-é imperativo
+Ã© imperativo
 que possamos garantir
 
 374
 00:39:16,689 --> 00:39:20,249
-que esse incidente não tenha
-consequências adversas.
+que esse incidente nÃ£o tenha
+consequÃªncias adversas.
 
 375
 00:39:20,809 --> 00:39:22,269
-Para evitar pânico,
+Para evitar pÃ¢nico,
 
 376
 00:39:22,809 --> 00:39:25,728
-o Comitê Central ordenou
-o envio de um pelotão
+o ComitÃª Central ordenou
+o envio de um pelotÃ£o
 
 377
 00:39:25,729 --> 00:39:27,528
-da polícia militar
+da polÃ­cia militar
 para Prypiat.
 
 378
 00:39:27,529 --> 00:39:29,009
 De que tamanho
-é o pelotão?
+Ã© o pelotÃ£o?
 
 379
 00:39:30,609 --> 00:39:32,569
@@ -1722,30 +1722,30 @@ e quatro mil homens.
 
 380
 00:39:34,849 --> 00:39:36,689
-O que está havendo
+O que estÃ¡ havendo
 de verdade?
 
 381
 00:39:37,009 --> 00:39:38,649
-Qual é o perigo real?
+Qual Ã© o perigo real?
 
 382
 00:39:39,649 --> 00:39:42,768
-Há uma radiação leve,
-mas está limitada à usina.
+HÃ¡ uma radiaÃ§Ã£o leve,
+mas estÃ¡ limitada Ã  usina.
 
 383
 00:39:42,769 --> 00:39:44,169
-Não está, não.
+NÃ£o estÃ¡, nÃ£o.
 
 384
 00:39:44,609 --> 00:39:46,208
-Perdão?
+PerdÃ£o?
 
 385
 00:39:46,209 --> 00:39:48,969
 Os senhores viram homens
-vomitando, lá fora.
+vomitando, lÃ¡ fora.
 
 386
 00:39:49,889 --> 00:39:51,689
@@ -1754,8 +1754,8 @@ com queimaduras.
 
 387
 00:39:52,809 --> 00:39:54,929
-Há mais radiação
-do que estão dizendo.
+HÃ¡ mais radiaÃ§Ã£o
+do que estÃ£o dizendo.
 
 388
 00:39:55,369 --> 00:39:57,648
@@ -1774,12 +1774,12 @@ por favor...
 
 391
 00:40:04,249 --> 00:40:06,369
-Minha mulher está aqui.
+Minha mulher estÃ¡ aqui.
 
 392
 00:40:06,809 --> 00:40:10,048
 Acham que eu a manteria
-em Prypiat se não fosse seguro?
+em Prypiat se nÃ£o fosse seguro?
 
 393
 00:40:10,049 --> 00:40:11,449
@@ -1787,20 +1787,20 @@ Bryukhanov,
 
 394
 00:40:11,769 --> 00:40:13,888
-o ar está brilhando.
+o ar estÃ¡ brilhando.
 
 395
 00:40:13,889 --> 00:40:15,369
-É o efeito Cherenkov.
+Ã‰ o efeito Cherenkov.
 
 396
 00:40:15,648 --> 00:40:17,048
-É um fenômeno normal.
+Ã‰ um fenÃ´meno normal.
 
 397
 00:40:17,049 --> 00:40:19,289
 Pode acontecer
-com um mínimo de radiação.
+com um mÃ­nimo de radiaÃ§Ã£o.
 
 398
 00:40:29,409 --> 00:40:33,289
@@ -1809,12 +1809,12 @@ sabem o nome deste lugar.
 
 399
 00:40:35,729 --> 00:40:38,089
-Nós o chamamos
-de Chernobyl, é claro.
+NÃ³s o chamamos
+de Chernobyl, Ã© claro.
 
 400
 00:40:39,649 --> 00:40:41,649
-Qual é
+Qual Ã©
 o seu nome verdadeiro?
 
 401
@@ -1833,69 +1833,69 @@ Vladimir I. Lenin.
 404
 00:41:01,689 --> 00:41:04,689
 Ele estaria muito orgulhoso
-de vocês hoje.
+de vocÃªs hoje.
 
 405
 00:41:06,569 --> 00:41:08,449
-Especialmente de você,
+Especialmente de vocÃª,
 meu jovem.
 
 406
 00:41:09,809 --> 00:41:11,849
-Da paixão
+Da paixÃ£o
 que tem pelo povo.
 
 407
 00:41:13,609 --> 00:41:17,009
-Não é esse o único propósito
+NÃ£o Ã© esse o Ãºnico propÃ³sito
 do aparato do Estado?
 
 408
 00:41:19,009 --> 00:41:20,769
-Às vezes,
-nós esquecemos.
+Ã€s vezes,
+nÃ³s esquecemos.
 
 409
 00:41:22,609 --> 00:41:24,649
-Às vezes,
-somos vítimas do medo.
+Ã€s vezes,
+somos vÃ­timas do medo.
 
 410
 00:41:26,769 --> 00:41:29,729
-Mas a nossa fé
-no socialismo soviético
+Mas a nossa fÃ©
+no socialismo soviÃ©tico
 
 411
 00:41:30,809 --> 00:41:33,209
-será sempre
+serÃ¡ sempre
 recompensada.
 
 412
 00:41:36,689 --> 00:41:39,649
 O Estado nos disse
-que a situação não é perigosa.
+que a situaÃ§Ã£o nÃ£o Ã© perigosa.
 
 413
 00:41:40,929 --> 00:41:42,729
-Tenham fé, camaradas.
+Tenham fÃ©, camaradas.
 
 414
 00:41:45,089 --> 00:41:47,789
 O Estado diz
-que quer impedir o pânico.
+que quer impedir o pÃ¢nico.
 
 415
 00:41:47,790 --> 00:41:49,190
-Prestem atenção!
+Prestem atenÃ§Ã£o!
 
 416
 00:41:52,769 --> 00:41:56,649
-É verdade. O povo ficará
-com medo quando vir a polícia.
+Ã‰ verdade. O povo ficarÃ¡
+com medo quando vir a polÃ­cia.
 
 417
 00:41:58,329 --> 00:42:00,009
-Mas pela minha experiência,
+Mas pela minha experiÃªncia,
 
 418
 00:42:01,609 --> 00:42:03,808
@@ -1903,7 +1903,7 @@ quando o povo faz perguntas
 
 419
 00:42:03,809 --> 00:42:06,169
-que não são
+que nÃ£o sÃ£o
 do melhor interesse dele,
 
 420
@@ -1926,16 +1926,16 @@ Vamos fechar a cidade.
 
 424
 00:42:21,889 --> 00:42:23,289
-Ninguém sai.
+NinguÃ©m sai.
 
 425
 00:42:24,449 --> 00:42:26,808
-Cortem as linhas telefônicas.
+Cortem as linhas telefÃ´nicas.
 
 426
 00:42:26,809 --> 00:42:29,489
-Contenham a disseminação
-de informações falsas.
+Contenham a disseminaÃ§Ã£o
+de informaÃ§Ãµes falsas.
 
 427
 00:42:32,249 --> 00:42:33,689
@@ -1944,7 +1944,7 @@ Desse modo,
 428
 00:42:34,009 --> 00:42:37,809
 impedimos que o povo prejudique
-os frutos do próprio trabalho.
+os frutos do prÃ³prio trabalho.
 
 429
 00:42:41,329 --> 00:42:42,729
@@ -1957,7 +1957,7 @@ pelo que fizermos nesta noite.
 
 431
 00:42:50,689 --> 00:42:54,449
-Esta é a nossa hora
+Esta Ã© a nossa hora
 de brilhar.
 
 432
@@ -1971,21 +1971,21 @@ Sitnikov.
 
 434
 00:43:36,689 --> 00:43:38,089
-Então?
+EntÃ£o?
 
 435
 00:43:44,529 --> 00:43:48,329
-Eu mandei meus dosímetros
-para o prédio do reator.
+Eu mandei meus dosÃ­metros
+para o prÃ©dio do reator.
 
 436
 00:43:48,969 --> 00:43:52,728
-O dosímetro grande do cofre
+O dosÃ­metro grande do cofre
 com capacidade de mil Roentgen.
 
 437
 00:43:52,729 --> 00:43:54,129
-Qual foi o número?
+Qual foi o nÃºmero?
 
 438
 00:43:57,239 --> 00:43:58,648
@@ -1998,8 +1998,8 @@ no momento em que foi ligado.
 
 440
 00:44:02,289 --> 00:44:04,648
-- Típico.
-- É o que Moscou faz.
+- TÃ­pico.
+- Ã‰ o que Moscou faz.
 
 441
 00:44:04,649 --> 00:44:07,808
@@ -2009,7 +2009,7 @@ e perguntam o que deu errado.
 442
 00:44:07,809 --> 00:44:09,329
 Encontramos
-outro dosímetro.
+outro dosÃ­metro.
 
 443
 00:44:09,969 --> 00:44:11,928
@@ -2017,8 +2017,8 @@ Dos bombeiros militares.
 
 444
 00:44:11,929 --> 00:44:15,408
-Só vai até 200 Roentgen,
-mas é melhor do que os menores.
+SÃ³ vai atÃ© 200 Roentgen,
+mas Ã© melhor do que os menores.
 
 445
 00:44:15,409 --> 00:44:16,809
@@ -2026,7 +2026,7 @@ E?
 
 446
 00:44:17,249 --> 00:44:18,649
-Marcou o máximo.
+Marcou o mÃ¡ximo.
 
 447
 00:44:19,289 --> 00:44:20,689
@@ -2034,25 +2034,25 @@ Duzentos Roentgen.
 
 448
 00:44:23,449 --> 00:44:24,849
-Que jogo é esse?
+Que jogo Ã© esse?
 
 449
 00:44:25,169 --> 00:44:26,569
-Não, eu...
+NÃ£o, eu...
 
 450
 00:44:27,089 --> 00:44:29,208
 Eu perguntei.
-Ele tirou várias medidas.
+Ele tirou vÃ¡rias medidas.
 
 451
 00:44:29,209 --> 00:44:30,808
-É meu melhor funcionário.
+Ã‰ meu melhor funcionÃ¡rio.
 
 452
 00:44:30,809 --> 00:44:33,528
-É outro medidor com problema.
-É uma perda de tempo.
+Ã‰ outro medidor com problema.
+Ã‰ uma perda de tempo.
 
 453
 00:44:33,529 --> 00:44:35,448
@@ -2062,20 +2062,20 @@ com o controle.
 454
 00:44:35,449 --> 00:44:37,568
 Como assim?
-Como obteve esse número
+Como obteve esse nÃºmero
 
 455
 00:44:37,569 --> 00:44:39,809
-de água de alimentação
+de Ã¡gua de alimentaÃ§Ã£o
 vazando de um tanque?
 
 456
 00:44:43,248 --> 00:44:44,648
-É impossível.
+Ã‰ impossÃ­vel.
 
 457
 00:44:44,649 --> 00:44:46,329
-Do que está falando então?
+Do que estÃ¡ falando entÃ£o?
 
 458
 00:44:50,649 --> 00:44:52,049
@@ -2084,35 +2084,35 @@ Eu...
 459
 00:44:54,649 --> 00:44:57,409
 Eu andei pelo exterior
-do prédio quatro.
+do prÃ©dio quatro.
 
 460
 00:44:59,409 --> 00:45:02,089
-Acho que há grafite no chão,
+Acho que hÃ¡ grafite no chÃ£o,
 nos escombros.
 
 461
 00:45:03,649 --> 00:45:05,049
-Você não viu grafite.
+VocÃª nÃ£o viu grafite.
 
 462
 00:45:06,409 --> 00:45:07,809
 - Eu vi.
-- Não viu.
+- NÃ£o viu.
 
 463
 00:45:09,209 --> 00:45:12,369
-Você não viu!
-Porque não está lá!
+VocÃª nÃ£o viu!
+Porque nÃ£o estÃ¡ lÃ¡!
 
 464
 00:45:15,649 --> 00:45:17,649
-Você está sugerindo
-que o núcleo...
+VocÃª estÃ¡ sugerindo
+que o nÃºcleo...
 
 465
 00:45:18,129 --> 00:45:20,089
-O quê? Explodiu?
+O quÃª? Explodiu?
 
 466
 00:45:22,849 --> 00:45:24,249
@@ -2124,8 +2124,8 @@ Sitnikov,
 
 468
 00:45:35,129 --> 00:45:37,848
-você é um engenheiro nuclear
-e eu também.
+vocÃª Ã© um engenheiro nuclear
+e eu tambÃ©m.
 
 469
 00:45:37,849 --> 00:45:39,249
@@ -2133,16 +2133,16 @@ Explique, por favor,
 
 470
 00:45:39,809 --> 00:45:42,969
-como o núcleo
+como o nÃºcleo
 de um reator RBMK explode?
 
 471
 00:45:43,969 --> 00:45:45,369
-Não um derretimento.
+NÃ£o um derretimento.
 
 472
 00:45:46,049 --> 00:45:47,569
-Uma explosão.
+Uma explosÃ£o.
 
 473
 00:45:48,449 --> 00:45:49,849
@@ -2150,19 +2150,19 @@ Eu adoraria saber.
 
 474
 00:45:50,809 --> 00:45:52,209
-Não sei explicar.
+NÃ£o sei explicar.
 
 475
 00:45:52,809 --> 00:45:54,209
-Você é burro?
+VocÃª Ã© burro?
 
 476
 00:45:55,609 --> 00:45:57,009
-Não.
+NÃ£o.
 
 477
 00:45:57,010 --> 00:45:58,609
-Então por que não sabe?
+EntÃ£o por que nÃ£o sabe?
 
 478
 00:45:59,849 --> 00:46:01,289
@@ -2170,8 +2170,8 @@ Eu... eu...
 
 479
 00:46:03,369 --> 00:46:05,649
-Não entendo
-como pôde explodir.
+NÃ£o entendo
+como pÃ´de explodir.
 
 480
 00:46:08,288 --> 00:46:09,688
@@ -2180,24 +2180,24 @@ Mas explodiu.
 481
 00:46:09,689 --> 00:46:12,568
 Chega! Vou subir no telhado
-do bloco de ventilação,
+do bloco de ventilaÃ§Ã£o,
 
 482
 00:46:12,569 --> 00:46:15,289
-de lá dá para ver
-o prédio do reator quatro.
+de lÃ¡ dÃ¡ para ver
+o prÃ©dio do reator quatro.
 
 483
 00:46:15,609 --> 00:46:17,129
-Vou ver com meus próprios...
+Vou ver com meus prÃ³prios...
 
 484
 00:46:18,409 --> 00:46:19,809
-próprios olhos.
+prÃ³prios olhos.
 
 485
 00:46:25,489 --> 00:46:26,889
-Peço desculpas.
+PeÃ§o desculpas.
 
 486
 00:46:28,449 --> 00:46:29,849
@@ -2205,34 +2205,34 @@ Guardas! Guardas!
 
 487
 00:46:31,329 --> 00:46:34,449
-Levem-no à enfermaria,
+Levem-no Ã  enfermaria,
 ao hospital, o que for preciso!
 
 488
 00:46:50,809 --> 00:46:54,089
-Foi a água de alimentação.
+Foi a Ã¡gua de alimentaÃ§Ã£o.
 Ficou perto dela a noite toda.
 
 489
 00:46:56,289 --> 00:46:57,689
-Vá você então.
+VÃ¡ vocÃª entÃ£o.
 
 490
 00:47:00,808 --> 00:47:02,208
-O quê?
+O quÃª?
 
 491
 00:47:02,209 --> 00:47:03,808
-Vá até o telhado do bloco
+VÃ¡ atÃ© o telhado do bloco
 
 492
 00:47:03,809 --> 00:47:05,889
 - e volte para dizer o que viu.
-- Não.
+- NÃ£o.
 
 493
 00:47:10,089 --> 00:47:11,849
-Eu não vou fazer isso.
+Eu nÃ£o vou fazer isso.
 
 494
 00:47:12,569 --> 00:47:13,989
@@ -2244,7 +2244,7 @@ Vai ficar tudo bem.
 
 496
 00:47:20,889 --> 00:47:22,289
-Você vai ver.
+VocÃª vai ver.
 
 497
 00:47:23,689 --> 00:47:25,089
@@ -2256,7 +2256,7 @@ Certo.
 
 499
 00:48:09,649 --> 00:48:11,049
-Vamos começar.
+Vamos comeÃ§ar.
 
 500
 00:48:19,009 --> 00:48:20,409
@@ -2268,11 +2268,11 @@ Leonid.
 
 502
 00:48:34,209 --> 00:48:35,649
-Até em cima, certo?
+AtÃ© em cima, certo?
 
 503
 00:48:36,249 --> 00:48:37,649
-Até em cima.
+AtÃ© em cima.
 
 504
 00:48:47,129 --> 00:48:48,529
@@ -2280,15 +2280,15 @@ Desculpe.
 
 505
 00:48:52,489 --> 00:48:54,209
-Não precisa pedir desculpas.
+NÃ£o precisa pedir desculpas.
 
 506
 00:48:54,609 --> 00:48:56,088
-Eu já disse.
+Eu jÃ¡ disse.
 
 507
 00:48:56,089 --> 00:48:57,609
-Não fizemos nada errado.
+NÃ£o fizemos nada errado.
 
 508
 00:49:00,329 --> 00:49:01,729
@@ -2296,7 +2296,7 @@ Fizemos sim.
 
 509
 00:52:49,528 --> 00:52:50,928
-Alô?
+AlÃ´?
 
 510
 00:52:50,929 --> 00:52:53,088
@@ -2305,18 +2305,18 @@ Alô?
 
 511
 00:52:53,089 --> 00:52:55,608
-<i>O Legasov que é o primeiro
+<i>O Legasov que Ã© o primeiro
 diretor-adjunto</i>
 
 512
 00:52:55,609 --> 00:52:58,128
 <i>do Instituto de Energia
-Atômica Kurchatov?</i>
+AtÃ´mica Kurchatov?</i>
 
 513
 00:52:58,129 --> 00:53:00,928
 - Eu mesmo. Quem fala?
-<i>- Aqui é Boris Shcherbina,</i>
+<i>- Aqui Ã© Boris Shcherbina,</i>
 
 514
 00:53:00,929 --> 00:53:03,288
@@ -2325,8 +2325,8 @@ do Conselho de Ministros</i>
 
 515
 00:53:03,289 --> 00:53:05,769
-<i>e diretor da Agência
-de Energia e Combustível.</i>
+<i>e diretor da AgÃªncia
+de Energia e CombustÃ­vel.</i>
 
 516
 00:53:06,129 --> 00:53:09,209
@@ -2335,12 +2335,12 @@ na Usina Nuclear de Chernobyl.</i>
 
 517
 00:53:10,449 --> 00:53:11,928
-É muito grave?
+Ã‰ muito grave?
 
 518
 00:53:11,929 --> 00:53:15,168
-<i>Não entre em pânico.
-Foi um incêndio, já foi apagado.</i>
+<i>NÃ£o entre em pÃ¢nico.
+Foi um incÃªndio, jÃ¡ foi apagado.</i>
 
 519
 00:53:15,169 --> 00:53:17,528
@@ -2350,86 +2350,86 @@ do sistema explodiu.</i>
 520
 00:53:17,529 --> 00:53:20,528
 Tanque do sistema de controle.
-E o núcleo?
+E o nÃºcleo?
 
 521
 00:53:20,529 --> 00:53:23,009
 <i>Ordenamos que eles continuem
-bombeando água.</i>
+bombeando Ã¡gua.</i>
 
 522
 00:53:23,689 --> 00:53:25,969
 Entendi.
-Alguma contaminação?
+Alguma contaminaÃ§Ã£o?
 
 523
 00:53:26,649 --> 00:53:31,128
-<i>É baixa. O diretor da usina
+<i>Ã‰ baixa. O diretor da usina
 disse 3,6 Roentgen por hora.</i>
 
 524
 00:53:31,129 --> 00:53:33,368
-É significativo.
-Deviam evacuar a área...
+Ã‰ significativo.
+Deviam evacuar a Ã¡rea...
 
 525
 00:53:33,369 --> 00:53:37,049
-<i>Você é especialista
+<i>VocÃª Ã© especialista
 em reatores RBMK, certo?</i>
 
 526
 00:53:38,369 --> 00:53:40,888
 - Sim, eu estudei...
-<i>- O secretário Gorbachev</i>
+<i>- O secretÃ¡rio Gorbachev</i>
 
 527
 00:53:40,889 --> 00:53:43,928
-<i>formou um comitê
+<i>formou um comitÃª
 para gerenciar o acidente.</i>
 
 528
 00:53:43,929 --> 00:53:45,329
-<i>Você está nele.</i>
+<i>VocÃª estÃ¡ nele.</i>
 
 529
 00:53:45,729 --> 00:53:48,087
-<i>Nós nos reuniremos
-hoje às duas da tarde.</i>
+<i>NÃ³s nos reuniremos
+hoje Ã s duas da tarde.</i>
 
 530
 00:53:48,088 --> 00:53:49,488
-Tão tarde?
+TÃ£o tarde?
 
 531
 00:53:49,489 --> 00:53:52,689
-Perdão, mas com essa
-quantidade de radiação,
+PerdÃ£o, mas com essa
+quantidade de radiaÃ§Ã£o,
 
 532
 00:53:52,690 --> 00:53:54,128
-- não acha que...
+- nÃ£o acha que...
 <i>- Legasov.</i>
 
 533
 00:53:54,129 --> 00:53:56,648
-<i>Você está no comitê
-para tirar dúvidas diretas</i>
+<i>VocÃª estÃ¡ no comitÃª
+para tirar dÃºvidas diretas</i>
 
 534
 00:53:56,649 --> 00:54:00,529
-<i>sobre a função do reator RBMK,
+<i>sobre a funÃ§Ã£o do reator RBMK,
 caso haja alguma.</i>
 
 535
 00:54:01,169 --> 00:54:03,288
 <i>Nada mais.
-Principalmente política.</i>
+Principalmente polÃ­tica.</i>
 
 536
 00:54:03,289 --> 00:54:04,848
-<i>Você entendeu?</i>
+<i>VocÃª entendeu?</i>
 
 537
 00:54:04,849 --> 00:54:07,507
-Sim, com certeza. Eu não quis...
+Sim, com certeza. Eu nÃ£o quis...
 
