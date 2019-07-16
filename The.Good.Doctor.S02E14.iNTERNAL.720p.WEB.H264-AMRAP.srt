@@ -1,11 +1,11 @@
-1
+1 
 00:00:13,926 --> 00:00:17,856
 - Shaun, tirou as minhas roupas?
 - Menos sua cueca.
 
 2
 00:00:19,398 --> 00:00:21,973
-- Há quanto tempo está aqui?
+- HÃ¡ quanto tempo estÃ¡ aqui?
 - A noite inteira.
 
 3
@@ -15,53 +15,53 @@
 
 4
 00:00:26,381 --> 00:00:28,050
-Não, deveria estar
+NÃ£o, deveria estar
 no trabalho.
 
 5
 00:00:28,051 --> 00:00:31,165
-Está doente o tempo inteiro,
-não só depois do expediente.
+EstÃ¡ doente o tempo inteiro,
+nÃ£o sÃ³ depois do expediente.
 
 6
 00:00:31,166 --> 00:00:34,845
-Shaun, não desista da sua vida.
-Tem meu número, pode me checar.
+Shaun, nÃ£o desista da sua vida.
+Tem meu nÃºmero, pode me checar.
 
 7
 00:00:34,846 --> 00:00:38,925
-Tenho 15 dias de férias pagas
-e 10 dias de doença por ano,
+Tenho 15 dias de fÃ©rias pagas
+e 10 dias de doenÃ§a por ano,
 
 8
 00:00:38,926 --> 00:00:40,861
-mas só posso tirar
+mas sÃ³ posso tirar
 estando doente,
 
 9
 00:00:40,862 --> 00:00:43,301
-não quando você está,
-então isto são férias.
+nÃ£o quando vocÃª estÃ¡,
+entÃ£o isto sÃ£o fÃ©rias.
 
 10
 00:00:45,885 --> 00:00:50,212
-O plano é alinhar seus olhos
-usando distração osteogênica.
+O plano Ã© alinhar seus olhos
+usando distraÃ§Ã£o osteogÃªnica.
 
 11
 00:00:50,213 --> 00:00:54,515
 Cortamos o osso e implantamos
-em ambas órbitas oculares.
+em ambas Ã³rbitas oculares.
 
 12
 00:00:54,965 --> 00:00:58,188
-E então nós expandimos
-lentamente essa distância,
+E entÃ£o nÃ³s expandimos
+lentamente essa distÃ¢ncia,
 
 13
 00:00:58,189 --> 00:01:00,649
 permitindo que outro osso
-cresça no espaço.
+cresÃ§a no espaÃ§o.
 
 14
 00:01:01,029 --> 00:01:04,861
@@ -70,8 +70,8 @@ cresça no espaço.
 
 15
 00:01:04,862 --> 00:01:08,013
-mas com sua tolerância à dor,
-fará cócegas.
+mas com sua tolerÃ¢ncia Ã  dor,
+farÃ¡ cÃ³cegas.
 
 16
 00:01:08,014 --> 00:01:09,414
@@ -99,36 +99,36 @@ e tecido mole no acidente,
 21
 00:01:20,045 --> 00:01:22,047
 e se tratando
-da reconstrução facial,
+da reconstruÃ§Ã£o facial,
 
 22
 00:01:22,048 --> 00:01:24,308
 fizemos progresso
-nos últimos dois anos.
+nos Ãºltimos dois anos.
 
 23
 00:01:24,309 --> 00:01:28,804
-E após 12 cirurgias,
+E apÃ³s 12 cirurgias,
 ganha sua caneca personalizada.
 
 24
 00:01:28,805 --> 00:01:31,652
 Eu tinha esquecido disso.
-Certo, quando começaremos?
+Certo, quando comeÃ§aremos?
 
 25
 00:01:31,653 --> 00:01:33,085
-Agora é cedo demais?
+Agora Ã© cedo demais?
 
 26
 00:01:37,677 --> 00:01:40,812
 Acidente de carro. Karin Tindle,
-14, dormindo atrás.
+14, dormindo atrÃ¡s.
 
 27
 00:01:40,813 --> 00:01:43,765
 - Caminhoneiro adormeceu.
-- Não estava usando cinto.
+- NÃ£o estava usando cinto.
 
 28
 00:01:43,766 --> 00:01:47,125
@@ -141,13 +141,13 @@ Hemorragia cerebral.
 
 30
 00:01:48,528 --> 00:01:51,252
-25 pontos de diferença
-na pressão entre os braços.
+25 pontos de diferenÃ§a
+na pressÃ£o entre os braÃ§os.
 
 31
 00:01:51,253 --> 00:01:53,588
-- Dissecção aórtica.
-- Cabeça e coração.
+- DissecÃ§Ã£o aÃ³rtica.
+- CabeÃ§a e coraÃ§Ã£o.
 
 32
 00:01:53,589 --> 00:01:55,981
@@ -157,7 +157,7 @@ Estaremos na SO.
 33
 00:01:56,293 --> 00:01:59,365
 - Avisou ao pai da Karin?
-- Ele faleceu há 3 anos.
+- Ele faleceu hÃ¡ 3 anos.
 
 34
 00:01:59,366 --> 00:02:00,766
@@ -165,7 +165,7 @@ Vamos.
 
 35
 00:02:01,074 --> 00:02:02,822
-Por que ela não acorda?
+Por que ela nÃ£o acorda?
 
 36
 00:02:03,773 --> 00:02:05,173
@@ -188,23 +188,23 @@ soma | LayHolmes</b>
 
 40
 00:02:13,410 --> 00:02:15,210
-<b>Revisão:
+<b>RevisÃ£o:
 Yuca</b>
 
 41
 00:02:15,211 --> 00:02:17,211
-<b>2ª Temporada - E14
+<b>2Âª Temporada - E14
 "Faces"</b>
 
 42
 00:02:17,983 --> 00:02:20,110
 Tomografia confirmou
-dissecção aórtica.
+dissecÃ§Ã£o aÃ³rtica.
 
 43
 00:02:20,111 --> 00:02:22,891
 - Precisa de toracotomia.
-- Aorta ainda não rompeu.
+- Aorta ainda nÃ£o rompeu.
 
 44
 00:02:22,892 --> 00:02:26,230
@@ -213,13 +213,13 @@ Traumatismo craniano primeiro.
 
 45
 00:02:26,231 --> 00:02:30,164
-Não vejo hemorragias grandes,
-e podemos monitorar pressões.
+NÃ£o vejo hemorragias grandes,
+e podemos monitorar pressÃµes.
 
 46
 00:02:30,165 --> 00:02:32,055
 Nesse caso,
-o coração vem primeiro.
+o coraÃ§Ã£o vem primeiro.
 
 47
 00:02:34,323 --> 00:02:35,723
@@ -228,27 +228,27 @@ Certo.
 48
 00:02:39,223 --> 00:02:42,914
 Tenho dois grandes sintomas...
-Náusea e tédio.
+NÃ¡usea e tÃ©dio.
 
 49
 00:02:43,495 --> 00:02:46,750
-Não sabia que tédio
+NÃ£o sabia que tÃ©dio
 era sintoma de quimioterapia.
 
 50
 00:02:46,751 --> 00:02:49,337
-É um sintoma de ficar
+Ã‰ um sintoma de ficar
 sentado o dia inteiro.
 
 51
 00:02:50,336 --> 00:02:54,833
 Geria um hospital com 700 leitos
-e mil funcionários.
+e mil funcionÃ¡rios.
 
 52
 00:02:54,834 --> 00:02:58,614
 Agora preciso pensar em como
-manter a comida lá embaixo,
+manter a comida lÃ¡ embaixo,
 
 53
 00:02:58,615 --> 00:03:01,229
@@ -269,7 +269,7 @@ Sabe do que preciso?
 
 57
 00:03:10,629 --> 00:03:12,063
-Meus remédios.
+Meus remÃ©dios.
 
 58
 00:03:12,831 --> 00:03:14,931
@@ -278,12 +278,12 @@ o favor e...
 
 59
 00:03:15,887 --> 00:03:19,109
-buscá-los para mim?
+buscÃ¡-los para mim?
 
 60
 00:03:19,110 --> 00:03:21,886
 Quando voltar, podemos ler
-artigos médicos.
+artigos mÃ©dicos.
 
 61
 00:03:27,163 --> 00:03:28,478
@@ -291,8 +291,8 @@ Solte.
 
 62
 00:03:33,018 --> 00:03:35,314
-- O enxerto está impedindo.
-- É o último.
+- O enxerto estÃ¡ impedindo.
+- Ã‰ o Ãºltimo.
 
 63
 00:03:35,315 --> 00:03:36,615
@@ -301,12 +301,12 @@ Broca.
 64
 00:03:37,578 --> 00:03:40,007
 Pupilas dilatadas.
-Pressão intracraniana subindo.
+PressÃ£o intracraniana subindo.
 
 65
 00:03:40,008 --> 00:03:41,825
-A perfusão cerebral
-está caindo.
+A perfusÃ£o cerebral
+estÃ¡ caindo.
 
 66
 00:03:41,826 --> 00:03:43,534
@@ -315,11 +315,11 @@ de hemicraniectomia.
 
 67
 00:03:43,535 --> 00:03:44,861
-Vamos sentá-la.
+Vamos sentÃ¡-la.
 
 68
 00:03:47,566 --> 00:03:49,064
-É maconha.
+Ã‰ maconha.
 
 69
 00:03:49,065 --> 00:03:50,365
@@ -327,7 +327,7 @@ Sim.
 
 70
 00:03:51,794 --> 00:03:53,460
-É maconha!
+Ã‰ maconha!
 
 71
 00:03:53,461 --> 00:03:55,377
@@ -336,8 +336,8 @@ Espere!
 
 72
 00:03:56,759 --> 00:04:01,446
-Um... para o tédio.
-Outro para náusea.
+Um... para o tÃ©dio.
+Outro para nÃ¡usea.
 
 73
 00:04:02,264 --> 00:04:03,630
@@ -345,7 +345,7 @@ Posso provar um?
 
 74
 00:04:04,283 --> 00:04:07,284
-Encontrei alguém que disse
+Encontrei alguÃ©m que disse
 que canabidiol
 
 75
@@ -358,13 +358,13 @@ Uma pessoa?
 
 77
 00:04:10,706 --> 00:04:12,690
-Encontrou alguém
+Encontrou alguÃ©m
 uma vez?
 
 78
 00:04:12,691 --> 00:04:15,159
-Shaun, já ouviu falar
-sobre o método científico?
+Shaun, jÃ¡ ouviu falar
+sobre o mÃ©todo cientÃ­fico?
 
 79
 00:04:15,160 --> 00:04:17,461
@@ -374,11 +374,11 @@ um experimento,
 80
 00:04:17,462 --> 00:04:19,697
 embora essa seja
-pouco anedótica.
+pouco anedÃ³tica.
 
 81
 00:04:19,698 --> 00:04:21,532
-Desde que esteja de férias...
+Desde que esteja de fÃ©rias...
 
 82
 00:04:21,533 --> 00:04:23,995
@@ -396,27 +396,27 @@ Pegue um.
 
 85
 00:04:44,715 --> 00:04:46,710
-Incisão cruzada extensa
-da dura-máter.
+IncisÃ£o cruzada extensa
+da dura-mÃ¡ter.
 
 86
 00:04:47,884 --> 00:04:49,610
 - Edema cerebral.
-- Bradicárdica.
+- BradicÃ¡rdica.
 
 87
 00:04:49,611 --> 00:04:52,129
 Mais 50g de manitol
-e diminua a ventilação de CO2.
+e diminua a ventilaÃ§Ã£o de CO2.
 
 88
 00:04:52,130 --> 00:04:54,590
-- Sem reflexo da córnea.
-- E ventilação no pulmão.
+- Sem reflexo da cÃ³rnea.
+- E ventilaÃ§Ã£o no pulmÃ£o.
 
 89
 00:04:54,591 --> 00:04:56,084
-Sem reação cerebral.
+Sem reaÃ§Ã£o cerebral.
 
 90
 00:04:57,622 --> 00:04:58,922
@@ -433,11 +433,11 @@ Quebrou minha janela.
 93
 00:05:23,946 --> 00:05:26,481
 Tem que descer.
-São apenas 12 metros.
+SÃ£o apenas 12 metros.
 
 94
 00:05:26,482 --> 00:05:27,915
-É uma pequena tacada.
+Ã‰ uma pequena tacada.
 
 95
 00:05:27,916 --> 00:05:29,283
@@ -463,22 +463,22 @@ Te chamarei de Smurf.
 
 100
 00:05:39,274 --> 00:05:42,563
-Smurf é...
-é bem interessante.
+Smurf Ã©...
+Ã© bem interessante.
 
 101
 00:05:42,564 --> 00:05:46,234
-Acho muito engraçado.
-Mas não é.
+Acho muito engraÃ§ado.
+Mas nÃ£o Ã©.
 
 102
 00:05:46,235 --> 00:05:47,869
-Não é.
+NÃ£o Ã©.
 Estou chapado?
 
 103
 00:05:47,870 --> 00:05:49,637
-Acho que está
+Acho que estÃ¡
 bem chapado!
 
 104
@@ -488,17 +488,17 @@ normal?
 
 105
 00:05:52,741 --> 00:05:55,977
-- Não, está agindo como chapado.
+- NÃ£o, estÃ¡ agindo como chapado.
 - Smurf.
 
 106
 00:05:55,978 --> 00:05:58,079
-- Por que Smurf é engraçado?
-- Não sei.
+- Por que Smurf Ã© engraÃ§ado?
+- NÃ£o sei.
 
 107
 00:05:58,080 --> 00:05:59,447
-É...
+Ã‰...
 
 108
 00:05:59,448 --> 00:06:02,550
@@ -507,8 +507,8 @@ do primeiro nome
 
 109
 00:06:02,551 --> 00:06:06,320
-e junte com a primeira sílaba
-do seu último nome, tá vendo?
+e junte com a primeira sÃ­laba
+do seu Ãºltimo nome, tÃ¡ vendo?
 
 110
 00:06:06,321 --> 00:06:09,290
@@ -516,25 +516,25 @@ S-S-S-Murph. Smurf.
 
 111
 00:06:09,291 --> 00:06:10,758
-Fazíamos todo hora,
+FazÃ­amos todo hora,
 na escola.
 
 112
 00:06:10,759 --> 00:06:14,081
-Então seu nome era
+EntÃ£o seu nome era
 A-Glass?
 
 113
 00:06:15,340 --> 00:06:17,594
-Isso não funciona comigo.
+Isso nÃ£o funciona comigo.
 
 114
 00:06:17,595 --> 00:06:19,066
-Sério agora...
+SÃ©rio agora...
 
 115
 00:06:19,067 --> 00:06:20,401
-qual o próximo buraco?
+qual o prÃ³ximo buraco?
 
 116
 00:06:20,402 --> 00:06:22,678
@@ -552,7 +552,7 @@ Veja o que consegue.
 
 119
 00:07:16,457 --> 00:07:18,159
-Quem é Lea?
+Quem Ã© Lea?
 
 120
 00:07:18,160 --> 00:07:19,496
@@ -576,7 +576,7 @@ Ela ainda gosta do Jack?
 
 125
 00:07:32,441 --> 00:07:34,275
-Não.
+NÃ£o.
 
 126
 00:07:34,276 --> 00:07:37,712
@@ -584,8 +584,8 @@ Ela gosta do Jake.
 
 127
 00:07:37,713 --> 00:07:41,890
-- Quem diabos é Jake?
-- Jake é o cara...
+- Quem diabos Ã© Jake?
+- Jake Ã© o cara...
 
 128
 00:07:42,538 --> 00:07:44,893
@@ -593,16 +593,16 @@ que a Lea gosta.
 
 129
 00:07:46,288 --> 00:07:48,154
-Está bem com isso?
+EstÃ¡ bem com isso?
 
 130
 00:07:49,690 --> 00:07:53,246
-Não acho
-que está bem com isso.
+NÃ£o acho
+que estÃ¡ bem com isso.
 
 131
 00:07:53,247 --> 00:07:55,315
-Acho que por isso está aqui.
+Acho que por isso estÃ¡ aqui.
 
 132
 00:07:55,316 --> 00:08:00,086
@@ -611,26 +611,26 @@ com a quimioterapia.
 
 133
 00:08:00,087 --> 00:08:02,355
-Quando um cara está chapado,
+Quando um cara estÃ¡ chapado,
 
 134
 00:08:02,356 --> 00:08:06,025
 pode dizer a outro cara
-o que está em seu coração.
+o que estÃ¡ em seu coraÃ§Ã£o.
 
 135
 00:08:06,026 --> 00:08:09,262
-Sabe, tudo que é confuso,
+Sabe, tudo que Ã© confuso,
 assustador, vergonhoso,
 
 136
 00:08:09,263 --> 00:08:13,130
 que de outro jeito ele nunca,
-jamais diria a alguém.
+jamais diria a alguÃ©m.
 
 137
 00:08:14,068 --> 00:08:15,799
-Então o que está pensando?
+EntÃ£o o que estÃ¡ pensando?
 
 138
 00:08:20,206 --> 00:08:22,875
@@ -644,16 +644,16 @@ Estava certa em insistir
 140
 00:08:42,530 --> 00:08:44,596
 que lidemos com a aorta
-antes do cérebro.
+antes do cÃ©rebro.
 
 141
 00:08:45,965 --> 00:08:47,873
-Agradeço por dizer isso.
+AgradeÃ§o por dizer isso.
 
 142
 00:08:49,469 --> 00:08:51,937
-Não deixe a culpa
-fazer você duvidar de si.
+NÃ£o deixe a culpa
+fazer vocÃª duvidar de si.
 
 143
 00:08:53,773 --> 00:08:55,842
@@ -661,16 +661,16 @@ Por que eu teria culpa?
 
 144
 00:08:55,843 --> 00:08:57,743
-Não deveria.
-É o que quero dizer.
+NÃ£o deveria.
+Ã‰ o que quero dizer.
 
 145
 00:08:59,345 --> 00:09:00,645
-Ótimo.
+Ã“timo.
 
 146
 00:09:09,889 --> 00:09:12,792
-- Estou com fome. Você está?
+- Estou com fome. VocÃª estÃ¡?
 - Acho que sim.
 
 147
@@ -680,18 +680,18 @@ sabe o que fazer?
 
 148
 00:09:14,661 --> 00:09:17,030
-Há uma lata de grão-de-bico
+HÃ¡ uma lata de grÃ£o-de-bico
 aberta na geladeira.
 
 149
 00:09:17,031 --> 00:09:18,731
 - Mallomars.
-- O que são Mal...
+- O que sÃ£o Mal...
 
 150
 00:09:18,732 --> 00:09:20,834
-O que são... o que..
-o que é Mallomar?
+O que sÃ£o... o que..
+o que Ã© Mallomar?
 
 151
 00:09:20,835 --> 00:09:24,070
@@ -709,16 +709,16 @@ Chame um Uber.
 
 154
 00:09:38,418 --> 00:09:40,320
-Os próximos dias serão cheios
+Os prÃ³ximos dias serÃ£o cheios
 
 155
 00:09:40,321 --> 00:09:42,521
 e com muitas
-decisões difíceis.
+decisÃµes difÃ­ceis.
 
 156
 00:09:44,324 --> 00:09:47,326
-Decisões que nenhum pai
+DecisÃµes que nenhum pai
 deveria ter de tomar.
 
 157
@@ -728,13 +728,13 @@ pelos aparelhos
 
 158
 00:09:52,399 --> 00:09:55,148
-- porque nós...
-- Você...
+- porque nÃ³s...
+- VocÃª...
 
 159
 00:09:56,904 --> 00:09:59,371
 quer perguntar
-sobre doação de órgãos.
+sobre doaÃ§Ã£o de Ã³rgÃ£os.
 
 160
 00:10:02,442 --> 00:10:04,076
@@ -742,17 +742,17 @@ Sim.
 
 161
 00:10:05,445 --> 00:10:08,280
-O que você quer dela?
-O coração?
+O que vocÃª quer dela?
+O coraÃ§Ã£o?
 
 162
 00:10:09,750 --> 00:10:13,820
-Infelizmente, o coração
+Infelizmente, o coraÃ§Ã£o
 foi prejudicado pelo trauma,
 
 163
 00:10:13,821 --> 00:10:15,821
-como vários outros órgãos.
+como vÃ¡rios outros Ã³rgÃ£os.
 
 164
 00:10:19,325 --> 00:10:21,527
@@ -760,8 +760,8 @@ Temos uma garota de 16 anos
 
 165
 00:10:21,528 --> 00:10:26,528
-que sofreu um acidente trágico
-há alguns anos
+que sofreu um acidente trÃ¡gico
+hÃ¡ alguns anos
 
 166
 00:10:27,401 --> 00:10:29,701
@@ -770,11 +770,11 @@ e que destruiu sua face.
 167
 00:10:30,770 --> 00:10:32,305
 E esperamos
-que talvez você...
+que talvez vocÃª...
 
 168
 00:10:32,306 --> 00:10:37,243
-Você quer tirar
+VocÃª quer tirar
 o rosto da minha filha...
 
 169
@@ -788,11 +788,11 @@ foi devastada,
 
 171
 00:10:44,952 --> 00:10:46,285
-e você tem uma chance...
+e vocÃª tem uma chance...
 
 172
 00:10:46,286 --> 00:10:47,586
-Não.
+NÃ£o.
 
 173
 00:10:49,322 --> 00:10:51,580
@@ -800,7 +800,7 @@ Desculpa, Dr. Andrews.
 
 174
 00:10:52,224 --> 00:10:53,558
-Não.
+NÃ£o.
 
 175
 00:11:03,893 --> 00:11:05,727
@@ -816,7 +816,7 @@ O lindo, nunca."
 
 178
 00:11:10,917 --> 00:11:12,534
-Parece que está julgando.
+Parece que estÃ¡ julgando.
 
 179
 00:11:12,535 --> 00:11:14,230
@@ -828,8 +828,8 @@ Justo.
 
 181
 00:11:18,539 --> 00:11:21,943
-Então acho que não viu
-os Quakes ontem à noite.
+EntÃ£o acho que nÃ£o viu
+os Quakes ontem Ã  noite.
 
 182
 00:11:21,944 --> 00:11:25,146
@@ -839,47 +839,47 @@ Seu time de casa?
 183
 00:11:25,147 --> 00:11:27,315
 Sim,
-eu sei quem são os Quakes.
+eu sei quem sÃ£o os Quakes.
 
 184
 00:11:27,316 --> 00:11:30,218
 - Eu me lembrei.
-- Não, não lembrou.
+- NÃ£o, nÃ£o lembrou.
 
 185
 00:11:30,219 --> 00:11:31,586
-Não se preocupe.
+NÃ£o se preocupe.
 
 186
 00:11:31,587 --> 00:11:33,987
 Assisto futebol suficiente
-para nós duas.
+para nÃ³s duas.
 
 187
 00:11:35,524 --> 00:11:37,292
-Eles ganharam de 3 a 2, aliás.
+Eles ganharam de 3 a 2, aliÃ¡s.
 
 188
 00:11:37,293 --> 00:11:40,063
-O gol dos acréscimos foi lindo.
+O gol dos acrÃ©scimos foi lindo.
 
 189
 00:11:48,273 --> 00:11:50,363
-Eles também não tinham.
+Eles tambÃ©m nÃ£o tinham.
 
 190
 00:11:50,364 --> 00:11:52,441
-Já fomos a todas
+JÃ¡ fomos a todas
 as grandes lojas.
 
 191
 00:11:52,442 --> 00:11:53,805
-Está 4 a 0.
+EstÃ¡ 4 a 0.
 
 192
 00:11:53,806 --> 00:11:57,264
-O próximo lugar
-é em Thornwood Drive,
+O prÃ³ximo lugar
+Ã© em Thornwood Drive,
 
 193
 00:11:57,265 --> 00:12:00,145
@@ -888,7 +888,7 @@ do Santa Teresa Boulevard.
 
 194
 00:12:00,560 --> 00:12:03,084
-- Isso é em Alamitos.
+- Isso Ã© em Alamitos.
 - Sim.
 
 195
@@ -899,54 +899,54 @@ que podemos tentar
 196
 00:12:07,327 --> 00:12:10,929
 e calculei uma rota pelo cidade
-indo no sentido anti-horário
+indo no sentido anti-horÃ¡rio
 
 197
 00:12:10,930 --> 00:12:12,758
-para evitar o trânsito.
+para evitar o trÃ¢nsito.
 
 198
 00:12:14,128 --> 00:12:16,495
 Vamos comprar
-uma caixa para você, prometo.
+uma caixa para vocÃª, prometo.
 
 199
 00:12:16,496 --> 00:12:21,045
-Sou fã de corridas longas
+Sou fÃ£ de corridas longas
 como qualquer motorista,
 
 200
 00:12:21,046 --> 00:12:23,957
-mas cobrar centenas de dólares
+mas cobrar centenas de dÃ³lares
 por uma busca sem sentido
 
 201
 00:12:23,958 --> 00:12:26,027
-está começando
-a parecer exploração.
+estÃ¡ comeÃ§ando
+a parecer exploraÃ§Ã£o.
 
 202
 00:12:26,028 --> 00:12:29,489
 O que acham de pedir uma pizza
-e nós buscamos ao ir para casa?
+e nÃ³s buscamos ao ir para casa?
 
 203
 00:12:29,490 --> 00:12:31,572
-- Não quero pizza.
-- Não quero pizza.
+- NÃ£o quero pizza.
+- NÃ£o quero pizza.
 
 204
 00:12:31,573 --> 00:12:32,953
-De que vocês gostam?
+De que vocÃªs gostam?
 
 205
 00:12:32,954 --> 00:12:35,014
 - Panquecas.
-- Não quero panquecas.
+- NÃ£o quero panquecas.
 
 206
 00:12:35,015 --> 00:12:36,577
-Não quero ir para casa.
+NÃ£o quero ir para casa.
 
 207
 00:12:42,991 --> 00:12:44,692
@@ -955,16 +955,16 @@ para que dirija.
 
 208
 00:12:46,127 --> 00:12:47,984
-Você quer esses cookies?
+VocÃª quer esses cookies?
 
 209
 00:12:48,731 --> 00:12:50,797
-Qual é o verdadeiro motivo?
+Qual Ã© o verdadeiro motivo?
 
 210
 00:12:53,301 --> 00:12:55,988
-- Você vai rir.
-- Qual é o motivo engraçado?
+- VocÃª vai rir.
+- Qual Ã© o motivo engraÃ§ado?
 
 211
 00:12:58,140 --> 00:13:00,260
@@ -977,7 +977,7 @@ Robin Demayne.
 
 213
 00:13:03,846 --> 00:13:06,105
-Último ano do colégio.
+Ãšltimo ano do colÃ©gio.
 
 214
 00:13:08,015 --> 00:13:09,980
@@ -990,16 +990,16 @@ Certo.
 216
 00:13:18,258 --> 00:13:21,050
 - Vamos procurar Mallomars?
-- Não.
+- NÃ£o.
 
 217
 00:13:21,051 --> 00:13:26,043
-Você alimenta sentimentos
-por essa garota há 40 anos.
+VocÃª alimenta sentimentos
+por essa garota hÃ¡ 40 anos.
 
 218
 00:13:26,044 --> 00:13:28,498
-Isso é uma busca relevante.
+Isso Ã© uma busca relevante.
 
 219
 00:13:28,499 --> 00:13:30,010
@@ -1011,23 +1011,23 @@ D-E?
 
 221
 00:13:36,744 --> 00:13:40,536
-Vocês tem o mesmo sexo,
-raça, idade aproximada,
+VocÃªs tem o mesmo sexo,
+raÃ§a, idade aproximada,
 
 222
 00:13:40,537 --> 00:13:42,417
-tipo sanguíneo
-e antígenos compatíveis
+tipo sanguÃ­neo
+e antÃ­genos compatÃ­veis
 
 223
 00:13:42,418 --> 00:13:46,073
 e muitas outras coisas
-que te fazem ser compatível.
+que te fazem ser compatÃ­vel.
 
 224
 00:13:46,948 --> 00:13:51,006
-E acabamos de receber permissão
-do parente próximo dela.
+E acabamos de receber permissÃ£o
+do parente prÃ³ximo dela.
 
 225
 00:13:59,935 --> 00:14:01,235
@@ -1036,12 +1036,12 @@ Sim.
 226
 00:14:16,630 --> 00:14:20,026
 A doadora vive por aparelhos,
-mas o coração está comprometido,
+mas o coraÃ§Ã£o estÃ¡ comprometido,
 
 227
 00:14:20,780 --> 00:14:23,158
-então estamos
-correndo contra o relógio.
+entÃ£o estamos
+correndo contra o relÃ³gio.
 
 228
 00:14:23,159 --> 00:14:26,058
@@ -1050,17 +1050,17 @@ todos os planos pessoais
 
 229
 00:14:26,059 --> 00:14:28,007
-e todas as esperanças de sono.
+e todas as esperanÃ§as de sono.
 
 230
 00:14:28,797 --> 00:14:31,079
-Aqui é sua casa
-pelos próximos dois dias.
+Aqui Ã© sua casa
+pelos prÃ³ximos dois dias.
 
 231
 00:14:35,970 --> 00:14:37,711
 Vamos dar um novo rosto
-à Molly.
+Ã  Molly.
 
 232
 00:14:46,298 --> 00:14:50,845
@@ -1080,16 +1080,16 @@ mais perto ainda.
 235
 00:14:55,924 --> 00:14:58,352
 Percebe o quanto
-isso é idiota?
+isso Ã© idiota?
 
 236
 00:14:59,024 --> 00:15:01,569
-Isso é uma busca.
-Uma busca nunca é idiota.
+Isso Ã© uma busca.
+Uma busca nunca Ã© idiota.
 
 237
 00:15:01,570 --> 00:15:03,872
-Busca é, por definição,
+Busca Ã©, por definiÃ§Ã£o,
 quase sempre idiota.
 
 238
@@ -1103,11 +1103,11 @@ Para dizer que a ama?
 
 240
 00:15:09,031 --> 00:15:10,856
-Eu só quero um cookie!
+Eu sÃ³ quero um cookie!
 
 241
 00:15:11,796 --> 00:15:13,424
-Eu não a amava.
+Eu nÃ£o a amava.
 
 242
 00:15:13,963 --> 00:15:15,595
@@ -1120,11 +1120,11 @@ Eu estava apaixonado.
 244
 00:15:20,111 --> 00:15:23,596
 E sempre que pensava nela,
-você ficava feliz.
+vocÃª ficava feliz.
 
 245
 00:15:23,597 --> 00:15:26,150
-E você pensava nela
+E vocÃª pensava nela
 o tempo todo.
 
 246
@@ -1134,16 +1134,16 @@ tudo acelerava, vinha tontura...
 
 247
 00:15:32,090 --> 00:15:35,409
-É assim que se sabe
-que está apaixonado?
+Ã‰ assim que se sabe
+que estÃ¡ apaixonado?
 
 248
 00:15:35,410 --> 00:15:37,278
-É assim que começa.
+Ã‰ assim que comeÃ§a.
 
 249
 00:15:37,279 --> 00:15:39,429
-E quando não está
+E quando nÃ£o estÃ¡
 com aquela pessoa,
 
 250
@@ -1159,16 +1159,16 @@ um lembrete sensorial
 252
 00:15:45,688 --> 00:15:48,279
 que talvez traga
-essas memórias de volta.
+essas memÃ³rias de volta.
 
 253
 00:15:57,335 --> 00:16:00,864
 TRANSPLANTE FACIAL
-OSTEOMIOCUTÂNEO
+OSTEOMIOCUTÃ‚NEO
 
 254
 00:16:53,603 --> 00:16:55,522
-A volta é por minha conta.
+A volta Ã© por minha conta.
 
 255
 00:16:58,882 --> 00:17:00,214
@@ -1176,7 +1176,7 @@ Flake.
 
 256
 00:17:00,215 --> 00:17:02,608
-Flake é um cara
+Flake Ã© um cara
 da minha escola.
 
 257
@@ -1200,13 +1200,13 @@ Vamos para Livermore.
 
 261
 00:17:19,215 --> 00:17:21,840
-Todo exame de laboratório
+Todo exame de laboratÃ³rio
 e de imagem que voltam,
 
 262
 00:17:21,841 --> 00:17:25,421
-reforça o fato de que é
-uma combinação em um milhão.
+reforÃ§a o fato de que Ã©
+uma combinaÃ§Ã£o em um milhÃ£o.
 
 263
 00:17:26,037 --> 00:17:27,337
@@ -1214,11 +1214,11 @@ Legal.
 
 264
 00:17:28,766 --> 00:17:30,347
-Sim, é.
+Sim, Ã©.
 
 265
 00:17:31,416 --> 00:17:33,365
-E também é muito assustador,
+E tambÃ©m Ã© muito assustador,
 
 266
 00:17:34,014 --> 00:17:36,618
@@ -1226,11 +1226,11 @@ e natural pensar duas vezes.
 
 267
 00:17:38,077 --> 00:17:39,377
-É que...
+Ã‰ que...
 
 268
 00:17:41,486 --> 00:17:44,175
-não sei como aceitar
+nÃ£o sei como aceitar
 um presente desses.
 
 269
@@ -1243,20 +1243,20 @@ a identidade...
 
 271
 00:17:50,035 --> 00:17:51,969
-O rosto é só uma máscara.
+O rosto Ã© sÃ³ uma mÃ¡scara.
 
 272
 00:17:51,970 --> 00:17:54,357
-- É...
+- Ã‰...
 - O interior que conta?
 
 273
 00:17:55,110 --> 00:17:56,469
-Sério?
+SÃ©rio?
 
 274
 00:17:57,082 --> 00:17:59,187
-Essas citações idiotas
+Essas citaÃ§Ãµes idiotas
 das quais rimos,
 
 275
@@ -1265,7 +1265,7 @@ vai falar para mim?
 
 276
 00:18:03,907 --> 00:18:05,257
-É...
+Ã‰...
 
 277
 00:18:14,961 --> 00:18:16,261
@@ -1277,28 +1277,28 @@ Agora,
 
 279
 00:18:18,440 --> 00:18:22,472
-seu rosto é a única coisa
+seu rosto Ã© a Ãºnica coisa
 que as pessoas enxergam.
 
 280
 00:18:22,773 --> 00:18:25,279
-Essa operação
+Essa operaÃ§Ã£o
 vai mudar isso.
 
 281
 00:18:25,713 --> 00:18:29,079
 Vai mostrar ao mundo
-não o seu novo rosto,
+nÃ£o o seu novo rosto,
 
 282
 00:18:30,021 --> 00:18:33,527
 mas o que sempre
-esteve por trás dele.
+esteve por trÃ¡s dele.
 
 283
 00:18:43,834 --> 00:18:46,086
 Vai valer
-para uma caneca de café?
+para uma caneca de cafÃ©?
 
 284
 00:18:50,252 --> 00:18:52,918
@@ -1307,8 +1307,8 @@ na sua antiga escola?
 
 285
 00:18:52,919 --> 00:18:56,267
-Ele era o zelador na época.
-E é agora também.
+Ele era o zelador na Ã©poca.
+E Ã© agora tambÃ©m.
 
 286
 00:18:56,268 --> 00:19:01,055
@@ -1323,7 +1323,7 @@ quando o planeta bater no sol.
 288
 00:19:09,272 --> 00:19:12,733
 - Flakey.
-- E aí, Glaaron Assman.
+- E aÃ­, Glaaron Assman.
 
 289
 00:19:12,734 --> 00:19:15,768
@@ -1337,7 +1337,7 @@ era Glaaron Assman.
 
 291
 00:19:25,132 --> 00:19:28,243
-1973, campeão estadual.
+1973, campeÃ£o estadual.
 
 292
 00:19:28,244 --> 00:19:30,985
@@ -1364,7 +1364,7 @@ Shannon?
 297
 00:20:12,196 --> 00:20:15,329
 Continuo achando
-que ela só está dormindo.
+que ela sÃ³ estÃ¡ dormindo.
 
 298
 00:20:16,919 --> 00:20:19,478
@@ -1378,7 +1378,7 @@ de Caminhada da Honra.
 300
 00:20:49,625 --> 00:20:52,444
 Para agradecer sua filha
-pelo sacrifício dela.
+pelo sacrifÃ­cio dela.
 
 301
 00:22:43,653 --> 00:22:46,245
@@ -1401,12 +1401,12 @@ e se mudou do estado.
 
 305
 00:22:54,916 --> 00:22:57,237
-Não poderia ter dito isso
+NÃ£o poderia ter dito isso
 quando liguei?
 
 306
 00:22:57,238 --> 00:22:58,844
-Eu queria ver você.
+Eu queria ver vocÃª.
 
 307
 00:22:59,994 --> 00:23:01,560
@@ -1414,7 +1414,7 @@ Eu a encontrei.
 
 308
 00:23:01,561 --> 00:23:06,065
-Robin Scaplin está em Portland,
+Robin Scaplin estÃ¡ em Portland,
 Oregon.
 
 309
@@ -1424,7 +1424,7 @@ e 27 minutos de carro.
 
 310
 00:23:12,204 --> 00:23:13,930
-Abasteça o tanque
+AbasteÃ§a o tanque
 de gasolina.
 
 311
@@ -1433,11 +1433,11 @@ Vamos para Portland.
 
 312
 00:23:37,062 --> 00:23:38,362
-Lâmina 10.
+LÃ¢mina 10.
 
 313
 00:23:48,847 --> 00:23:50,147
-Lâmina 10.
+LÃ¢mina 10.
 
 314
 00:24:04,741 --> 00:24:07,831
@@ -1446,12 +1446,12 @@ isolado e dissecado.
 
 315
 00:24:07,832 --> 00:24:10,691
-Certo. Vamos começar
+Certo. Vamos comeÃ§ar
 o trabalho pesado.
 
 316
 00:24:34,819 --> 00:24:38,951
-Pinçando a artéria carótida
+PinÃ§ando a artÃ©ria carÃ³tida
 da esquerda e direita
 
 317
@@ -1460,41 +1460,41 @@ e veias da jugular...
 
 318
 00:24:40,327 --> 00:24:43,304
-Cortando as carótidas
+Cortando as carÃ³tidas
 e as jugulares...
 
 319
 00:24:47,059 --> 00:24:48,359
-Vamos lá.
+Vamos lÃ¡.
 
 320
 00:26:03,939 --> 00:26:07,179
-É uma longa viagem
+Ã‰ uma longa viagem
 para ver uma mulher casada
 
 321
 00:26:07,180 --> 00:26:10,649
-que não encontra desde a escola
-e que pode não estar em casa.
+que nÃ£o encontra desde a escola
+e que pode nÃ£o estar em casa.
 
 322
 00:26:10,650 --> 00:26:13,681
-Ela está em casa.
-Liguei na última parada.
+Ela estÃ¡ em casa.
+Liguei na Ãºltima parada.
 
 323
 00:26:13,682 --> 00:26:16,236
 - O que ela disse?
-- "Olá."
+- "OlÃ¡."
 
 324
 00:26:16,990 --> 00:26:21,193
-- O que você disse?
+- O que vocÃª disse?
 - Nada. Ele desligou.
 
 325
 00:26:21,194 --> 00:26:22,577
-Quando você estiver sóbrio,
+Quando vocÃª estiver sÃ³brio,
 
 326
 00:26:22,578 --> 00:26:25,123
@@ -1507,7 +1507,7 @@ Provavelmente.
 328
 00:26:58,116 --> 00:27:00,818
 Como ensaiado:
-veias, artérias, nervos,
+veias, artÃ©rias, nervos,
 
 329
 00:27:00,819 --> 00:27:02,772
@@ -1522,7 +1522,7 @@ e os parafusos, por favor?
 331
 00:27:20,514 --> 00:27:23,555
 Droga. Rasguei uma parte
-da artéria da doadora.
+da artÃ©ria da doadora.
 
 332
 00:27:23,556 --> 00:27:27,293
@@ -1532,19 +1532,19 @@ da artéria da doadora.
 333
 00:27:27,294 --> 00:27:30,062
 Dra. Browne,
-os pais de Molly querem vê-la
+os pais de Molly querem vÃª-la
 
 334
 00:27:30,063 --> 00:27:31,532
-na sua próxima pausa.
+na sua prÃ³xima pausa.
 
 335
 00:27:31,533 --> 00:27:32,965
-Vá agora.
+VÃ¡ agora.
 
 336
 00:27:33,406 --> 00:27:34,706
-Você também.
+VocÃª tambÃ©m.
 
 337
 00:27:35,899 --> 00:27:37,199
@@ -1557,8 +1557,8 @@ por Robin Demayne.
 
 339
 00:28:14,859 --> 00:28:17,132
-Uma paixão
-não correspondida...
+Uma paixÃ£o
+nÃ£o correspondida...
 
 340
 00:28:17,812 --> 00:28:20,929
@@ -1567,21 +1567,21 @@ transformou-se em rancor.
 
 341
 00:28:22,443 --> 00:28:23,887
-No último dia de escola,
+No Ãºltimo dia de escola,
 
 342
 00:28:23,888 --> 00:28:27,645
-os jovens passavam os anuários,
+os jovens passavam os anuÃ¡rios,
 e eu assinei o dela
 
 343
 00:28:29,255 --> 00:28:34,114
 repleto de raiva,
-rancor e indiferença.
+rancor e indiferenÃ§a.
 
 344
 00:28:34,732 --> 00:28:37,935
-Deveria ser engraçado, mas...
+Deveria ser engraÃ§ado, mas...
 
 345
 00:28:38,583 --> 00:28:41,005
@@ -1591,12 +1591,12 @@ na verdade.
 346
 00:28:41,474 --> 00:28:45,357
 Mais tarde naquele dia,
-na cerimônia de premiação,
+na cerimÃ´nia de premiaÃ§Ã£o,
 
 347
 00:28:45,358 --> 00:28:48,457
 eu estava folheando
-o meu anuário
+o meu anuÃ¡rio
 
 348
 00:28:48,458 --> 00:28:50,264
@@ -1615,13 +1615,13 @@ no primeiro ano
 
 351
 00:28:57,805 --> 00:28:59,859
-e o fato de não ter
+e o fato de nÃ£o ter
 me chamado para sair."
 
 352
 00:29:02,882 --> 00:29:07,163
-E então,
-olhei para a multidão e a vi.
+E entÃ£o,
+olhei para a multidÃ£o e a vi.
 
 353
 00:29:08,378 --> 00:29:09,941
@@ -1636,7 +1636,7 @@ obviamente muito magoada.
 355
 00:29:14,894 --> 00:29:17,856
 E naquele exato momento,
-fui receber meu prêmio.
+fui receber meu prÃªmio.
 
 356
 00:29:19,909 --> 00:29:23,421
@@ -1645,13 +1645,13 @@ mas nunca mais a vi.
 
 357
 00:29:25,747 --> 00:29:29,581
-Essa é parte assustadora,
+Essa Ã© parte assustadora,
 confusa e vergonhosa
 
 358
 00:29:29,582 --> 00:29:31,786
 que os caras nunca
-dizem a ninguém?
+dizem a ninguÃ©m?
 
 359
 00:29:35,245 --> 00:29:36,550
@@ -1663,7 +1663,7 @@ Dean e Lori?
 
 361
 00:29:46,042 --> 00:29:47,815
-Essa é a Shannon.
+Essa Ã© a Shannon.
 
 362
 00:29:51,608 --> 00:29:53,507
@@ -1680,7 +1680,7 @@ tudo.
 
 365
 00:29:58,307 --> 00:30:00,602
-Se não se importar,
+Se nÃ£o se importar,
 temos algumas perguntas
 
 366
@@ -1689,7 +1689,7 @@ sobre a sua filha.
 
 367
 00:30:02,160 --> 00:30:05,144
-Gostaríamos de saber
+GostarÃ­amos de saber
 o que ela gosta,
 
 368
@@ -1698,7 +1698,7 @@ o que gostava de fazer.
 
 369
 00:30:07,407 --> 00:30:09,857
-A Molly também quer saber.
+A Molly tambÃ©m quer saber.
 
 370
 00:30:19,101 --> 00:30:20,771
@@ -1711,36 +1711,36 @@ E eu a matei.
 372
 00:30:34,428 --> 00:30:36,299
 Deveria te dizer
-para voltar para lá.
+para voltar para lÃ¡.
 
 373
 00:30:39,639 --> 00:30:42,579
-- Não o deixe te afetar.
-- Não é ele, é você.
+- NÃ£o o deixe te afetar.
+- NÃ£o Ã© ele, Ã© vocÃª.
 
 374
 00:30:44,249 --> 00:30:46,776
 Seu conselho
-sobre eu não duvidar de mim,
+sobre eu nÃ£o duvidar de mim,
 
 375
 00:30:46,777 --> 00:30:49,343
-está me fazendo achar
-que está duvidando de si.
+estÃ¡ me fazendo achar
+que estÃ¡ duvidando de si.
 
 376
 00:30:49,344 --> 00:30:50,645
-Sobre o quê?
+Sobre o quÃª?
 
 377
 00:30:50,646 --> 00:30:53,097
 Insistiu em cuidarmos
-do coração antes do cérebro.
+do coraÃ§Ã£o antes do cÃ©rebro.
 
 378
 00:30:53,098 --> 00:30:55,024
-E você não me questionou.
-Por quê?
+E vocÃª nÃ£o me questionou.
+Por quÃª?
 
 379
 00:30:55,025 --> 00:30:56,944
@@ -1749,8 +1749,8 @@ Por quê?
 
 380
 00:30:56,945 --> 00:31:00,011
-Nunca achou que alguém
-tivesse razão em uma SO
+Nunca achou que alguÃ©m
+tivesse razÃ£o em uma SO
 
 381
 00:31:00,012 --> 00:31:01,808
@@ -1758,8 +1758,8 @@ desde que entrou em uma.
 
 382
 00:31:01,809 --> 00:31:04,097
-Deu para trás
-só porque estamos transando.
+Deu para trÃ¡s
+sÃ³ porque estamos transando.
 
 383
 00:31:16,450 --> 00:31:18,579
@@ -1769,12 +1769,12 @@ foi minha culpa.
 384
 00:31:19,526 --> 00:31:22,149
 Foi ideia minha
-sair tão cedo.
+sair tÃ£o cedo.
 
 385
 00:31:22,774 --> 00:31:25,231
-Foi ideia minha deixá-la
-dormir no banco de trás.
+Foi ideia minha deixÃ¡-la
+dormir no banco de trÃ¡s.
 
 386
 00:31:26,703 --> 00:31:29,764
@@ -1788,20 +1788,20 @@ Nada disso importaria,
 388
 00:31:33,913 --> 00:31:36,530
 se o caminhoneiro
-não tivesse dormido.
+nÃ£o tivesse dormido.
 
 389
 00:31:37,543 --> 00:31:39,612
-É natural se sentir culpada,
+Ã‰ natural se sentir culpada,
 
 390
 00:31:39,613 --> 00:31:42,393
 mas tem que entender
-que não foi sua culpa.
+que nÃ£o foi sua culpa.
 
 391
 00:31:44,173 --> 00:31:46,263
-Não funciona assim,
+NÃ£o funciona assim,
 Dra. Browne.
 
 392
@@ -1816,7 +1816,7 @@ um acidente bizarro,
 
 394
 00:31:54,587 --> 00:31:59,023
-ou que a Molly sabia que não era
+ou que a Molly sabia que nÃ£o era
 para pegar naquilo, mas...
 
 395
@@ -1825,16 +1825,16 @@ foi minha culpa.
 
 396
 00:32:03,168 --> 00:32:04,779
-Eu tinha uma função...
+Eu tinha uma funÃ§Ã£o...
 
 397
 00:32:06,498 --> 00:32:08,939
 que era proteger
-a minha família.
+a minha famÃ­lia.
 
 398
 00:32:10,784 --> 00:32:12,408
-E eu não a exerci direito.
+E eu nÃ£o a exerci direito.
 
 399
 00:32:14,079 --> 00:32:16,148
@@ -1851,15 +1851,15 @@ algum significado...
 
 402
 00:32:21,499 --> 00:32:22,901
-Mas não existe.
+Mas nÃ£o existe.
 
 403
 00:32:28,127 --> 00:32:29,802
-Então, sua filha...
+EntÃ£o, sua filha...
 
 404
 00:32:31,967 --> 00:32:33,794
-fez isso por nós.
+fez isso por nÃ³s.
 
 405
 00:32:54,260 --> 00:32:55,660
@@ -1872,7 +1872,7 @@ Aaron?
 407
 00:33:13,786 --> 00:33:16,016
 Ele era apaixonado
-por você.
+por vocÃª.
 
 408
 00:33:19,046 --> 00:33:20,346
@@ -1880,7 +1880,7 @@ Sim...
 
 409
 00:33:21,110 --> 00:33:23,566
-Não estou aqui por isso,
+NÃ£o estou aqui por isso,
 eu acho.
 
 410
@@ -1890,11 +1890,11 @@ Estou aqui para me desculpar.
 411
 00:33:29,382 --> 00:33:31,342
 Pelo que escrevi
-no seu anuário.
+no seu anuÃ¡rio.
 
 412
 00:33:32,021 --> 00:33:33,350
-Anuário?
+AnuÃ¡rio?
 
 413
 00:33:35,341 --> 00:33:36,641
@@ -1911,7 +1911,7 @@ mentiroso e idiota.
 
 416
 00:33:50,515 --> 00:33:53,394
-Então,
+EntÃ£o,
 li o que escreveu no meu.
 
 417
@@ -1921,7 +1921,7 @@ O que eu escrevi?
 418
 00:34:00,832 --> 00:34:04,508
 O corte de cabelo dela
-era horrível no primeiro ano.
+era horrÃ­vel no primeiro ano.
 
 419
 00:34:05,512 --> 00:34:07,539
@@ -1929,7 +1929,7 @@ Eu me lembro disso.
 
 420
 00:34:09,671 --> 00:34:12,049
-Sim, foi há muito tempo.
+Sim, foi hÃ¡ muito tempo.
 
 421
 00:34:12,370 --> 00:34:16,150
@@ -1963,16 +1963,16 @@ e da receptora alinhados.
 
 428
 00:34:50,865 --> 00:34:53,836
-- Os da esquerda também.
+- Os da esquerda tambÃ©m.
 - Vamos ver se funciona.
 
 429
 00:34:53,837 --> 00:34:55,180
-Tire as pinças, por favor.
+Tire as pinÃ§as, por favor.
 
 430
 00:34:59,858 --> 00:35:01,242
-Ela está ficando rosada.
+Ela estÃ¡ ficando rosada.
 
 431
 00:35:11,308 --> 00:35:14,231
@@ -1981,11 +1981,11 @@ motoras e sensoriais.
 
 432
 00:35:58,771 --> 00:36:00,194
-Como está nossa menina?
+Como estÃ¡ nossa menina?
 
 433
 00:36:00,495 --> 00:36:02,616
-Ela está acordando agora.
+Ela estÃ¡ acordando agora.
 
 434
 00:36:08,484 --> 00:36:09,784
@@ -1993,15 +1993,15 @@ Oi, Molly.
 
 435
 00:36:11,189 --> 00:36:12,512
-Como está se sentindo?
+Como estÃ¡ se sentindo?
 
 436
 00:36:12,513 --> 00:36:13,813
-Terrível.
+TerrÃ­vel.
 
 437
 00:36:14,586 --> 00:36:16,690
-Então está tudo certo.
+EntÃ£o estÃ¡ tudo certo.
 
 438
 00:36:16,991 --> 00:36:18,317
@@ -2009,7 +2009,7 @@ Quer dar uma olhada?
 
 439
 00:36:19,564 --> 00:36:20,864
-Não.
+NÃ£o.
 
 440
 00:36:21,259 --> 00:36:22,559
@@ -2030,17 +2030,17 @@ para uma estranha.
 
 444
 00:36:34,475 --> 00:36:36,037
-Mas não é para sempre.
+Mas nÃ£o Ã© para sempre.
 
 445
 00:36:36,765 --> 00:36:40,809
-Porque ninguém ri,
-ou segura a cabeça,
+Porque ninguÃ©m ri,
+ou segura a cabeÃ§a,
 
 446
 00:36:40,810 --> 00:36:45,006
-ou olha alguém nos olhos
-como você faz.
+ou olha alguÃ©m nos olhos
+como vocÃª faz.
 
 447
 00:36:52,045 --> 00:36:53,345
@@ -2048,7 +2048,7 @@ Tudo bem.
 
 448
 00:37:43,979 --> 00:37:45,335
-Peço desculpas.
+PeÃ§o desculpas.
 
 449
 00:37:45,742 --> 00:37:49,468
@@ -2066,26 +2066,26 @@ de duvidar de si mesmo,
 
 452
 00:37:56,557 --> 00:37:59,650
-é porque estou fazendo
+Ã© porque estou fazendo
 o mesmo.
 
 453
 00:38:00,913 --> 00:38:03,467
-Nossa relação
-me faz questionar tudo que faço
+Nossa relaÃ§Ã£o
+me faz questionar tudo que faÃ§o
 
 454
 00:38:03,468 --> 00:38:05,055
-e tudo o que você faz.
+e tudo o que vocÃª faz.
 
 455
 00:38:05,056 --> 00:38:07,696
-Está deixando tudo
+EstÃ¡ deixando tudo
 mais complicado do que precisa.
 
 456
 00:38:07,697 --> 00:38:09,477
-É complicado.
+Ã‰ complicado.
 
 457
 00:38:09,821 --> 00:38:11,257
@@ -2094,21 +2094,21 @@ O fato de estarmos juntos
 458
 00:38:11,258 --> 00:38:14,173
 muda o contexto
-de todas nossas interações.
+de todas nossas interaÃ§Ãµes.
 
 459
 00:38:16,275 --> 00:38:18,977
-Acho que é por isso
-que há regras contra isso.
+Acho que Ã© por isso
+que hÃ¡ regras contra isso.
 
 460
 00:38:23,508 --> 00:38:26,511
 Posso continuar sendo babaca
-com você no trabalho,
+com vocÃª no trabalho,
 
 461
 00:38:26,512 --> 00:38:27,812
-se é o que quer.
+se Ã© o que quer.
 
 462
 00:38:31,995 --> 00:38:33,522
@@ -2116,21 +2116,21 @@ Acha que devemos terminar?
 
 463
 00:38:38,691 --> 00:38:39,991
-Não.
+NÃ£o.
 
 464
 00:38:50,059 --> 00:38:51,359
-Te vejo amanhã.
+Te vejo amanhÃ£.
 
 465
 00:38:59,004 --> 00:39:02,466
-Então, quando estiver
+EntÃ£o, quando estiver
 menos tonta,
 
 466
 00:39:02,467 --> 00:39:04,650
 vamos te colocar
-em várias terapias,
+em vÃ¡rias terapias,
 
 467
 00:39:04,651 --> 00:39:08,087
@@ -2147,7 +2147,7 @@ Por favor, entre.
 
 470
 00:39:17,987 --> 00:39:19,290
-Sou a mãe da Karin.
+Sou a mÃ£e da Karin.
 
 471
 00:39:20,472 --> 00:39:21,772
@@ -2155,7 +2155,7 @@ Oi.
 
 472
 00:39:25,188 --> 00:39:27,089
-Trouxe algo para você.
+Trouxe algo para vocÃª.
 
 473
 00:40:00,276 --> 00:40:01,897
@@ -2180,7 +2180,7 @@ Eu gostaria de dizer adeus.
 
 478
 00:41:00,303 --> 00:41:02,226
-Vamos limpar amanhã.
+Vamos limpar amanhÃ£.
 
 479
 00:41:02,803 --> 00:41:04,770
@@ -2188,21 +2188,21 @@ E comprar um vaso novo.
 
 480
 00:41:04,771 --> 00:41:07,005
-É, comprar um novo vaso
-é fácil.
+Ã‰, comprar um novo vaso
+Ã© fÃ¡cil.
 
 481
 00:41:09,018 --> 00:41:12,121
 Aspirar as cinzas
-da minha avó,
+da minha avÃ³,
 
 482
 00:41:12,122 --> 00:41:13,678
-não é tão fácil.
+nÃ£o Ã© tÃ£o fÃ¡cil.
 
 483
 00:41:15,181 --> 00:41:17,567
-Está feliz
+EstÃ¡ feliz
 por ter pedido desculpas?
 
 484
@@ -2225,7 +2225,7 @@ se faz as pessoas ficarem mal
 488
 00:41:31,804 --> 00:41:34,144
 sobre algo
-que não podem consertar.
+que nÃ£o podem consertar.
 
 489
 00:41:35,387 --> 00:41:37,269
@@ -2234,15 +2234,15 @@ Ou talvez um impeditivo
 490
 00:41:37,270 --> 00:41:39,464
 para fazermos o certo
-da próxima vez.
+da prÃ³xima vez.
 
 491
 00:41:44,276 --> 00:41:45,972
-Você amava a Robin,
+VocÃª amava a Robin,
 
 492
 00:41:46,763 --> 00:41:49,445
-mas não podia ficar com ela.
+mas nÃ£o podia ficar com ela.
 
 493
 00:41:49,446 --> 00:41:51,181
@@ -2255,7 +2255,7 @@ Nem por um segundo.
 
 495
 00:41:56,396 --> 00:42:01,128
-Não estou bem
+NÃ£o estou bem
 com a Lea a fim Jake.
 
 496
